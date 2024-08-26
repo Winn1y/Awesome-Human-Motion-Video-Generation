@@ -19,6 +19,33 @@
 
 ---
 
+<details><summary>🎁 >>>>>>>> [English Introduction] <<<<<<<<<< </summary>
+
+
+> This project provides a thorough summary of the latest advancements in the field of 2D digital human motion video generation, covering papers, datasets, and code repositories.
+> 
+> The repository is organized into three main conditions: Vision-driven, Text-driven, and Audio-driven, while also considering LLM Planning Papers.
+>
+> Unlike previous summaries, this project clearly outlines the five key stages in the field of digital human video generation:
+> 
+> 🌑 Stage 1: Input Phase. Clarifying the driving source (Vision, Text, Audio) and driving region (Part, Holistic), where "Part" mainly refers to the face;
+> 
+> 🌒 Stage 2: Motion planning Phase. Most work involves feature mapping to learn motion mappings, while a few works use large language models (LLMs) for motion planning;
+> 
+> 🌓 Stage 3: Motion Video Generation Phase;
+> 
+> 🌔 Stage 4: Video Refinement Phase, focusing on optimizing specific parts such as the face, lips, teeth, and hands;
+> 
+> 🌕 Stage 5: Acceleration Phase, aiming to speed up training and deployment inference as much as possible, with the goal of achieving real-time output.
+> 
+> 🎉 We welcome everyone to contribute your research and submit PRs to collectively advance the technology of human motion video generation. 
+> 
+> If you have any questions, feel free to contact us at (**WinniyGD@outlook.com**), and we will respond as soon as possible. Additionally, we warmly welcome new members from related fields to join us, learn together, and make endless progress!
+
+</details>
+
+
+
 <details><summary>🏆 >>>>>>>> [🧡中文简要介绍💜] <<<<<<<<<< </summary>
 
 <br>
@@ -68,32 +95,6 @@
 
 </details>
 
-
-<details><summary>🎁 >>>>>>>> [English Introduction] <<<<<<<<<< </summary>
-
-
-> This project provides a thorough summary of the latest advancements in the field of 2D digital human motion video generation, covering papers, datasets, and code repositories.
-> 
-> The repository is organized into three main conditions: Vision-driven, Text-driven, and Audio-driven, while also considering LLM Planning Papers.
->
-> Unlike previous summaries, this project clearly outlines the five key stages in the field of digital human video generation:
-> 
-> 🌑 Stage 1: Input Phase. Clarifying the driving source (Vision, Text, Audio) and driving region (Part, Holistic), where "Part" mainly refers to the face;
-> 
-> 🌒 Stage 2: Motion planning Phase. Most work involves feature mapping to learn motion mappings, while a few works use large language models (LLMs) for motion planning;
-> 
-> 🌓 Stage 3: Motion Video Generation Phase;
-> 
-> 🌔 Stage 4: Video Refinement Phase, focusing on optimizing specific parts such as the face, lips, teeth, and hands;
-> 
-> 🌕 Stage 5: Acceleration Phase, aiming to speed up training and deployment inference as much as possible, with the goal of achieving real-time output.
-> 
-> 🎉 We welcome everyone to contribute your research and submit PRs to collectively advance the technology of human motion video generation. 
-> 
-> If you have any questions, feel free to contact us at (**WinniyGD@outlook.com**), and we will respond as soon as possible. Additionally, we warmly welcome new members from related fields to join us, learn together, and make endless progress!
-
-</details>
-
 ---
 
 <p align="center">
@@ -140,23 +141,30 @@ dimension that has been underexplored in existing reviews.
 
 ![Timeline](assets/time.png)
 
+## 💙 News
+
+**[2024/08/26] [V1.1 Vision](https://github.com/Winn1y/Awesome-Human-Motion-Video-Generation): Update G3FA Method (Vision, Portrait Animation)**
+
+[2024/08/21] V1.0 Vision: Initialize the repository. If you find it helpful to you, welcome to star and share our work.
+
 ## Vision Guidance
 
-<details><summary>Part (Face) || Portrait Animation</summary>
+<details open><summary>Part (Face) || Portrait Animation</summary>
 
 
-|    Date    |                                       Title                                       |                                          arXiv Link                                         |        Motion       |     Backbone    |                    Venue                   |
-|:----------:|:---------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------:|:-------------------:|:---------------:|:------------------------------------------:|
-| 2024 06 04 |  Follow-Your-Emoji: Fine-Controllable and Expressive Freestyle Portrait Animation | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2406.01900) |       KeyPoint      | Diffusion Model |              SIGGRAPH ASIA2024             |
-| 2024 07 05 | LivePortrait: Efficient Portrait Animation with Stitching and Retargeting Control | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2407.03168) |       KeyPoint      | Encoder-Decoder |                    arXiv                   |
-| 2024 07 09 |      MobilePortrait: Real-Time One-Shot Neural Head Avatars on Mobile Devices     | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2407.05712) |       KeyPoint      | Diffusion Model |                    arXiv                   |
-| 2023 10 16 |      Expression Domain Translation Network for Cross-domain Head Reenactment      | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2310.10073) | 3D Parameterization | Encoder-Decoder |                 ICASSP 2024                |
-| 2023 03 26 |   OTAvatar : One-shot Talking Face Avatar with Controllable Tri-plane Rendering   | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2303.14662) | 3D Parameterization | Encoder-Decoder |                  CVPR 2023                 |
-| 2023 03 27 |             OmniAvatar: Geometry-Guided Controllable 3D Head Synthesis            | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2303.15539) |        Latent       |       GAN       |                  CVPR 2023                 |
-| 2023 12 04 |        Unsupervised High-Resolution Portrait Gaze Correction and Animation        | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2207.00256) |        Latent       |       GAN       | IEEE Transactions on Image Processing 2022 |
-| 2024 06 08 |       MegActor: Harness the Power of Raw Video for Vivid Portrait Animation       | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2405.20851) |        Latent       | Diffusion Model |                    arXiv                   |
-| 2024 05 31 |    X-Portrait: Expressive Portrait Animation with Hierarchical Motion Attention   | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2403.15931) |        Latent       | Diffusion Model |              ACM SIGGRAPH 2024             |
-| 2024 03 23 |                   FaceOff: A Video-to-Video Face Swapping System                  | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2208.09788) |        Latent       | Encoder-Decoder |                  WACV 2023                 |
+|  **Date**  	|                                     **Title**                                     	|                                        **arXiv Link**                                       	| **Motion  Representation** 	|   **Backbone**  	|                  **Venue**                 	|
+|:----------:	|:---------------------------------------------------------------------------------:	|:-------------------------------------------------------------------------------------------:	|:--------------------------:	|:---------------:	|:------------------------------------------:	|
+| 2024 06 04 	|  Follow-Your-Emoji: Fine-Controllable and Expressive Freestyle Portrait Animation 	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2406.01900) 	|          KeyPoint          	| Diffusion Model 	|              SIGGRAPH ASIA2024             	|
+| 2024 07 05 	| LivePortrait: Efficient Portrait Animation with Stitching and Retargeting Control 	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2407.03168) 	|          KeyPoint          	| Encoder-Decoder 	|                    arXiv                   	|
+| 2024 07 09 	|      MobilePortrait: Real-Time One-Shot Neural Head Avatars on Mobile Devices     	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2407.05712) 	|          KeyPoint          	| Diffusion Model 	|                    arXiv                   	|
+| 2023 10 16 	|      Expression Domain Translation Network for Cross-domain Head Reenactment      	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2310.10073) 	|     3D Parameterization    	| Encoder-Decoder 	|                 ICASSP 2024                	|
+| 2023 03 26 	|   OTAvatar : One-shot Talking Face Avatar with Controllable Tri-plane Rendering   	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2303.14662) 	|     3D Parameterization    	| Encoder-Decoder 	|                  CVPR 2023                 	|
+| 2023 03 27 	|             OmniAvatar: Geometry-Guided Controllable 3D Head Synthesis            	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2303.15539) 	|           Latent           	|       GAN       	|                  CVPR 2023                 	|
+| 2023 12 04 	|        Unsupervised High-Resolution Portrait Gaze Correction and Animation        	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2207.00256) 	|           Latent           	|       GAN       	| IEEE Transactions on Image Processing 2022 	|
+| 2024 06 08 	|       MegActor: Harness the Power of Raw Video for Vivid Portrait Animation       	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2405.20851) 	|           Latent           	| Diffusion Model 	|                    arXiv                   	|
+| 2024 05 31 	|    X-Portrait: Expressive Portrait Animation with Hierarchical Motion Attention   	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2403.15931) 	|           Latent           	| Diffusion Model 	|              ACM SIGGRAPH 2024             	|
+| 2024 08 26 	|                    G3FA: Geometry-guided GAN for Face Animation                   	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2408.13049) 	|           Latent           	|       GAN       	|                    arXiv                   	|
+| 2024 03 23 	|                   FaceOff: A Video-to-Video Face Swapping System                  	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2208.09788) 	|           Latent           	| Encoder-Decoder 	|                  WACV 2023                 	|
 
 </details>
 
@@ -271,7 +279,7 @@ dimension that has been underexplored in existing reviews.
 
 ## Text Guidance
 
-<details><summary>Part (Face) || Text2Face</summary>
+<details open><summary>Part (Face) || Text2Face</summary>
 
 |  **Date**  	|                                                        **Title**                                                        	|                                        **arXiv Link**                                       	| **Motion  Representation** 	|   **Backbone**  	|   **Venue**  	|
 |:----------:	|:-----------------------------------------------------------------------------------------------------------------------:	|:-------------------------------------------------------------------------------------------:	|:--------------------------:	|:---------------:	|:------------:	|
@@ -337,7 +345,7 @@ dimension that has been underexplored in existing reviews.
 
 ## Audio Guidance
 
-<details><summary>Part (Face) || Lip Synchronization</summary>
+<details open><summary>Part (Face) || Lip Synchronization</summary>
 
 |  **Date**  	|                                   **Title**                                   	|                                              **arXiv Link**                                             	| **Motion  Representation** 	|   **Backbone**  	| **Venue** 	|
 |:----------:	|:-----------------------------------------------------------------------------:	|:-------------------------------------------------------------------------------------------------------:	|:--------------------------:	|:---------------:	|:---------:	|
@@ -506,7 +514,7 @@ Contributions are welcome! Please feel free to create an issue or open a pull re
       </tr>
     <tr>
        <td align="center" valign="top" width="14.28%"><a href="https://github.com/XinZhang0526"><img src="https://avatars.githubusercontent.com/u/148513034?v=4" width="100px;" alt="Xin Zhang"/><br /><sub><b>Xin Zhang</b></sub></a><br /><a href="https://github.com/XinZhang0526" title="Bug reports">😘🎪</a> <a href="https://github.com/XinZhang0526" title="Code">😍</a></td>
-       <td align="center" valign="top" width="14.28%"><a href="https://github.com/xunzhi99"><img src="https://avatars.githubusercontent.com/u/163385641?v=4" width="100px;" alt="Xunzhi Xiang"/><br /><sub><b>Xunzhi Xiang</b></sub></a><br /><a href="https://github.com/xunzhi99" title="Bug reports">🛴</a> <a href="https://github.com/xunzhi99" title="Code">😍</a></td>
+       <td align="center" valign="top" width="14.28%"><a href="https://github.com/xunzhi99"><img src="https://avatars.githubusercontent.com/u/163385641?v=4" width="100px;" alt="Xunzhi Xiang"/><br /><sub><b>Xunzhi Xiang</b></sub></a><br /><a href="https://github.com/xunzhi99" title="Bug reports">🚄</a> <a href="https://github.com/xunzhi99" title="Code">😍</a></td>
        <td align="center" valign="top" width="14.28%"><a href="https://da1yuqin.github.io"><img src="https://avatars.githubusercontent.com/u/139312004?v=4" width="100px;" alt="Yuqin Dai"/><br /><sub><b>Yuqin Dai</b></sub></a><br /><a href="https://da1yuqin.github.io" title="Bug reports">😘</a> <a href="https://da1yuqin.github.io" title="Code">👸</a></td>
     </tr>
   </tbody>
