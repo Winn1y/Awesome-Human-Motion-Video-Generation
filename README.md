@@ -12,9 +12,9 @@
 <img src='https://img.shields.io/badge/arXiv-PDF-green?style=flat&logo=arXiv&logoColor=green' alt='arXiv PDF'>
 </a>
 <img src='https://img.shields.io/badge/Awesome Survey-8A2BE2' alt='Survey'>
-<img src='https://img.shields.io/badge/Related Work-214+ Papers-blue' alt='MorePapers'>
+<img src='https://img.shields.io/badge/Related Work-146+ Papers and 64+ Datasets-blue' alt='MorePapers'>
 <br>
-<img src='https://img.shields.io/badge/Update 🔥-2024.08.21-red' alt='MorePapers'>
+<img src='https://img.shields.io/badge/Update 🔥-2024.08.27-red' alt='MorePapers'>
 
 
 ---
@@ -143,7 +143,9 @@ dimension that has been underexplored in existing reviews.
 
 ## 💙 News
 
-**[2024/08/26] [V1.1 Vision](https://github.com/Winn1y/Awesome-Human-Motion-Video-Generation): Update G3FA Method (Vision, Portrait Animation)**
+**[2024/08/27] [V1.2 Vision](https://github.com/Winn1y/Awesome-Human-Motion-Video-Generation): Update GenCA Method (Text, Text2Face)**
+
+[2024/08/26] [V1.1 Vision](https://github.com/Winn1y/Awesome-Human-Motion-Video-Generation/tree/1.1): Update G3FA Method (Vision, Portrait Animation)
 
 [2024/08/21] V1.0 Vision: Initialize the repository. If you find it helpful to you, welcome to star and share our work.
 
@@ -281,6 +283,7 @@ dimension that has been underexplored in existing reviews.
 
 <details open><summary>Part (Face) || Text2Face</summary>
 
+
 |  **Date**  	|                                                        **Title**                                                        	|                                        **arXiv Link**                                       	| **Motion  Representation** 	|   **Backbone**  	|   **Venue**  	|
 |:----------:	|:-----------------------------------------------------------------------------------------------------------------------:	|:-------------------------------------------------------------------------------------------:	|:--------------------------:	|:---------------:	|:------------:	|
 | 2021 05 07 	|                       Write-a-speaker: Text-based Emotional and Rhythmic Talking-head Generation                        	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2104.07995) 	|          KeyPoint          	|       GAN       	|   AAAI 2021  	|
@@ -289,7 +292,9 @@ dimension that has been underexplored in existing reviews.
 | 2024 04 23 	|                            ID-Animator: Zero-Shot Identity-Preserving Human Video Generation                            	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2404.15275) 	|           Latent           	| Diffusion Model 	|     arXiv    	|
 | 2023 12 09 	|                              FT2TF: First-Person Statement Text-To-Talking Face Generation                              	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2312.05430) 	|           Latent           	| Encoder-Decoder 	|     arXiv    	|
 | 2024 05 16 	|                         Faces that Speak: Jointly Synthesising Talking Face and Speech from Text                        	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2405.10272) 	|           Latent           	|       GAN       	|   CVPR 2024  	|
+| 2024 08 27 	|                   GenCA: A Text-conditioned Generative Model for Realistic and Drivable Codec Avatars                   	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2408.13674) 	|     3D Parameterization    	| Encoder-Decoder 	|     arXiv    	|
 | 2020 03 01 	|                                        Towards Automatic Face-to-Face Translation                                       	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2003.00418) 	|           Latent           	| Encoder-Decoder 	|  ACM MM 2019 	|
+
 
 </details>
 
@@ -460,7 +465,7 @@ dimension that has been underexplored in existing reviews.
 
 ## LLM for Motion Planning
 
-<details><summary>LLM for 2D</summary>
+<details open><summary>LLM for 2D</summary>
 
 |  **Date**  	|                                    **Title**                                   	|                                        **arXiv Link**                                       	| **Motion  Representation** 	|   **Backbone**  	|  **Tasks**  	| **Venue** 	|
 |:----------:	|:------------------------------------------------------------------------------:	|:-------------------------------------------------------------------------------------------:	|:--------------------------:	|:---------------:	|:-----------:	|:---------:	|
