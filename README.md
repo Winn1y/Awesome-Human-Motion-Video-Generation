@@ -12,9 +12,9 @@
 <img src='https://img.shields.io/badge/arXiv-PDF-green?style=flat&logo=arXiv&logoColor=green' alt='arXiv PDF'>
 </a>
 <img src='https://img.shields.io/badge/Awesome Survey-8A2BE2' alt='Survey'>
-<img src='https://img.shields.io/badge/Related Work-146+ Papers and 64+ Datasets-blue' alt='MorePapers'>
+<img src='https://img.shields.io/badge/Related Work-148+ Papers and 64+ Datasets-blue' alt='MorePapers'>
 <br>
-<img src='https://img.shields.io/badge/Update 🔥-2024.08.27-red' alt='MorePapers'>
+<img src='https://img.shields.io/badge/Update 🔥-2024.08.28-red' alt='MorePapers'>
 
 
 ---
@@ -143,9 +143,11 @@ dimension that has been underexplored in existing reviews.
 
 ## 💙 News
 
-**[2024/08/27] [V1.2 Vision](https://github.com/Winn1y/Awesome-Human-Motion-Video-Generation): Update GenCA Method (Text, Text2Face)**
+**[2024/08/28] [V1.3 Vision](https://github.com/Winn1y/Awesome-Human-Motion-Video-Generation): Update MegActor-Σ  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2408.14975)  and Rafael Azevedo et al. [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2408.15159)  Method (Audio & Text)**
 
-[2024/08/26] [V1.1 Vision](https://github.com/Winn1y/Awesome-Human-Motion-Video-Generation/tree/1.1): Update G3FA Method (Vision, Portrait Animation)
+[2024/08/27] [V1.2 Vision](https://github.com/Winn1y/Awesome-Human-Motion-Video-Generation/tree/1.2): Update GenCA [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2408.13674) Method (Text, Text2Face)
+
+[2024/08/26] [V1.1 Vision](https://github.com/Winn1y/Awesome-Human-Motion-Video-Generation/tree/1.1): Update G3FA [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2408.13049) Method (Vision, Portrait Animation)
 
 [2024/08/21] V1.0 Vision: Initialize the repository. If you find it helpful to you, welcome to star and share our work.
 
@@ -283,7 +285,6 @@ dimension that has been underexplored in existing reviews.
 
 <details open><summary>Part (Face) || Text2Face</summary>
 
-
 |  **Date**  	|                                                        **Title**                                                        	|                                        **arXiv Link**                                       	| **Motion  Representation** 	|   **Backbone**  	|   **Venue**  	|
 |:----------:	|:-----------------------------------------------------------------------------------------------------------------------:	|:-------------------------------------------------------------------------------------------:	|:--------------------------:	|:---------------:	|:------------:	|
 | 2021 05 07 	|                       Write-a-speaker: Text-based Emotional and Rhythmic Talking-head Generation                        	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2104.07995) 	|          KeyPoint          	|       GAN       	|   AAAI 2021  	|
@@ -293,6 +294,7 @@ dimension that has been underexplored in existing reviews.
 | 2023 12 09 	|                              FT2TF: First-Person Statement Text-To-Talking Face Generation                              	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2312.05430) 	|           Latent           	| Encoder-Decoder 	|     arXiv    	|
 | 2024 05 16 	|                         Faces that Speak: Jointly Synthesising Talking Face and Speech from Text                        	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2405.10272) 	|           Latent           	|       GAN       	|   CVPR 2024  	|
 | 2024 08 27 	|                   GenCA: A Text-conditioned Generative Model for Realistic and Drivable Codec Avatars                   	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2408.13674) 	|     3D Parameterization    	| Encoder-Decoder 	|     arXiv    	|
+| 2024 08 28 	|       Empowering Sign Language Communication: Integrating Sentiment and Semantics for Facial Expression Synthesis       	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2408.15159) 	|          KeyPoint          	| Diffusion Model 	|     arXiv    	|
 | 2020 03 01 	|                                        Towards Automatic Face-to-Face Translation                                       	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2003.00418) 	|           Latent           	| Encoder-Decoder 	|  ACM MM 2019 	|
 
 
@@ -376,7 +378,7 @@ dimension that has been underexplored in existing reviews.
 
 
 
-<details><summary>Part (Face) || Head Pose Driving</summary>
+<details open><summary>Part (Face) || Head Pose Driving</summary>
 
 |  **Date**  	|                                                            **Title**                                                            	|                                                            **arXiv Link**                                                           	|  **Motion  Representation**  	|   **Backbone**  	|                              **Venue**                              	|
 |:----------:	|:-------------------------------------------------------------------------------------------------------------------------------:	|:-----------------------------------------------------------------------------------------------------------------------------------:	|:----------------------------:	|:---------------:	|:-------------------------------------------------------------------:	|
@@ -453,10 +455,10 @@ dimension that has been underexplored in existing reviews.
 | 2024 04 16 	|                                                VASA-1                                               	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2404.10667) 	|           Latent           	| Diffusion Model By Transformer 	|                 arXiv                	|
 | 2024 08 20 	| S^3D-NeRF: Single-Shot Speech-Driven Neural Radiance Field for High Fidelity Talking Head Synthesis 	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2408.09347) 	|           Latent           	|         Encoder-Decoder        	|                 arXiv                	|
 | 2024 08 20 	|      FD2Talk: Towards Generalized Talking Head Generation with Facial Decoupled Diffusion Model     	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2408.09384) 	|     3D Parameterization    	|         Diffusion Model        	|              ACMMM 2024              	|
+| 2024 08 28 	| MegActor-Σ: Unlocking Flexible Mixed-Modal Control in Portrait Animation with Diffusion Transformer 	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2408.14975) 	|           Latent           	| Diffusion Model By Transformer 	|                 arXiv                	|
 | 2024 08 07 	|     ReSyncer: Rewiring Style-based Generator for Unified Audio-Visually Synced Facial Performer     	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2408.03284) 	|           Latent           	|         Encoder-Decoder        	|               ECCV 2024              	|
 | 2023 01 05 	|                 Expressive Speech-driven Facial Animation with controllable emotions                	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2301.02008) 	|           Latent           	|         Encoder-Decoder        	|              ICMEW 2023              	|
 | 2024 01 28 	|            Media2Face: Co-speech Facial Animation Generation With Multi-Modality Guidance           	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2401.15687) 	|           Latent           	|         Diffusion Model        	|                 arXiv                	|
-
 
 </details>
 
@@ -500,7 +502,7 @@ dimension that has been underexplored in existing reviews.
 If you find our survey and repository useful for your research project, please consider citing our paper:
 
 ```bibtex
-
+    Waiting......
 
 ```
 
