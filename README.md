@@ -12,9 +12,9 @@
 <img src='https://img.shields.io/badge/arXiv-PDF-green?style=flat&logo=arXiv&logoColor=green' alt='arXiv PDF'>
 </a>
 <img src='https://img.shields.io/badge/Awesome Survey-8A2BE2' alt='Survey'>
-<img src='https://img.shields.io/badge/Related Work-148+ Papers and 64+ Datasets-blue' alt='MorePapers'>
+<img src='https://img.shields.io/badge/Related Work-149+ Papers and 64+ Datasets-blue' alt='MorePapers'>
 <br>
-<img src='https://img.shields.io/badge/Update 🔥-2024.08.28-red' alt='MorePapers'>
+<img src='https://img.shields.io/badge/Update 🔥-2024.09.04-red' alt='MorePapers'>
 
 
 ---
@@ -87,6 +87,10 @@
 >     - 马飞博士（光明实验室）
 >     - 吴志勇老师（清华大学/香港中文大学）
 
+
+> 另外，非常感谢常恒师兄 (https://github.com/SwiftieH)、余伟江师兄的支持！
+
+
 > 🎉 欢迎大家贡献自己的研究成果并PR，共同推动人体运动视频生成技术的发展。
 > 
 > 如有任何问题，可以随时联系邮件（**WinniyGD@outlook.com**），我们会尽快回复。
@@ -143,13 +147,37 @@ dimension that has been underexplored in existing reviews.
 
 ## 💙 News
 
-**[2024/08/28] [V1.3 Vision](https://github.com/Winn1y/Awesome-Human-Motion-Video-Generation): Update MegActor-Σ  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2408.14975)  and Rafael Azevedo et al. [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2408.15159)  Method (Audio & Text)**
+**[2024/09/04] [V1.4 Vision](https://github.com/Winn1y/Awesome-Human-Motion-Video-Generation): Update Method.**
 
-[2024/08/27] [V1.2 Vision](https://github.com/Winn1y/Awesome-Human-Motion-Video-Generation/tree/1.2): Update GenCA [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2408.13674) Method (Text, Text2Face)
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2409.01876) CyberHost (Audio, Holistic Human Driving)
 
-[2024/08/26] [V1.1 Vision](https://github.com/Winn1y/Awesome-Human-Motion-Video-Generation/tree/1.1): Update G3FA [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2408.13049) Method (Vision, Portrait Animation)
+----
+
+[2024/08/28] [V1.3 Vision](https://github.com/Winn1y/Awesome-Human-Motion-Video-Generation/tree/1.3): Update Method.
+
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2408.14975) MegActor-Σ (Audio, Fine-Grained Animation)
+
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2408.15159) Rafael Azevedo et al. (Text, Text2Face)
+
+----
+
+[2024/08/27] [V1.2 Vision](https://github.com/Winn1y/Awesome-Human-Motion-Video-Generation/tree/1.2): Update Method.
+
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2408.13674) GenCA (Text, Text2Face)
+
+----
+
+[2024/08/26] [V1.1 Vision](https://github.com/Winn1y/Awesome-Human-Motion-Video-Generation/tree/1.1): Update Method.
+
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2408.13049)  G3FA (Vision, Portrait Animation)
+
+----
 
 [2024/08/21] V1.0 Vision: Initialize the repository. If you find it helpful to you, welcome to star and share our work.
+
+
+
+
 
 ## Vision Guidance
 
@@ -425,12 +453,12 @@ dimension that has been underexplored in existing reviews.
 
 <details><summary>Holistic Human || Audio-Driven Holistic Body Driving</summary>
 
-|  **Date**  	|                               **Title**                               	|                                        **arXiv Link**                                       	| **Motion  Representation** 	|   **Backbone**  	|   **Venue**  	|
-|:----------:	|:---------------------------------------------------------------------:	|:-------------------------------------------------------------------------------------------:	|:--------------------------:	|:---------------:	|:------------:	|
-| 2024 03 13 	|                                VLOGGER                                	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2403.08764) 	|     3D Parameterization    	| Diffusion Model 	|     rXiv     	|
-| 2022 12 05 	|            Audio-Driven Co-Speech Gesture Video Generation            	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2212.02350) 	|           Latent           	| Encoder-Decoder 	| NeurIPS 2022 	|
-| 2024 05 15 	| Dance Any Beat: Blending Beats with Visuals in Dance Video Generation 	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2405.09266) 	|           Region           	| Diffusion Model 	|     arXiv    	|
-
+|  **Date**  	|                                       **Title**                                      	|                                        **arXiv Link**                                       	| **Motion  Representation** 	|   **Backbone**  	|   **Venue**  	|
+|:----------:	|:------------------------------------------------------------------------------------:	|:-------------------------------------------------------------------------------------------:	|:--------------------------:	|:---------------:	|:------------:	|
+| 2024 03 13 	|                                        VLOGGER                                       	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2403.08764) 	|     3D Parameterization    	| Diffusion Model 	|     arXiv    	|
+| 2022 12 05 	|                    Audio-Driven Co-Speech Gesture Video Generation                   	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2212.02350) 	|           Latent           	| Encoder-Decoder 	| NeurIPS 2022 	|
+| 2024 09 04 	| CyberHost: Taming Audio-driven Avatar Diffusion Model with Region Codebook Attention 	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2409.01876) 	|           Latent           	| Diffusion Model 	|     arXiv    	|
+| 2024 05 15 	|         Dance Any Beat: Blending Beats with Visuals in Dance Video Generation        	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2405.09266) 	|           Region           	| Diffusion Model 	|     arXiv    	|
 </details>
 
 
