@@ -12,9 +12,9 @@
 <img src='https://img.shields.io/badge/arXiv-PDF-green?style=flat&logo=arXiv&logoColor=green' alt='arXiv PDF'>
 </a>
 <img src='https://img.shields.io/badge/Awesome Survey-8A2BE2' alt='Survey'>
-<img src='https://img.shields.io/badge/Related Work-149+ Papers and 64+ Datasets-blue' alt='MorePapers'>
+<img src='https://img.shields.io/badge/Related Work-151+ Papers and 64+ Datasets-blue' alt='MorePapers'>
 <br>
-<img src='https://img.shields.io/badge/Update 🔥-2024.09.04-red' alt='MorePapers'>
+<img src='https://img.shields.io/badge/Update 🔥-2024.09.05-red' alt='MorePapers'>
 
 
 ---
@@ -147,7 +147,16 @@ dimension that has been underexplored in existing reviews.
 
 ## 💙 News
 
-**[2024/09/04] [V1.4 Vision](https://github.com/Winn1y/Awesome-Human-Motion-Video-Generation): Update Method.**
+**[2024/09/05] [V1.5 Vision](https://github.com/Winn1y/Awesome-Human-Motion-Video-Generation): Update Method.**
+
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2409.02634) Loopy (Audio, Fine-Grained Animation)
+
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2409.02657) PoseTalk (Audio, Fine-Grained Animation)
+
+
+----
+
+[2024/09/04] [V1.4 Vision](https://github.com/Winn1y/Awesome-Human-Motion-Video-Generation/tree/1.4): Update Method.
 
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2409.01876) CyberHost (Audio, Holistic Human Driving)
 
@@ -464,29 +473,36 @@ dimension that has been underexplored in existing reviews.
 
 <details><summary>Part (Face) || Fine-Grained Style and Emotion-Driven Animation</summary>
 
-|  **Date**  	|                                              **Title**                                              	|                                        **arXiv Link**                                       	| **Motion  Representation** 	|          **Backbone**          	|               **Venue**              	|
-|:----------:	|:---------------------------------------------------------------------------------------------------:	|:-------------------------------------------------------------------------------------------:	|:--------------------------:	|:------------------------------:	|:------------------------------------:	|
-| 2021 05 19 	|                                Audio-Driven Emotional Video Portraits                               	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2104.07452) 	|          KeyPoint          	|         Encoder-Decoder        	|               CVPR 2021              	|
-| 2023 06 10 	|            StyleTalk: One-shot Talking Head Generation with Controllable Speaking Styles            	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2301.01081) 	|     3D Parameterization    	|         Encoder-Decoder        	|               AAAI 2023              	|
-| 2024 01 16 	|                  Real3D-Portrait: One-shot Realistic 3D Talking Portrait Synthesis                  	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2401.08503) 	|     3D Parameterization    	|         Encoder-Decoder        	|               ICLR 2024              	|
-| 2023 12 15 	|       DreamTalk: When Expressive Talking Head Generation Meets Diffusion Probabilistic Models       	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2312.09767) 	|     3D Parameterization    	|         Diffusion Model        	|                 arXiv                	|
-| 2024 06 04 	|         V-Express: Conditional Dropout for Progressive Training of Portrait Video Generation        	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2406.02511) 	|          KeyPoint          	|         Diffusion Model        	|                 arXiv                	|
-| 2021 07 21 	|          Speech Driven Talking Face Generation from a Single Image and an Emotion Condition         	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2008.03592) 	|           Latent           	|               GAN              	| IEEE Transactions on Multimedia 2021 	|
-| 2022 11 22 	|                                              SadTalker                                              	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2211.12194) 	|           Latent           	|         Diffusion Model        	|               CVPR 2023              	|
-| 2022 11 28 	|      High-fidelity Facial Avatar Reconstruction from Monocular Video with<br>Generative Priors      	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2211.15064) 	|     3D Parameterization    	|               GAN              	|               CVPR 2023              	|
-| 2023 05 09 	|       StyleSync: High-Fidelity Generalized and Personalized Lip Sync in Style-based Generator       	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2305.05445) 	|           Latent           	|               GAN              	|               CVPR 2023              	|
-| 2024 02 27 	|                                                 EMO                                                 	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2402.17485) 	|           Latent           	|         Diffusion Model        	|                 arXiv                	|
-| 2024 03 04 	|   FaceChain-ImagineID: Freely Crafting High-Fidelity Diverse Talking Faces from Disentangled Audio  	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2403.01901) 	|           Latent           	|         Diffusion Model        	|               CVPR 2024              	|
-| 2024 04 29 	|                                             EMOPortraits                                            	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2404.19110) 	|           Latent           	|               GAN              	|               CVPR 2024              	|
-| 2024 05 12 	|         Listen, Disentangle, and Control: Controllable Speech-Driven Talking Head Generation        	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2405.07257) 	|           Latent           	|               GAN              	|                 arXiv                	|
-| 2024 06 16 	|            Hallo: Hierarchical Audio-Driven Visual Synthesis for Portrait Image Animation           	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2406.08801) 	|           Latent           	|         Diffusion Model        	|                 arXiv                	|
-| 2024 04 16 	|                                                VASA-1                                               	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2404.10667) 	|           Latent           	| Diffusion Model By Transformer 	|                 arXiv                	|
-| 2024 08 20 	| S^3D-NeRF: Single-Shot Speech-Driven Neural Radiance Field for High Fidelity Talking Head Synthesis 	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2408.09347) 	|           Latent           	|         Encoder-Decoder        	|                 arXiv                	|
-| 2024 08 20 	|      FD2Talk: Towards Generalized Talking Head Generation with Facial Decoupled Diffusion Model     	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2408.09384) 	|     3D Parameterization    	|         Diffusion Model        	|              ACMMM 2024              	|
-| 2024 08 28 	| MegActor-Σ: Unlocking Flexible Mixed-Modal Control in Portrait Animation with Diffusion Transformer 	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2408.14975) 	|           Latent           	| Diffusion Model By Transformer 	|                 arXiv                	|
-| 2024 08 07 	|     ReSyncer: Rewiring Style-based Generator for Unified Audio-Visually Synced Facial Performer     	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2408.03284) 	|           Latent           	|         Encoder-Decoder        	|               ECCV 2024              	|
-| 2023 01 05 	|                 Expressive Speech-driven Facial Animation with controllable emotions                	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2301.02008) 	|           Latent           	|         Encoder-Decoder        	|              ICMEW 2023              	|
-| 2024 01 28 	|            Media2Face: Co-speech Facial Animation Generation With Multi-Modality Guidance           	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2401.15687) 	|           Latent           	|         Diffusion Model        	|                 arXiv                	|
+
+
+|  **Date**  	|                                                **Title**                                               	|                                        **arXiv Link**                                       	| **Motion  Representation** 	|          **Backbone**          	|               **Venue**              	|
+|:----------:	|:------------------------------------------------------------------------------------------------------:	|:-------------------------------------------------------------------------------------------:	|:--------------------------:	|:------------------------------:	|:------------------------------------:	|
+| 2021 05 19 	|                                 Audio-Driven Emotional Video Portraits                                 	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2104.07452) 	|          KeyPoint          	|         Encoder-Decoder        	|               CVPR 2021              	|
+| 2023 06 10 	|              StyleTalk: One-shot Talking Head Generation with Controllable Speaking Styles             	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2301.01081) 	|     3D Parameterization    	|         Encoder-Decoder        	|               AAAI 2023              	|
+| 2024 01 16 	|                    Real3D-Portrait: One-shot Realistic 3D Talking Portrait Synthesis                   	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2401.08503) 	|     3D Parameterization    	|         Encoder-Decoder        	|               ICLR 2024              	|
+| 2023 12 15 	|         DreamTalk: When Expressive Talking Head Generation Meets Diffusion Probabilistic Models        	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2312.09767) 	|     3D Parameterization    	|         Diffusion Model        	|                 arXiv                	|
+| 2024 06 04 	|          V-Express: Conditional Dropout for Progressive Training of Portrait Video Generation          	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2406.02511) 	|          KeyPoint          	|         Diffusion Model        	|                 arXiv                	|
+| 2021 07 21 	|           Speech Driven Talking Face Generation from a Single Image and an Emotion Condition           	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2008.03592) 	|           Latent           	|               GAN              	| IEEE Transactions on Multimedia 2021 	|
+| 2022 11 22 	|                                                SadTalker                                               	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2211.12194) 	|           Latent           	|         Diffusion Model        	|               CVPR 2023              	|
+| 2022 11 28 	|        High-fidelity Facial Avatar Reconstruction from Monocular Video with<br>Generative Priors       	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2211.15064) 	|     3D Parameterization    	|               GAN              	|               CVPR 2023              	|
+| 2023 05 09 	|         StyleSync: High-Fidelity Generalized and Personalized Lip Sync in Style-based Generator        	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2305.05445) 	|           Latent           	|               GAN              	|               CVPR 2023              	|
+| 2024 02 27 	|                                                   EMO                                                  	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2402.17485) 	|           Latent           	|         Diffusion Model        	|                 arXiv                	|
+| 2024 03 04 	|    FaceChain-ImagineID: Freely Crafting High-Fidelity Diverse Talking Faces from Disentangled Audio    	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2403.01901) 	|           Latent           	|         Diffusion Model        	|               CVPR 2024              	|
+| 2024 04 29 	|                                              EMOPortraits                                              	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2404.19110) 	|           Latent           	|               GAN              	|               CVPR 2024              	|
+| 2024 05 12 	|          Listen, Disentangle, and Control: Controllable Speech-Driven Talking Head Generation          	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2405.07257) 	|           Latent           	|               GAN              	|                 arXiv                	|
+| 2024 06 16 	|             Hallo: Hierarchical Audio-Driven Visual Synthesis for Portrait Image Animation             	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2406.08801) 	|           Latent           	|         Diffusion Model        	|                 arXiv                	|
+| 2024 04 16 	|                                                 VASA-1                                                 	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2404.10667) 	|           Latent           	| Diffusion Model By Transformer 	|                 arXiv                	|
+| 2024 08 20 	|   S^3D-NeRF: Single-Shot Speech-Driven Neural Radiance Field for High Fidelity Talking Head Synthesis  	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2408.09347) 	|           Latent           	|         Encoder-Decoder        	|                 arXiv                	|
+| 2024 08 20 	|       FD2Talk: Towards Generalized Talking Head Generation with Facial Decoupled Diffusion Model       	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2408.09384) 	|     3D Parameterization    	|         Diffusion Model        	|              ACMMM 2024              	|
+| 2024 08 28 	|   MegActor-Σ: Unlocking Flexible Mixed-Modal Control in Portrait Animation with Diffusion Transformer  	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2408.14975) 	|           Latent           	| Diffusion Model By Transformer 	|                 arXiv                	|
+| 2024 09 05 	|               Loopy: Taming Audio-Driven Portrait Avatar with Long-Term Motion Dependency              	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2409.02634) 	|           Latent           	|         Diffusion Model        	|                 arXiv                	|
+| 2024 09 05 	| PoseTalk: Text-and-Audio-based Pose Control and Motion Refinement for One-Shot Talking Head Generation 	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2409.02657) 	|           Latent           	|         Diffusion Model        	|                 arXiv                	|
+| 2024 08 07 	|       ReSyncer: Rewiring Style-based Generator for Unified Audio-Visually Synced Facial Performer      	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2408.03284) 	|           Latent           	|         Encoder-Decoder        	|               ECCV 2024              	|
+| 2023 01 05 	|                  Expressive Speech-driven Facial Animation with controllable emotions                  	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2301.02008) 	|           Latent           	|         Encoder-Decoder        	|              ICMEW 2023              	|
+| 2024 01 28 	|             Media2Face: Co-speech Facial Animation Generation With Multi-Modality Guidance             	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2401.15687) 	|           Latent           	|         Diffusion Model        	|                 arXiv                	|
+
+
+
 
 </details>
 
