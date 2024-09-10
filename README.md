@@ -12,9 +12,9 @@
 <img src='https://img.shields.io/badge/arXiv-PDF-green?style=flat&logo=arXiv&logoColor=green' alt='arXiv PDF'>
 </a>
 <img src='https://img.shields.io/badge/Awesome Survey-8A2BE2' alt='Survey'>
-<img src='https://img.shields.io/badge/Related Work-153+ Papers and 64+ Datasets-blue' alt='MorePapers'>
+<img src='https://img.shields.io/badge/Related Work-156+ Papers and 64+ Datasets-blue' alt='MorePapers'>
 <br>
-<img src='https://img.shields.io/badge/Update 🔥-2024.09.06-red' alt='MorePapers'>
+<img src='https://img.shields.io/badge/Update 🔥-2024.09.10-red' alt='MorePapers'>
 
 
 ---
@@ -147,7 +147,17 @@ dimension that has been underexplored in existing reviews.
 
 ## 💙 News
 
-**[2024/09/06] [V1.6 Vision](https://github.com/Winn1y/Awesome-Human-Motion-Video-Generation): Update Method.**
+**[2024/09/10] [V1.7 Vision](https://github.com/Winn1y/Awesome-Human-Motion-Video-Generation): Update Methods.**
+
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2409.05089) Leveraging WaveNet for Dynamic Listening Head Modeling from Speech (Audio, Lip Synchronization)
+
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2409.05330) KAN-Based Fusion of Dual-Domain for Audio-Driven Facial Landmarks Generation (Audio, Lip Synchronization)
+
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2409.05379) PersonaTalk (Audio, Lip Synchronization)
+
+----
+
+[2024/09/06] [V1.6 Vision](https://github.com/Winn1y/Awesome-Human-Motion-Video-Generation/tree/1.6): Update Methods.
 
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2409.03270) SVP (Audio, Fine-Grained Animation)
 
@@ -155,7 +165,7 @@ dimension that has been underexplored in existing reviews.
 
 ----
 
-[2024/09/05] [V1.5 Vision](https://github.com/Winn1y/Awesome-Human-Motion-Video-Generation/tree/1.5): Update Method.
+[2024/09/05] [V1.5 Vision](https://github.com/Winn1y/Awesome-Human-Motion-Video-Generation/tree/1.5): Update Methods.
 
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2409.02634) Loopy (Audio, Fine-Grained Animation)
 
@@ -164,13 +174,13 @@ dimension that has been underexplored in existing reviews.
 
 ----
 
-[2024/09/04] [V1.4 Vision](https://github.com/Winn1y/Awesome-Human-Motion-Video-Generation/tree/1.4): Update Method.
+[2024/09/04] [V1.4 Vision](https://github.com/Winn1y/Awesome-Human-Motion-Video-Generation/tree/1.4): Update Methods.
 
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2409.01876) CyberHost (Audio, Holistic Human Driving)
 
 ----
 
-[2024/08/28] [V1.3 Vision](https://github.com/Winn1y/Awesome-Human-Motion-Video-Generation/tree/1.3): Update Method.
+[2024/08/28] [V1.3 Vision](https://github.com/Winn1y/Awesome-Human-Motion-Video-Generation/tree/1.3): Update Methods.
 
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2408.14975) MegActor-Σ (Audio, Fine-Grained Animation)
 
@@ -178,13 +188,13 @@ dimension that has been underexplored in existing reviews.
 
 ----
 
-[2024/08/27] [V1.2 Vision](https://github.com/Winn1y/Awesome-Human-Motion-Video-Generation/tree/1.2): Update Method.
+[2024/08/27] [V1.2 Vision](https://github.com/Winn1y/Awesome-Human-Motion-Video-Generation/tree/1.2): Update Methods.
 
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2408.13674) GenCA (Text, Text2Face)
 
 ----
 
-[2024/08/26] [V1.1 Vision](https://github.com/Winn1y/Awesome-Human-Motion-Video-Generation/tree/1.1): Update Method.
+[2024/08/26] [V1.1 Vision](https://github.com/Winn1y/Awesome-Human-Motion-Video-Generation/tree/1.1): Update Methods.
 
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2408.13049)  G3FA (Vision, Portrait Animation)
 
@@ -400,7 +410,6 @@ dimension that has been underexplored in existing reviews.
 <details open><summary>Part (Face) || Lip Synchronization</summary>
 
 
-
 |  **Date**  	|                                       **Title**                                      	|                                              **arXiv Link**                                             	| **Motion  Representation** 	|   **Backbone**  	| **Venue** 	|
 |:----------:	|:------------------------------------------------------------------------------------:	|:-------------------------------------------------------------------------------------------------------:	|:--------------------------:	|:---------------:	|:---------:	|
 | 2020 09 17 	|                      Photorealistic Audio-driven Video Portraits                     	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://ieeexplore.ieee.org/document/9199560) 	|           Region           	| Encoder-Decoder 	|  TVCG2020 	|
@@ -408,6 +417,9 @@ dimension that has been underexplored in existing reviews.
 | 2019 05 08 	|                Capture, Learning, and Synthesis of 3D Speaking Styles                	|       [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/1905.03079)       	|           Latent           	| Encoder-Decoder 	|  CVPR2019 	|
 | 2024 08 13 	|               Style-Preserving Lip Sync via Audio-Aware Style Reference              	|       [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2408.05412)       	|           Latent           	| Diffusion Model 	|   arxiv   	|
 | 2024 09 06 	| SegTalker: Segmentation-based Talking Face Generation with Mask-guided Local Editing 	|       [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2409.03605)       	|           Latent           	|       GAN       	|   arxiv   	|
+| 2024 09 10 	|          Leveraging WaveNet for Dynamic Listening Head Modeling from Speech          	|       [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2409.05089)       	|           Latent           	|  Autoregressive 	|   arxiv   	|
+| 2024 09 10 	|     KAN-Based Fusion of Dual-Domain for Audio-Driven Facial Landmarks Generation     	|       [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2409.05330)       	|          KeyPoint          	| Encoder-Decoder 	|   arxiv   	|
+| 2024 09 10 	|            PersonaTalk: Bring Attention to Your Persona in Visual Dubbing            	|       [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2409.05379)       	|     3D Parameterization    	| Encoder-Decoder 	|   arxiv   	|
 | 2023 01 10 	|         Speech driven video editing via an audio-conditioned diffusion model         	|       [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2301.04474)       	|           Latent           	| Diffusion Model 	|  IVC2024  	|
 
 
