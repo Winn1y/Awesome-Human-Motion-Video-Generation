@@ -12,9 +12,9 @@
 <img src='https://img.shields.io/badge/arXiv-PDF-green?style=flat&logo=arXiv&logoColor=green' alt='arXiv PDF'>
 </a>
 <img src='https://img.shields.io/badge/Awesome Survey-8A2BE2' alt='Survey'>
-<img src='https://img.shields.io/badge/Related Work-157+ Papers and 64+ Datasets-blue' alt='MorePapers'>
+<img src='https://img.shields.io/badge/Related Work-158+ Papers and 64+ Datasets-blue' alt='MorePapers'>
 <br>
-<img src='https://img.shields.io/badge/Update 🔥-2024.09.11-red' alt='MorePapers'>
+<img src='https://img.shields.io/badge/Update 🔥-2024.09.12-red' alt='MorePapers'>
 
 
 ---
@@ -88,7 +88,7 @@
 >     - 吴志勇老师（清华大学/香港中文大学）
 
 
-> 另外，非常感谢常恒师兄 (https://github.com/SwiftieH)、余伟江师兄的支持！
+> 另外，非常感谢常恒师兄 ( https://github.com/SwiftieH )、余伟江师兄的支持！
 
 
 > 🎉 欢迎大家贡献自己的研究成果并PR，共同推动人体运动视频生成技术的发展。
@@ -147,7 +147,13 @@ dimension that has been underexplored in existing reviews.
 
 ## 💙 News
 
-**[2024/09/11] [V1.8 Vision](https://github.com/Winn1y/Awesome-Human-Motion-Video-Generation): Update Methods.**
+**[2024/09/12] [V1.9 Vision](https://github.com/Winn1y/Awesome-Human-Motion-Video-Generation): Update Methods.**
+
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2409.07255) EMOdiffhead (Audio, Fine-Grained Animation)
+
+----
+
+[2024/09/11] [V1.8 Vision](https://github.com/Winn1y/Awesome-Human-Motion-Video-Generation/tree/1.8): Update Methods.
 
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2409.06202) RealisDance (Visual, Pose-Guided Dance Video Generation)
 
@@ -506,7 +512,6 @@ dimension that has been underexplored in existing reviews.
 
 <details><summary>Part (Face) || Fine-Grained Style and Emotion-Driven Animation</summary>
 
-
 |  **Date**  	|                                                **Title**                                               	|                                        **arXiv Link**                                       	| **Motion  Representation** 	|          **Backbone**          	|               **Venue**              	|
 |:----------:	|:------------------------------------------------------------------------------------------------------:	|:-------------------------------------------------------------------------------------------:	|:--------------------------:	|:------------------------------:	|:------------------------------------:	|
 | 2021 05 19 	|                                 Audio-Driven Emotional Video Portraits                                 	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2104.07452) 	|          KeyPoint          	|         Encoder-Decoder        	|               CVPR 2021              	|
@@ -530,9 +535,13 @@ dimension that has been underexplored in existing reviews.
 | 2024 09 05 	|               Loopy: Taming Audio-Driven Portrait Avatar with Long-Term Motion Dependency              	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2409.02634) 	|           Latent           	|         Diffusion Model        	|                 arXiv                	|
 | 2024 09 05 	| PoseTalk: Text-and-Audio-based Pose Control and Motion Refinement for One-Shot Talking Head Generation 	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2409.02657) 	|           Latent           	|         Diffusion Model        	|                 arXiv                	|
 | 2024 09 06 	|                     SVP: Style-Enhanced Vivid Portrait Talking Head Diffusion Model                    	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2409.03270) 	|           Latent           	|         Diffusion Model        	|                 arXiv                	|
+| 2024 09 12 	|          EMOdiffhead: Continuously Emotional Control in Talking Head Generation via Diffusion          	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2409.07255) 	|     3D Parameterization    	|         Diffusion Model        	|                 arXiv                	|
 | 2024 08 07 	|       ReSyncer: Rewiring Style-based Generator for Unified Audio-Visually Synced Facial Performer      	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2408.03284) 	|           Latent           	|         Encoder-Decoder        	|               ECCV 2024              	|
 | 2023 01 05 	|                  Expressive Speech-driven Facial Animation with controllable emotions                  	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2301.02008) 	|           Latent           	|         Encoder-Decoder        	|              ICMEW 2023              	|
 | 2024 01 28 	|             Media2Face: Co-speech Facial Animation Generation With Multi-Modality Guidance             	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2401.15687) 	|           Latent           	|         Diffusion Model        	|                 arXiv                	|
+
+
+
 
 
 
@@ -580,7 +589,8 @@ If you find our survey and repository useful for your research project, please c
 
 ```bibtex
     Waiting......
-
+    Arxiv now is on hold state, we will update the bibtex once it is available.
+    You can get the PDF from assets folder.
 ```
 
 
