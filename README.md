@@ -12,9 +12,9 @@
 <img src='https://img.shields.io/badge/arXiv-PDF-green?style=flat&logo=arXiv&logoColor=green' alt='arXiv PDF'>
 </a>
 <img src='https://img.shields.io/badge/Awesome Survey-8A2BE2' alt='Survey'>
-<img src='https://img.shields.io/badge/Related Work-158+ Papers and 64+ Datasets-blue' alt='MorePapers'>
+<img src='https://img.shields.io/badge/Related Work-159+ Papers and 64+ Datasets-blue' alt='MorePapers'>
 <br>
-<img src='https://img.shields.io/badge/Update 🔥-2024.09.12-red' alt='MorePapers'>
+<img src='https://img.shields.io/badge/Update 🔥-2024.09.13-red' alt='MorePapers'>
 
 
 ---
@@ -147,7 +147,15 @@ dimension that has been underexplored in existing reviews.
 
 ## 💙 News
 
-**[2024/09/12] [V1.9 Vision](https://github.com/Winn1y/Awesome-Human-Motion-Video-Generation): Update Methods.**
+
+**[2024/09/13] [V2.0 Vision](https://github.com/Winn1y/Awesome-Human-Motion-Video-Generation): Update Methods.**
+
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2409.07649) DiffTED (Audio, Audio-Driven Holistic Body Driving)
+
+
+----
+
+[2024/09/12] [V1.9 Vision](https://github.com/Winn1y/Awesome-Human-Motion-Video-Generation/tree/1.9): Update Methods.
 
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2409.07255) EMOdiffhead (Audio, Fine-Grained Animation)
 
@@ -501,12 +509,16 @@ dimension that has been underexplored in existing reviews.
 
 <details><summary>Holistic Human || Audio-Driven Holistic Body Driving</summary>
 
-|  **Date**  	|                                       **Title**                                      	|                                        **arXiv Link**                                       	| **Motion  Representation** 	|   **Backbone**  	|   **Venue**  	|
-|:----------:	|:------------------------------------------------------------------------------------:	|:-------------------------------------------------------------------------------------------:	|:--------------------------:	|:---------------:	|:------------:	|
-| 2024 03 13 	|                                        VLOGGER                                       	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2403.08764) 	|     3D Parameterization    	| Diffusion Model 	|     arXiv    	|
-| 2022 12 05 	|                    Audio-Driven Co-Speech Gesture Video Generation                   	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2212.02350) 	|           Latent           	| Encoder-Decoder 	| NeurIPS 2022 	|
-| 2024 09 04 	| CyberHost: Taming Audio-driven Avatar Diffusion Model with Region Codebook Attention 	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2409.01876) 	|           Latent           	| Diffusion Model 	|     arXiv    	|
-| 2024 05 15 	|         Dance Any Beat: Blending Beats with Visuals in Dance Video Generation        	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2405.09266) 	|           Region           	| Diffusion Model 	|     arXiv    	|
+|  **Date**  	|                                             **Title**                                            	|                                        **arXiv Link**                                       	| **Motion  Representation** 	|   **Backbone**  	|   **Venue**  	|
+|:----------:	|:------------------------------------------------------------------------------------------------:	|:-------------------------------------------------------------------------------------------:	|:--------------------------:	|:---------------:	|:------------:	|
+| 2024 03 13 	|                                              VLOGGER                                             	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2403.08764) 	|     3D Parameterization    	| Diffusion Model 	|     arXiv    	|
+| 2022 12 05 	|                          Audio-Driven Co-Speech Gesture Video Generation                         	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2212.02350) 	|           Latent           	| Encoder-Decoder 	| NeurIPS 2022 	|
+| 2024 09 04 	|       CyberHost: Taming Audio-driven Avatar Diffusion Model with Region Codebook Attention       	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2409.01876) 	|           Latent           	| Diffusion Model 	|     arXiv    	|
+| 2024 09 13 	| DiffTED: One-shot Audio-driven TED Talk Video Generation with Diffusion-based Co-speech Gestures 	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2409.07649) 	|          KeyPoint          	| Diffusion Model 	|     arXiv    	|
+| 2024 05 15 	|               Dance Any Beat: Blending Beats with Visuals in Dance Video Generation              	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2405.09266) 	|           Region           	| Diffusion Model 	|     arXiv    	|
+
+
+
 </details>
 
 
