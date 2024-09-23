@@ -12,9 +12,9 @@
 <img src='https://img.shields.io/badge/arXiv-PDF-green?style=flat&logo=arXiv&logoColor=green' alt='arXiv PDF'>
 </a>
 <img src='https://img.shields.io/badge/Awesome Survey-8A2BE2' alt='Survey'>
-<img src='https://img.shields.io/badge/Related Work-162+ Papers and 64+ Datasets-blue' alt='MorePapers'>
+<img src='https://img.shields.io/badge/Related Work-163+ Papers and 64+ Datasets-blue' alt='MorePapers'>
 <br>
-<img src='https://img.shields.io/badge/Update 🔥-2024.09.19-red' alt='MorePapers'>
+<img src='https://img.shields.io/badge/Update 🔥-2024.09.23-red' alt='MorePapers'>
 
 
 ---
@@ -147,11 +147,13 @@ dimension that has been underexplored in existing reviews.
 
 ## 💙 News
 
+**[2024/09/23][V2.3 Vision](https://github.com/Winn1y/Awesome-Human-Motion-Video-Generation): Update Methods.**
 
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2409.13268) JoyHallo (Audio, Fine-Grained Style and Emotion-Driven Animation)
 
+----
 
-
-**[2024/09/19] [V2.2 Vision](https://github.com/Winn1y/Awesome-Human-Motion-Video-Generation): Update Methods.**
+[2024/09/19] [V2.2 Vision](https://github.com/Winn1y/Awesome-Human-Motion-Video-Generation/tree/2.2): Update Methods.
 
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2409.12156) JEAN (Audio, Head Pose Driving)
 
