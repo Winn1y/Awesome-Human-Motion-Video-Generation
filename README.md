@@ -12,9 +12,9 @@
 <img src='https://img.shields.io/badge/arXiv-PDF-green?style=flat&logo=arXiv&logoColor=green' alt='arXiv PDF'>
 </a>
 <img src='https://img.shields.io/badge/Awesome Survey-8A2BE2' alt='Survey'>
-<img src='https://img.shields.io/badge/Related Work-163+ Papers and 64+ Datasets-blue' alt='MorePapers'>
+<img src='https://img.shields.io/badge/Related Work-164+ Papers and 64+ Datasets-blue' alt='MorePapers'>
 <br>
-<img src='https://img.shields.io/badge/Update 🔥-2024.09.23-red' alt='MorePapers'>
+<img src='https://img.shields.io/badge/Update 🔥-2024.09.24-red' alt='MorePapers'>
 
 
 ---
@@ -146,8 +146,14 @@ dimension that has been underexplored in existing reviews.
 ![Timeline](assets/time.png)
 
 ## 💙 News
+**[2024/09/24][V2.4 Vision](https://github.com/Winn1y/Awesome-Human-Motion-Video-Generation): Update Methods.**
 
-**[2024/09/23][V2.3 Vision](https://github.com/Winn1y/Awesome-Human-Motion-Video-Generation): Update Methods.**
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2409.15179) MIMAFace (Audio, Fine-Grained Style and Emotion-Driven Animation)
+
+----
+
+
+[2024/09/23][V2.3 Vision](https://github.com/Winn1y/Awesome-Human-Motion-Video-Generation/tree/2.3): Update Methods.
 
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2409.13268) JoyHallo (Audio, Fine-Grained Style and Emotion-Driven Animation)
 
@@ -556,7 +562,6 @@ dimension that has been underexplored in existing reviews.
 
 <details><summary>Part (Face) || Fine-Grained Style and Emotion-Driven Animation</summary>
 
-
 |  **Date**  	|                                                **Title**                                               	|                                        **arXiv Link**                                       	| **Motion  Representation** 	|          **Backbone**          	|               **Venue**              	|
 |:----------:	|:------------------------------------------------------------------------------------------------------:	|:-------------------------------------------------------------------------------------------:	|:--------------------------:	|:------------------------------:	|:------------------------------------:	|
 | 2021 05 19 	|                                 Audio-Driven Emotional Video Portraits                                 	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2104.07452) 	|          KeyPoint          	|         Encoder-Decoder        	|               CVPR 2021              	|
@@ -582,10 +587,11 @@ dimension that has been underexplored in existing reviews.
 | 2024 09 06 	|                     SVP: Style-Enhanced Vivid Portrait Talking Head Diffusion Model                    	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2409.03270) 	|           Latent           	|         Diffusion Model        	|                 arXiv                	|
 | 2024 09 12 	|          EMOdiffhead: Continuously Emotional Control in Talking Head Generation via Diffusion          	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2409.07255) 	|     3D Parameterization    	|         Diffusion Model        	|                 arXiv                	|
 | 2024 09 17 	|          StyleTalk++: A Unified Framework for Controlling the Speaking Styles of Talking Heads         	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2409.09292) 	|     3D Parameterization    	|         Encoder-Decoder        	|                 arXiv                	|
+| 2024 09 23 	|                               JoyHallo: Digital human model for Mandarin                               	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2409.13268) 	|           Latent           	|         Diffusion Model        	|                 arXiv                	|
+| 2024 09 24 	|           MIMAFace: Face Animation via Motion-Identity Modulated Appearance Feature Learning           	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2409.15179) 	|           Latent           	|         Diffusion Model        	|                 arXiv                	|
 | 2024 08 07 	|       ReSyncer: Rewiring Style-based Generator for Unified Audio-Visually Synced Facial Performer      	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2408.03284) 	|           Latent           	|         Encoder-Decoder        	|               ECCV 2024              	|
 | 2023 01 05 	|                  Expressive Speech-driven Facial Animation with controllable emotions                  	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2301.02008) 	|           Latent           	|         Encoder-Decoder        	|              ICMEW 2023              	|
 | 2024 01 28 	|             Media2Face: Co-speech Facial Animation Generation With Multi-Modality Guidance             	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2401.15687) 	|           Latent           	|         Diffusion Model        	|                 arXiv                	|
-
 
 
 
