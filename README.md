@@ -12,9 +12,9 @@
 <img src='https://img.shields.io/badge/arXiv-PDF-green?style=flat&logo=arXiv&logoColor=green' alt='arXiv PDF'>
 </a>
 <img src='https://img.shields.io/badge/Awesome Survey-8A2BE2' alt='Survey'>
-<img src='https://img.shields.io/badge/Related Work-164+ Papers and 64+ Datasets-blue' alt='MorePapers'>
+<img src='https://img.shields.io/badge/Related Work-165+ Papers and 64+ Datasets-blue' alt='MorePapers'>
 <br>
-<img src='https://img.shields.io/badge/Update 🔥-2024.09.24-red' alt='MorePapers'>
+<img src='https://img.shields.io/badge/Update 🔥-2024.09.25-red' alt='MorePapers'>
 
 
 ---
@@ -145,8 +145,20 @@ dimension that has been underexplored in existing reviews.
 
 ![Timeline](assets/time.png)
 
+
 ## 💙 News
-**[2024/09/24][V2.4 Vision](https://github.com/Winn1y/Awesome-Human-Motion-Video-Generation): Update Methods.**
+
+
+**[2024/09/25][V2.5 Vision](https://github.com/Winn1y/Awesome-Human-Motion-Video-Generation): Update Methods.**
+
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2409.16160) MIMO (Visual, Pose-Guided Dance Video Generation)
+
+
+
+
+-----
+
+[2024/09/24][V2.4 Vision](https://github.com/Winn1y/Awesome-Human-Motion-Video-Generation/tree/2.4): Update Methods.
 
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2409.15179) MIMAFace (Audio, Fine-Grained Style and Emotion-Driven Animation)
 
@@ -306,6 +318,9 @@ dimension that has been underexplored in existing reviews.
 
 <details><summary>Holistic Human || Pose-Guided Dance Video Generation </summary>
 
+
+
+
 |   **Date**  	|                                             **Title**                                            	|                                        **arXiv Link**                                       	| **Motion  Representation** 	|   **Backbone**  	|   **Venue**  	|
 |:-----------:	|:------------------------------------------------------------------------------------------------:	|:-------------------------------------------------------------------------------------------:	|:--------------------------:	|:---------------:	|:------------:	|
 |  2023 06 30 	|                                               DisCo                                              	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2307.00040) 	|          KeyPoint          	| Diffusion Model 	|   CVPR2024   	|
@@ -326,7 +341,10 @@ dimension that has been underexplored in existing reviews.
 |  2024 07 01 	|    MimicMotion: High-Quality Human Motion Video Generation with Confidence-aware Pose Guidance   	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2406.19680) 	|          KeyPoint          	| Diffusion Model 	|     arxiv    	|
 |  2024 07 15 	|   TCAN: Animating Human Images with Temporally Consistent Pose Guidance using Diffusion Models   	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2407.09012) 	|          KeyPoint          	| Diffusion Model 	|     arxiv    	|
 |  2024 09 11 	|             RealisDance: Equip controllable character animation with realistic hands             	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2409.06202) 	|          KeyPoint          	| Diffusion Model 	|     arxiv    	|
+|  2024 09 25 	|           MIMO: Controllable Character Video Synthesis with Spatial Decomposed Modeling          	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2409.16160) 	|          KeyPoint          	| Diffusion Model 	|     arxiv    	|
 |  2024 07 16 	|     IDOL: Unified Dual-Modal Latent Diffusion for Human-Centric Joint Video-Depth Generation     	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2407.10937) 	|           Region           	| Diffusion Model 	|     arxiv    	|
+
+
 
 
 </details>
