@@ -12,9 +12,9 @@
 <img src='https://img.shields.io/badge/arXiv-PDF-green?style=flat&logo=arXiv&logoColor=green' alt='arXiv PDF'>
 </a>
 <img src='https://img.shields.io/badge/Awesome Survey-8A2BE2' alt='Survey'>
-<img src='https://img.shields.io/badge/Related Work-165+ Papers and 64+ Datasets-blue' alt='MorePapers'>
+<img src='https://img.shields.io/badge/Related Work-167+ Papers and 64+ Datasets-blue' alt='MorePapers'>
 <br>
-<img src='https://img.shields.io/badge/Update 🔥-2024.09.25-red' alt='MorePapers'>
+<img src='https://img.shields.io/badge/Update 🔥-2024.09.27-red' alt='MorePapers'>
 
 
 ---
@@ -149,7 +149,18 @@ dimension that has been underexplored in existing reviews.
 ## 💙 News
 
 
-**[2024/09/25][V2.5 Vision](https://github.com/Winn1y/Awesome-Human-Motion-Video-Generation): Update Methods.**
+**[2024/09/27][V2.6 Vision](https://github.com/Winn1y/Awesome-Human-Motion-Video-Generation): Update Methods.**
+
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2409.18083) SVP (Visual, Portrait Animation)
+
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2409.17674) Self-Supervised Learning of Deviation in Latent Representation for Co-speech Gesture Video Generation (Audio, Audio-Driven Holistic Body Driving)
+
+
+
+----
+
+
+[2024/09/25][V2.5 Vision](https://github.com/Winn1y/Awesome-Human-Motion-Video-Generation/tree/2.5): Update Methods.
 
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2409.16160) MIMO (Visual, Pose-Guided Dance Video Generation)
 
@@ -282,7 +293,12 @@ dimension that has been underexplored in existing reviews.
 | 2024 06 08 	|       MegActor: Harness the Power of Raw Video for Vivid Portrait Animation       	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2405.20851) 	|           Latent           	| Diffusion Model 	|                    arXiv                   	|
 | 2024 05 31 	|    X-Portrait: Expressive Portrait Animation with Hierarchical Motion Attention   	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2403.15931) 	|           Latent           	| Diffusion Model 	|              ACM SIGGRAPH 2024             	|
 | 2024 08 26 	|                    G3FA: Geometry-guided GAN for Face Animation                   	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2408.13049) 	|           Latent           	|       GAN       	|                    arXiv                   	|
+| 2024 09 27 	|                               Stable Video Portraits                              	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2409.18083) 	|     3D Parameterization    	| Diffusion Model 	|                  ECCV 2024                 	|
 | 2024 03 23 	|                   FaceOff: A Video-to-Video Face Swapping System                  	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2208.09788) 	|           Latent           	| Encoder-Decoder 	|                  WACV 2023                 	|
+
+
+
+
 
 </details>
 
@@ -565,14 +581,14 @@ dimension that has been underexplored in existing reviews.
 
 <details><summary>Holistic Human || Audio-Driven Holistic Body Driving</summary>
 
-|  **Date**  	|                                             **Title**                                            	|                                        **arXiv Link**                                       	| **Motion  Representation** 	|   **Backbone**  	|   **Venue**  	|
-|:----------:	|:------------------------------------------------------------------------------------------------:	|:-------------------------------------------------------------------------------------------:	|:--------------------------:	|:---------------:	|:------------:	|
-| 2024 03 13 	|                                              VLOGGER                                             	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2403.08764) 	|     3D Parameterization    	| Diffusion Model 	|     arXiv    	|
-| 2022 12 05 	|                          Audio-Driven Co-Speech Gesture Video Generation                         	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2212.02350) 	|           Latent           	| Encoder-Decoder 	| NeurIPS 2022 	|
-| 2024 09 04 	|       CyberHost: Taming Audio-driven Avatar Diffusion Model with Region Codebook Attention       	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2409.01876) 	|           Latent           	| Diffusion Model 	|     arXiv    	|
-| 2024 09 13 	| DiffTED: One-shot Audio-driven TED Talk Video Generation with Diffusion-based Co-speech Gestures 	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2409.07649) 	|          KeyPoint          	| Diffusion Model 	|     arXiv    	|
-| 2024 05 15 	|               Dance Any Beat: Blending Beats with Visuals in Dance Video Generation              	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2405.09266) 	|           Region           	| Diffusion Model 	|     arXiv    	|
-
+|  **Date**  	|                                               **Title**                                               	|                                        **arXiv Link**                                       	| **Motion  Representation** 	|   **Backbone**  	|   **Venue**  	|
+|:----------:	|:-----------------------------------------------------------------------------------------------------:	|:-------------------------------------------------------------------------------------------:	|:--------------------------:	|:---------------:	|:------------:	|
+| 2024 03 13 	|                                                VLOGGER                                                	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2403.08764) 	|     3D Parameterization    	| Diffusion Model 	|     arXiv    	|
+| 2022 12 05 	|                            Audio-Driven Co-Speech Gesture Video Generation                            	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2212.02350) 	|           Latent           	| Encoder-Decoder 	| NeurIPS 2022 	|
+| 2024 09 04 	|          CyberHost: Taming Audio-driven Avatar Diffusion Model with Region Codebook Attention         	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2409.01876) 	|           Latent           	| Diffusion Model 	|     arXiv    	|
+| 2024 09 13 	|    DiffTED: One-shot Audio-driven TED Talk Video Generation with Diffusion-based Co-speech Gestures   	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2409.07649) 	|          KeyPoint          	| Diffusion Model 	|     arXiv    	|
+| 2024 09 27 	| Self-Supervised Learning of Deviation in Latent Representation for Co-speech Gesture Video Generation 	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2409.17674) 	|           Region           	| Diffusion Model 	|     arXiv    	|
+| 2024 05 15 	|                 Dance Any Beat: Blending Beats with Visuals in Dance Video Generation                 	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2405.09266) 	|           Region           	| Diffusion Model 	|     arXiv    	|
 
 
 </details>
@@ -656,10 +672,17 @@ dimension that has been underexplored in existing reviews.
 ## Cite The Survey
 If you find our survey and repository useful for your research project, please consider citing our paper:
 
+Waiting......
+Arxiv now is on hold state (one month ago !!!!! 😠), we will update the bibtex once it is available.
+You can get the PDF from assets folder.
+
 ```bibtex
-    Waiting......
-    Arxiv now is on hold state, we will update the bibtex once it is available.
-    You can get the PDF from assets folder.
+    @misc{xue2024humanmotion,
+      title={Human Motion Video Generation: A survey},
+      author={Xue, Haiwei and Luo, Xiangyang and Hu, Zhanghao and Zhang, Xin and Xiang, Xunzhi and Dai, Yuqin and Liu, Jianzhuang and Zhang, Zhensong and Li, Minglei and Yang, Jian and Ma, Fei and Wu, Zhiyong and Yang, Changpeng and Dai, Zonghong and Yu, Fei Richard},
+      year={2024},
+      howpublished={\url{https://github.com/Winn1y/Awesome-Human-Motion-Video-Generation}}
+    }
 ```
 
 
