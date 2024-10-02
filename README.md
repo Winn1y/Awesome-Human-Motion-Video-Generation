@@ -12,9 +12,9 @@
 <img src='https://img.shields.io/badge/arXiv-PDF-green?style=flat&logo=arXiv&logoColor=green' alt='arXiv PDF'>
 </a>
 <img src='https://img.shields.io/badge/Awesome Survey-8A2BE2' alt='Survey'>
-<img src='https://img.shields.io/badge/Related Work-167+ Papers and 64+ Datasets-blue' alt='MorePapers'>
+<img src='https://img.shields.io/badge/Related Work-169+ Papers and 64+ Datasets-blue' alt='MorePapers'>
 <br>
-<img src='https://img.shields.io/badge/Update 🔥-2024.09.27-red' alt='MorePapers'>
+<img src='https://img.shields.io/badge/Update 🔥-2024.10.02-red' alt='MorePapers'>
 
 
 ---
@@ -148,8 +148,17 @@ dimension that has been underexplored in existing reviews.
 
 ## 💙 News
 
+**[2024/10/02][V2.7 Vision](https://github.com/Winn1y/Awesome-Human-Motion-Video-Generation): Update Methods.**
 
-**[2024/09/27][V2.6 Vision](https://github.com/Winn1y/Awesome-Human-Motion-Video-Generation): Update Methods.**
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2409.19911) Replace Anyone in Videos (Visual, Video-Guided Dance Video Generation)
+
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2409.19580) High Quality Human Image Animation using Regional Supervision and Motion Blur Condition (Visual, Pose-Guided Dance Video Generation)
+
+
+----
+
+
+[2024/09/27][V2.6 Vision](https://github.com/Winn1y/Awesome-Human-Motion-Video-Generation/tree/2.6): Update Methods.
 
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2409.18083) SVP (Visual, Portrait Animation)
 
@@ -317,7 +326,10 @@ dimension that has been underexplored in existing reviews.
 | 2018 08 22 	|                                Everybody dance now                               	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/1808.07371) 	|          KeyPoint          	|       GAN       	|                       ICCV 2019                      	|
 | 2023 07 02 	| Bidirectional Temporal Diffusion Model for Temporally Consistent Human Animation 	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2307.00574) 	|           Region           	| Diffusion Model 	|                         arXiv                        	|
 | 2023 02 22 	|      Human MotionFormer: Transferring Human Motions with Vision Transformers     	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2302.11306) 	|          KeyPoint          	| Encoder-Decoder 	|                         arXiv                        	|
+| 2024 10 02 	|                             Replace Anyone in Videos                             	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2409.19911) 	|          KeyPoint          	| Diffusion Model 	|                         arXiv                        	|
 | 2024 06 24 	|                     Do As I Do: Pose Guided Human Motion Copy                    	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2406.16601) 	|          KeyPoint          	|       GAN       	| IEEE Transactions on Dependable and Secure Computing 	|
+
+
 
 </details>
   
@@ -333,7 +345,6 @@ dimension that has been underexplored in existing reviews.
 
 
 <details><summary>Holistic Human || Pose-Guided Dance Video Generation </summary>
-
 
 
 
@@ -358,6 +369,7 @@ dimension that has been underexplored in existing reviews.
 |  2024 07 15 	|   TCAN: Animating Human Images with Temporally Consistent Pose Guidance using Diffusion Models   	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2407.09012) 	|          KeyPoint          	| Diffusion Model 	|     arxiv    	|
 |  2024 09 11 	|             RealisDance: Equip controllable character animation with realistic hands             	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2409.06202) 	|          KeyPoint          	| Diffusion Model 	|     arxiv    	|
 |  2024 09 25 	|           MIMO: Controllable Character Video Synthesis with Spatial Decomposed Modeling          	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2409.16160) 	|          KeyPoint          	| Diffusion Model 	|     arxiv    	|
+|  2024 10 02 	|      High Quality Human Image Animation using Regional Supervision and Motion Blur Condition     	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2409.19580) 	|          KeyPoint          	| Diffusion Model 	|     arxiv    	|
 |  2024 07 16 	|     IDOL: Unified Dual-Modal Latent Diffusion for Human-Centric Joint Video-Depth Generation     	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2407.10937) 	|           Region           	| Diffusion Model 	|     arxiv    	|
 
 
