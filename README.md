@@ -14,7 +14,7 @@
 <img src='https://img.shields.io/badge/Awesome Survey-8A2BE2' alt='Survey'>
 <img src='https://img.shields.io/badge/Related Work-170+ Papers and 64+ Datasets-blue' alt='MorePapers'>
 <br>
-<img src='https://img.shields.io/badge/Update 🔥-2024.10.03-red' alt='MorePapers'>
+<img src='https://img.shields.io/badge/Update 🔥-2024.10.04-red' alt='MorePapers'>
 
 
 ---
@@ -148,7 +148,24 @@ dimension that has been underexplored in existing reviews.
 
 ## 💙 News
 
-**[2024/10/03][V2.8 Vision](https://github.com/Winn1y/Awesome-Human-Motion-Video-Generation): Update Methods.**
+**[2024/10/04]🎉🎉🎉[V2.9 Vision](https://github.com/Winn1y/Awesome-Human-Motion-Video-Generation) I'm glad that our article is publicly available on [TechRxiv](https://www.techrxiv.org/users/836049/articles/1228135-human-motion-video-generation-a-survey). We welcome your attention and citations. The version on arXiv is still on hold, and we will update it when it becomes available.**
+
+```text
+@inproceedings{xue2024human,
+  title={Human Motion Video Generation: A survey},
+  author={Xue, H. and Luo, X. and Hu, Z. and et al.},
+  booktitle={TechRxiv},
+  year={2024},
+  doi={10.36227/techrxiv.172793202.22697340/v1}
+}
+```
+
+
+----
+
+
+
+[2024/10/03][V2.8 Vision](https://github.com/Winn1y/Awesome-Human-Motion-Video-Generation/tree/2.8): Update Methods.
 
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2410.00990) LaDTalk: Latent Denoising for Synthesizing Talking Head Videos with High Frequency Details (Audio, Head Pose Driving)
 
@@ -693,17 +710,14 @@ dimension that has been underexplored in existing reviews.
 ## Cite The Survey
 If you find our survey and repository useful for your research project, please consider citing our paper:
 
-Waiting......
-Arxiv now is on hold state (one month ago !!!!! 😠), we will update the bibtex once it is available.
-You can get the PDF from assets folder.
-
 ```bibtex
-    @misc{xue2024humanmotion,
-      title={Human Motion Video Generation: A survey},
-      author={Xue, Haiwei and Luo, Xiangyang and Hu, Zhanghao and Zhang, Xin and Xiang, Xunzhi and Dai, Yuqin and Liu, Jianzhuang and Zhang, Zhensong and Li, Minglei and Yang, Jian and Ma, Fei and Wu, Zhiyong and Yang, Changpeng and Dai, Zonghong and Yu, Fei Richard},
-      year={2024},
-      howpublished={\url{https://github.com/Winn1y/Awesome-Human-Motion-Video-Generation}}
-    }
+@inproceedings{xue2024human,
+  title={Human Motion Video Generation: A survey},
+  author={Xue, H. and Luo, X. and Hu, Z. and et al.},
+  booktitle={TechRxiv},
+  year={2024},
+  doi={10.36227/techrxiv.172793202.22697340/v1}
+}
 ```
 
 
