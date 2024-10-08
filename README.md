@@ -12,9 +12,10 @@
 <img src='https://img.shields.io/badge/arXiv-PDF-green?style=flat&logo=arXiv&logoColor=green' alt='arXiv PDF'>
 </a>
 <img src='https://img.shields.io/badge/Awesome Survey-8A2BE2' alt='Survey'>
-<img src='https://img.shields.io/badge/Related Work-170+ Papers and 64+ Datasets-blue' alt='MorePapers'>
+<img src='https://img.shields.io/badge/Related Work-171+ Papers and 64+ Datasets-blue' alt='MorePapers'>
 <br>
-<img src='https://img.shields.io/badge/Update 🔥-2024.10.04-red' alt='MorePapers'>
+<img src='https://img.shields.io/badge/Under Review-4BC88C' alt='under'>
+<img src='https://img.shields.io/badge/Update 🔥-2024.10.08-red' alt='MorePapers'>
 
 
 ---
@@ -148,7 +149,16 @@ dimension that has been underexplored in existing reviews.
 
 ## 💙 News
 
-**[2024/10/04]🎉🎉🎉[V2.9 Vision](https://github.com/Winn1y/Awesome-Human-Motion-Video-Generation) I'm glad that our article is publicly available on [TechRxiv](https://www.techrxiv.org/users/836049/articles/1228135-human-motion-video-generation-a-survey). We welcome your attention and citations. The version on arXiv is still on hold, and we will update it when it becomes available.**
+
+
+**[2024/10/08][V3.0 Vision](https://github.com/Winn1y/Awesome-Human-Motion-Video-Generation): Update Methods.**
+
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2410.04221) TANGO (Audio, Audio-Driven Holistic Body Driving)
+
+
+----
+
+[2024/10/04]🎉🎉🎉[V2.9 Vision](https://github.com/Winn1y/Awesome-Human-Motion-Video-Generation/tree/2.9) I'm glad that our article is publicly available on [TechRxiv](https://www.techrxiv.org/users/836049/articles/1228135-human-motion-video-generation-a-survey). We welcome your attention and citations. The version on arXiv is still on hold, and we will update it when it becomes available.**
 
 ```text
 @inproceedings{xue2024human,
@@ -617,17 +627,19 @@ dimension that has been underexplored in existing reviews.
 
 
 
+
 <details><summary>Holistic Human || Audio-Driven Holistic Body Driving</summary>
 
-|  **Date**  	|                                               **Title**                                               	|                                        **arXiv Link**                                       	| **Motion  Representation** 	|   **Backbone**  	|   **Venue**  	|
-|:----------:	|:-----------------------------------------------------------------------------------------------------:	|:-------------------------------------------------------------------------------------------:	|:--------------------------:	|:---------------:	|:------------:	|
-| 2024 03 13 	|                                                VLOGGER                                                	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2403.08764) 	|     3D Parameterization    	| Diffusion Model 	|     arXiv    	|
-| 2022 12 05 	|                            Audio-Driven Co-Speech Gesture Video Generation                            	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2212.02350) 	|           Latent           	| Encoder-Decoder 	| NeurIPS 2022 	|
-| 2024 09 04 	|          CyberHost: Taming Audio-driven Avatar Diffusion Model with Region Codebook Attention         	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2409.01876) 	|           Latent           	| Diffusion Model 	|     arXiv    	|
-| 2024 09 13 	|    DiffTED: One-shot Audio-driven TED Talk Video Generation with Diffusion-based Co-speech Gestures   	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2409.07649) 	|          KeyPoint          	| Diffusion Model 	|     arXiv    	|
-| 2024 09 27 	| Self-Supervised Learning of Deviation in Latent Representation for Co-speech Gesture Video Generation 	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2409.17674) 	|           Region           	| Diffusion Model 	|     arXiv    	|
-| 2024 05 15 	|                 Dance Any Beat: Blending Beats with Visuals in Dance Video Generation                 	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2405.09266) 	|           Region           	| Diffusion Model 	|     arXiv    	|
 
+|  **Date**  	|                                                    **Title**                                                    	|                                        **arXiv Link**                                       	| **Motion  Representation** 	|   **Backbone**  	|   **Venue**  	|
+|:----------:	|:---------------------------------------------------------------------------------------------------------------:	|:-------------------------------------------------------------------------------------------:	|:--------------------------:	|:---------------:	|:------------:	|
+| 2024 03 13 	|                                                     VLOGGER                                                     	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2403.08764) 	|     3D Parameterization    	| Diffusion Model 	|     arXiv    	|
+| 2022 12 05 	|                                 Audio-Driven Co-Speech Gesture Video Generation                                 	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2212.02350) 	|           Latent           	| Encoder-Decoder 	| NeurIPS 2022 	|
+| 2024 09 04 	|               CyberHost: Taming Audio-driven Avatar Diffusion Model with Region Codebook Attention              	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2409.01876) 	|           Latent           	| Diffusion Model 	|     arXiv    	|
+| 2024 09 13 	|         DiffTED: One-shot Audio-driven TED Talk Video Generation with Diffusion-based Co-speech Gestures        	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2409.07649) 	|          KeyPoint          	| Diffusion Model 	|     arXiv    	|
+| 2024 09 27 	|      Self-Supervised Learning of Deviation in Latent Representation for Co-speech Gesture Video Generation      	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2409.17674) 	|           Region           	| Diffusion Model 	|     arXiv    	|
+| 2024 10 08 	| TANGO: Co-Speech Gesture Video Reenactment with Hierarchical Audio Motion Embedding and Diffusion Interpolation 	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2410.04221) 	|           Latent           	| Encoder-Decoder 	|     arXiv    	|
+| 2024 05 15 	|                      Dance Any Beat: Blending Beats with Visuals in Dance Video Generation                      	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2405.09266) 	|           Region           	| Diffusion Model 	|     arXiv    	|
 
 </details>
 
