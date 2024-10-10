@@ -12,10 +12,10 @@
 <img src='https://img.shields.io/badge/arXiv-PDF-green?style=flat&logo=arXiv&logoColor=green' alt='arXiv PDF'>
 </a>
 <img src='https://img.shields.io/badge/Awesome Survey-8A2BE2' alt='Survey'>
-<img src='https://img.shields.io/badge/Related Work-171+ Papers and 64+ Datasets-blue' alt='MorePapers'>
+<img src='https://img.shields.io/badge/Related Work-172+ Papers and 64+ Datasets-blue' alt='MorePapers'>
 <br>
 <img src='https://img.shields.io/badge/Under Review-4BC88C' alt='under'>
-<img src='https://img.shields.io/badge/Update 🔥-2024.10.08-red' alt='MorePapers'>
+<img src='https://img.shields.io/badge/Update 🔥-2024.10.10-red' alt='MorePapers'>
 
 
 ---
@@ -149,16 +149,22 @@ dimension that has been underexplored in existing reviews.
 
 ## 💙 News
 
+**[2024/10/10][V3.1 Vision](https://github.com/Winn1y/Awesome-Human-Motion-Video-Generation): Update Methods.**
 
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2410.06734) MimicTalk: Mimicking a personalized and expressive 3D talking face in minutes (Audio, Fine-Grained Style and Emotion-Driven Animation)
 
-**[2024/10/08][V3.0 Vision](https://github.com/Winn1y/Awesome-Human-Motion-Video-Generation): Update Methods.**
-
-[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2410.04221) TANGO (Audio, Audio-Driven Holistic Body Driving)
 
 
 ----
 
-[2024/10/04]🎉🎉🎉[V2.9 Vision](https://github.com/Winn1y/Awesome-Human-Motion-Video-Generation/tree/2.9) I'm glad that our article is publicly available on [TechRxiv](https://www.techrxiv.org/users/836049/articles/1228135-human-motion-video-generation-a-survey). We welcome your attention and citations. The version on arXiv is still on hold, and we will update it when it becomes available.**
+[2024/10/08][V3.0 Vision](https://github.com/Winn1y/Awesome-Human-Motion-Video-Generation/tree/6945e3940e301a095027f4170fead4162c74a2cf): Update Methods.
+
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2410.04221) TANGO (Audio, Audio-Driven Holistic Body Driving)****
+
+
+----
+
+[2024/10/04]🎉🎉🎉[V2.9 Vision](https://github.com/Winn1y/Awesome-Human-Motion-Video-Generation/tree/6945e3940e301a095027f4170fead4162c74a2cf) I'm glad that our article is publicly available on [TechRxiv](https://www.techrxiv.org/users/836049/articles/1228135-human-motion-video-generation-a-survey). We welcome your attention and citations. The version on arXiv is still on hold, and we will update it when it becomes available.
 
 ```text
 @inproceedings{xue2024human,
@@ -175,7 +181,7 @@ dimension that has been underexplored in existing reviews.
 
 
 
-[2024/10/03][V2.8 Vision](https://github.com/Winn1y/Awesome-Human-Motion-Video-Generation/tree/2.8): Update Methods.
+[2024/10/03][V2.8 Vision](https://github.com/Winn1y/Awesome-Human-Motion-Video-Generation/tree/8032833cda3433cd611df9482405755277fc9843): Update Methods.
 
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2410.00990) LaDTalk: Latent Denoising for Synthesizing Talking Head Videos with High Frequency Details (Audio, Head Pose Driving)
 
@@ -184,7 +190,7 @@ dimension that has been underexplored in existing reviews.
 
 ----
 
-[2024/10/02][V2.7 Vision](https://github.com/Winn1y/Awesome-Human-Motion-Video-Generation/tree/2.7): Update Methods.
+[2024/10/02][V2.7 Vision](https://github.com/Winn1y/Awesome-Human-Motion-Video-Generation/tree/7145d2c803c87db4eae4157b73128e36e854f306): Update Methods.
 
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2409.19911) Replace Anyone in Videos (Visual, Video-Guided Dance Video Generation)
 
@@ -194,7 +200,7 @@ dimension that has been underexplored in existing reviews.
 ----
 
 
-[2024/09/27][V2.6 Vision](https://github.com/Winn1y/Awesome-Human-Motion-Video-Generation/tree/2.6): Update Methods.
+[2024/09/27][V2.6 Vision](https://github.com/Winn1y/Awesome-Human-Motion-Video-Generation/tree/2f4d88b7cfe0b2374895a62a85425fc4c74eeb73): Update Methods.
 
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2409.18083) SVP (Visual, Portrait Animation)
 
@@ -205,7 +211,7 @@ dimension that has been underexplored in existing reviews.
 ----
 
 
-[2024/09/25][V2.5 Vision](https://github.com/Winn1y/Awesome-Human-Motion-Video-Generation/tree/2.5): Update Methods.
+[2024/09/25][V2.5 Vision](https://github.com/Winn1y/Awesome-Human-Motion-Video-Generation/tree/6fc21a485fe89ddf6f19eb9babf16c2d5cd1d8d4): Update Methods.
 
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2409.16160) MIMO (Visual, Pose-Guided Dance Video Generation)
 
@@ -214,27 +220,27 @@ dimension that has been underexplored in existing reviews.
 
 -----
 
-[2024/09/24][V2.4 Vision](https://github.com/Winn1y/Awesome-Human-Motion-Video-Generation/tree/2.4): Update Methods.
+[2024/09/24][V2.4 Vision](https://github.com/Winn1y/Awesome-Human-Motion-Video-Generation/tree/23ab99584b094c07376c6ba10ba1a95810924f78): Update Methods.
 
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2409.15179) MIMAFace (Audio, Fine-Grained Style and Emotion-Driven Animation)
 
 ----
 
 
-[2024/09/23][V2.3 Vision](https://github.com/Winn1y/Awesome-Human-Motion-Video-Generation/tree/2.3): Update Methods.
+[2024/09/23][V2.3 Vision](https://github.com/Winn1y/Awesome-Human-Motion-Video-Generation/tree/95f8ece322ccd016095b67a06d281b63c6edc811): Update Methods.
 
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2409.13268) JoyHallo (Audio, Fine-Grained Style and Emotion-Driven Animation)
 
 ----
 
-[2024/09/19] [V2.2 Vision](https://github.com/Winn1y/Awesome-Human-Motion-Video-Generation/tree/2.2): Update Methods.
+[2024/09/19] [V2.2 Vision](https://github.com/Winn1y/Awesome-Human-Motion-Video-Generation/tree/9426f769250fe1c67fdfa976da737ca8932578f8): Update Methods.
 
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2409.12156) JEAN (Audio, Head Pose Driving)
 
 
 ----
 
-[2024/09/17] [V2.1 Vision](https://github.com/Winn1y/Awesome-Human-Motion-Video-Generation/tree/2.1): Update Methods.
+[2024/09/17] [V2.1 Vision](https://github.com/Winn1y/Awesome-Human-Motion-Video-Generation/tree/ef620143ea96facd46db5b1308d2046d4e1e1729): Update Methods.
 
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2409.09326) LawDNet (Audio, Lip Synchronization)
 
@@ -243,26 +249,26 @@ dimension that has been underexplored in existing reviews.
 
 ----
 
-[2024/09/13] [V2.0 Vision](https://github.com/Winn1y/Awesome-Human-Motion-Video-Generation/tree/2.0): Update Methods.
+[2024/09/13] [V2.0 Vision](https://github.com/Winn1y/Awesome-Human-Motion-Video-Generation/tree/2639c3c503d453983a986d0d935ac68f72a644b7): Update Methods.
 
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2409.07649) DiffTED (Audio, Audio-Driven Holistic Body Driving)
 
 
 ----
 
-[2024/09/12] [V1.9 Vision](https://github.com/Winn1y/Awesome-Human-Motion-Video-Generation/tree/1.9): Update Methods.
+[2024/09/12] [V1.9 Vision](https://github.com/Winn1y/Awesome-Human-Motion-Video-Generation/tree/8bbe098242b96558a29eda76f5c7f334491e879b): Update Methods.
 
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2409.07255) EMOdiffhead (Audio, Fine-Grained Animation)
 
 ----
 
-[2024/09/11] [V1.8 Vision](https://github.com/Winn1y/Awesome-Human-Motion-Video-Generation/tree/1.8): Update Methods.
+[2024/09/11] [V1.8 Vision](https://github.com/Winn1y/Awesome-Human-Motion-Video-Generation/tree/d519044e825da261475e9fb4bcbda8073dd6f97f): Update Methods.
 
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2409.06202) RealisDance (Visual, Pose-Guided Dance Video Generation)
 
 ----
 
-[2024/09/10] [V1.7 Vision](https://github.com/Winn1y/Awesome-Human-Motion-Video-Generation/tree/1.7): Update Methods.
+[2024/09/10] [V1.7 Vision](https://github.com/Winn1y/Awesome-Human-Motion-Video-Generation/tree/81c993d26fa2e3fa67763a1ad1aafd5943a5005c): Update Methods.
 
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2409.05089) Leveraging WaveNet for Dynamic Listening Head Modeling from Speech (Audio, Lip Synchronization)
 
@@ -272,7 +278,7 @@ dimension that has been underexplored in existing reviews.
 
 ----
 
-[2024/09/06] [V1.6 Vision](https://github.com/Winn1y/Awesome-Human-Motion-Video-Generation/tree/1.6): Update Methods.
+[2024/09/06] [V1.6 Vision](https://github.com/Winn1y/Awesome-Human-Motion-Video-Generation/tree/efe3d0e4321817e53f25c0ed01a7a701201f6859): Update Methods.
 
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2409.03270) SVP (Audio, Fine-Grained Animation)
 
@@ -280,7 +286,7 @@ dimension that has been underexplored in existing reviews.
 
 ----
 
-[2024/09/05] [V1.5 Vision](https://github.com/Winn1y/Awesome-Human-Motion-Video-Generation/tree/1.5): Update Methods.
+[2024/09/05] [V1.5 Vision](https://github.com/Winn1y/Awesome-Human-Motion-Video-Generation/tree/48a6be9665c56a2cee63d95413cfb1641bd86881): Update Methods.
 
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2409.02634) Loopy (Audio, Fine-Grained Animation)
 
@@ -289,13 +295,13 @@ dimension that has been underexplored in existing reviews.
 
 ----
 
-[2024/09/04] [V1.4 Vision](https://github.com/Winn1y/Awesome-Human-Motion-Video-Generation/tree/1.4): Update Methods.
+[2024/09/04] [V1.4 Vision](https://github.com/Winn1y/Awesome-Human-Motion-Video-Generation/tree/db000f0d47f495281ce76952fd29a354e5bbdecc): Update Methods.
 
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2409.01876) CyberHost (Audio, Holistic Human Driving)
 
 ----
 
-[2024/08/28] [V1.3 Vision](https://github.com/Winn1y/Awesome-Human-Motion-Video-Generation/tree/1.3): Update Methods.
+[2024/08/28] [V1.3 Vision](https://github.com/Winn1y/Awesome-Human-Motion-Video-Generation/tree/5155e40204b06cc14f2c6ed48f482bcd1101b2cc): Update Methods.
 
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2408.14975) MegActor-Σ (Audio, Fine-Grained Animation)
 
@@ -303,13 +309,13 @@ dimension that has been underexplored in existing reviews.
 
 ----
 
-[2024/08/27] [V1.2 Vision](https://github.com/Winn1y/Awesome-Human-Motion-Video-Generation/tree/1.2): Update Methods.
+[2024/08/27] [V1.2 Vision](https://github.com/Winn1y/Awesome-Human-Motion-Video-Generation/tree/5165410301c52c2313efc5a006cc3429660b49bb): Update Methods.
 
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2408.13674) GenCA (Text, Text2Face)
 
 ----
 
-[2024/08/26] [V1.1 Vision](https://github.com/Winn1y/Awesome-Human-Motion-Video-Generation/tree/1.1): Update Methods.
+[2024/08/26] [V1.1 Vision](https://github.com/Winn1y/Awesome-Human-Motion-Video-Generation/tree/f804350c23fa9e3d8f77334fd0e33e193d2ea351): Update Methods.
 
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2408.13049)  G3FA (Vision, Portrait Animation)
 
@@ -646,6 +652,9 @@ dimension that has been underexplored in existing reviews.
 
 <details><summary>Part (Face) || Fine-Grained Style and Emotion-Driven Animation</summary>
 
+
+
+
 |  **Date**  	|                                                **Title**                                               	|                                        **arXiv Link**                                       	| **Motion  Representation** 	|          **Backbone**          	|               **Venue**              	|
 |:----------:	|:------------------------------------------------------------------------------------------------------:	|:-------------------------------------------------------------------------------------------:	|:--------------------------:	|:------------------------------:	|:------------------------------------:	|
 | 2021 05 19 	|                                 Audio-Driven Emotional Video Portraits                                 	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2104.07452) 	|          KeyPoint          	|         Encoder-Decoder        	|               CVPR 2021              	|
@@ -673,9 +682,11 @@ dimension that has been underexplored in existing reviews.
 | 2024 09 17 	|          StyleTalk++: A Unified Framework for Controlling the Speaking Styles of Talking Heads         	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2409.09292) 	|     3D Parameterization    	|         Encoder-Decoder        	|                 arXiv                	|
 | 2024 09 23 	|                               JoyHallo: Digital human model for Mandarin                               	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2409.13268) 	|           Latent           	|         Diffusion Model        	|                 arXiv                	|
 | 2024 09 24 	|           MIMAFace: Face Animation via Motion-Identity Modulated Appearance Feature Learning           	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2409.15179) 	|           Latent           	|         Diffusion Model        	|                 arXiv                	|
+| 2024 10 10 	|              MimicTalk: Mimicking a personalized and expressive 3D talking face in minutes             	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2410.06734) 	|     3D Parameterization    	|         Encoder-Decoder        	|               Nips 2024              	|
 | 2024 08 07 	|       ReSyncer: Rewiring Style-based Generator for Unified Audio-Visually Synced Facial Performer      	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2408.03284) 	|           Latent           	|         Encoder-Decoder        	|               ECCV 2024              	|
 | 2023 01 05 	|                  Expressive Speech-driven Facial Animation with controllable emotions                  	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2301.02008) 	|           Latent           	|         Encoder-Decoder        	|              ICMEW 2023              	|
 | 2024 01 28 	|             Media2Face: Co-speech Facial Animation Generation With Multi-Modality Guidance             	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2401.15687) 	|           Latent           	|         Diffusion Model        	|                 arXiv                	|
+
 
 
 
