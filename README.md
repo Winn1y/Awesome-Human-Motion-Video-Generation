@@ -12,10 +12,10 @@
 <img src='https://img.shields.io/badge/arXiv-PDF-green?style=flat&logo=arXiv&logoColor=green' alt='arXiv PDF'>
 </a>
 <img src='https://img.shields.io/badge/Awesome Survey-8A2BE2' alt='Survey'>
-<img src='https://img.shields.io/badge/Related Work-172+ Papers and 64+ Datasets-blue' alt='MorePapers'>
+<img src='https://img.shields.io/badge/Related Work-173+ Papers and 64+ Datasets-blue' alt='MorePapers'>
 <br>
 <img src='https://img.shields.io/badge/Under Review-4BC88C' alt='under'>
-<img src='https://img.shields.io/badge/Update 🔥-2024.10.10-red' alt='MorePapers'>
+<img src='https://img.shields.io/badge/Update 🔥-2024.10.11-red' alt='MorePapers'>
 
 
 ---
@@ -149,7 +149,13 @@ dimension that has been underexplored in existing reviews.
 
 ## 💙 News
 
-**[2024/10/10][V3.1 Vision](https://github.com/Winn1y/Awesome-Human-Motion-Video-Generation): Update Methods.**
+**[2024/10/11][V3.2 Vision](https://github.com/Winn1y/Awesome-Human-Motion-Video-Generation): Update Methods.**
+
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2410.07718) Hallo2: Long-Duration and High-Resolution Audio-Driven Portrait Image Animation (Audio, Fine-Grained Style and Emotion-Driven Animation)
+
+----
+
+[2024/10/10][V3.1 Vision](https://github.com/Winn1y/Awesome-Human-Motion-Video-Generation/tree/3.1): Update Methods.
 
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2410.06734) MimicTalk: Mimicking a personalized and expressive 3D talking face in minutes (Audio, Fine-Grained Style and Emotion-Driven Animation)
 
@@ -159,7 +165,7 @@ dimension that has been underexplored in existing reviews.
 
 [2024/10/08][V3.0 Vision](https://github.com/Winn1y/Awesome-Human-Motion-Video-Generation/tree/6945e3940e301a095027f4170fead4162c74a2cf): Update Methods.
 
-[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2410.04221) TANGO (Audio, Audio-Driven Holistic Body Driving)****
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2410.04221) TANGO (Audio, Audio-Driven Holistic Body Driving)
 
 
 ----
@@ -653,8 +659,6 @@ dimension that has been underexplored in existing reviews.
 <details><summary>Part (Face) || Fine-Grained Style and Emotion-Driven Animation</summary>
 
 
-
-
 |  **Date**  	|                                                **Title**                                               	|                                        **arXiv Link**                                       	| **Motion  Representation** 	|          **Backbone**          	|               **Venue**              	|
 |:----------:	|:------------------------------------------------------------------------------------------------------:	|:-------------------------------------------------------------------------------------------:	|:--------------------------:	|:------------------------------:	|:------------------------------------:	|
 | 2021 05 19 	|                                 Audio-Driven Emotional Video Portraits                                 	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2104.07452) 	|          KeyPoint          	|         Encoder-Decoder        	|               CVPR 2021              	|
@@ -671,6 +675,7 @@ dimension that has been underexplored in existing reviews.
 | 2024 04 29 	|                                              EMOPortraits                                              	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2404.19110) 	|           Latent           	|               GAN              	|               CVPR 2024              	|
 | 2024 05 12 	|          Listen, Disentangle, and Control: Controllable Speech-Driven Talking Head Generation          	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2405.07257) 	|           Latent           	|               GAN              	|                 arXiv                	|
 | 2024 06 16 	|             Hallo: Hierarchical Audio-Driven Visual Synthesis for Portrait Image Animation             	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2406.08801) 	|           Latent           	|         Diffusion Model        	|                 arXiv                	|
+| 2024 10 11 	|             Hallo2: Long-Duration and High-Resolution Audio-Driven Portrait Image Animation            	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2410.07718) 	|           Latent           	|         Diffusion Model        	|                 arXiv                	|
 | 2024 04 16 	|                                                 VASA-1                                                 	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2404.10667) 	|           Latent           	| Diffusion Model By Transformer 	|                 arXiv                	|
 | 2024 08 20 	|   S^3D-NeRF: Single-Shot Speech-Driven Neural Radiance Field for High Fidelity Talking Head Synthesis  	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2408.09347) 	|           Latent           	|         Encoder-Decoder        	|                 arXiv                	|
 | 2024 08 20 	|       FD2Talk: Towards Generalized Talking Head Generation with Facial Decoupled Diffusion Model       	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2408.09384) 	|     3D Parameterization    	|         Diffusion Model        	|              ACMMM 2024              	|
@@ -686,9 +691,6 @@ dimension that has been underexplored in existing reviews.
 | 2024 08 07 	|       ReSyncer: Rewiring Style-based Generator for Unified Audio-Visually Synced Facial Performer      	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2408.03284) 	|           Latent           	|         Encoder-Decoder        	|               ECCV 2024              	|
 | 2023 01 05 	|                  Expressive Speech-driven Facial Animation with controllable emotions                  	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2301.02008) 	|           Latent           	|         Encoder-Decoder        	|              ICMEW 2023              	|
 | 2024 01 28 	|             Media2Face: Co-speech Facial Animation Generation With Multi-Modality Guidance             	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2401.15687) 	|           Latent           	|         Diffusion Model        	|                 arXiv                	|
-
-
-
 
 
 
