@@ -12,10 +12,10 @@
 <img src='https://img.shields.io/badge/arXiv-PDF-green?style=flat&logo=arXiv&logoColor=green' alt='arXiv PDF'>
 </a>
 <img src='https://img.shields.io/badge/Awesome Survey-8A2BE2' alt='Survey'>
-<img src='https://img.shields.io/badge/Related Work-173+ Papers and 64+ Datasets-blue' alt='MorePapers'>
+<img src='https://img.shields.io/badge/Related Work-177+ Papers and 64+ Datasets-blue' alt='MorePapers'>
 <br>
 <img src='https://img.shields.io/badge/Under Review-4BC88C' alt='under'>
-<img src='https://img.shields.io/badge/Update 🔥-2024.10.11-red' alt='MorePapers'>
+<img src='https://img.shields.io/badge/Update 🔥-2024.10.15-red' alt='MorePapers'>
 
 
 ---
@@ -149,7 +149,21 @@ dimension that has been underexplored in existing reviews.
 
 ## 💙 News
 
-**[2024/10/11][V3.2 Vision](https://github.com/Winn1y/Awesome-Human-Motion-Video-Generation): Update Methods.**
+**[2024/10/15][V3.3 Vision](https://github.com/Winn1y/Awesome-Human-Motion-Video-Generation): Update Methods.**
+
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2410.10821) Tex4D (Text, Text2MotionVideo)
+
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2410.10696) TALK-Act: Enhance Textural-Awareness for 2D Speaking Avatar Reenactment with Diffusion Model (Audio, Audio-Driven Holistic Body Driving)
+
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2410.10306) Animate-X: Universal Character Image Animation with Enhanced Motion Representation (Visual, Pose-Guided Dance Video Generation)
+
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2410.10122) MuseTalk: Real-Time High Quality Lip Synchronization with Latent Space Inpainting (Audio, Lip Synchronization)
+
+
+
+----
+
+[2024/10/11][V3.2 Vision](https://github.com/Winn1y/Awesome-Human-Motion-Video-Generation/tree/3.2): Update Methods.
 
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2410.07718) Hallo2: Long-Duration and High-Resolution Audio-Driven Portrait Image Animation (Audio, Fine-Grained Style and Emotion-Driven Animation)
 
@@ -173,11 +187,12 @@ dimension that has been underexplored in existing reviews.
 [2024/10/04]🎉🎉🎉[V2.9 Vision](https://github.com/Winn1y/Awesome-Human-Motion-Video-Generation/tree/6945e3940e301a095027f4170fead4162c74a2cf) I'm glad that our article is publicly available on [TechRxiv](https://www.techrxiv.org/users/836049/articles/1228135-human-motion-video-generation-a-survey). We welcome your attention and citations. The version on arXiv is still on hold, and we will update it when it becomes available.
 
 ```text
-@inproceedings{xue2024human,
+@article{xue2024human,
   title={Human Motion Video Generation: A survey},
-  author={Xue, H. and Luo, X. and Hu, Z. and et al.},
-  booktitle={TechRxiv},
+  author={Xue, Haiwei and Luo, Xiangyang and Hu, Zhanghao and Zhang, Xin and Xiang, Xunzhi and Dai, Yuqin and Liu, Jianzhuang and Zhang, Zhensong and Li, Minglei and Yang, Jian and others},
+  journal={Authorea Preprints},
   year={2024},
+  publisher={Authorea}
   doi={10.36227/techrxiv.172793202.22697340/v1}
 }
 ```
@@ -395,7 +410,6 @@ dimension that has been underexplored in existing reviews.
 <details><summary>Holistic Human || Pose-Guided Dance Video Generation </summary>
 
 
-
 |   **Date**  	|                                             **Title**                                            	|                                        **arXiv Link**                                       	| **Motion  Representation** 	|   **Backbone**  	|   **Venue**  	|
 |:-----------:	|:------------------------------------------------------------------------------------------------:	|:-------------------------------------------------------------------------------------------:	|:--------------------------:	|:---------------:	|:------------:	|
 |  2023 06 30 	|                                               DisCo                                              	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2307.00040) 	|          KeyPoint          	| Diffusion Model 	|   CVPR2024   	|
@@ -418,9 +432,8 @@ dimension that has been underexplored in existing reviews.
 |  2024 09 11 	|             RealisDance: Equip controllable character animation with realistic hands             	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2409.06202) 	|          KeyPoint          	| Diffusion Model 	|     arxiv    	|
 |  2024 09 25 	|           MIMO: Controllable Character Video Synthesis with Spatial Decomposed Modeling          	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2409.16160) 	|          KeyPoint          	| Diffusion Model 	|     arxiv    	|
 |  2024 10 02 	|      High Quality Human Image Animation using Regional Supervision and Motion Blur Condition     	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2409.19580) 	|          KeyPoint          	| Diffusion Model 	|     arxiv    	|
+|  2024 10 15 	|        Animate-X: Universal Character Image Animation with Enhanced Motion Representation        	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2410.10306) 	|          KeyPoint          	| Diffusion Model 	|     arxiv    	|
 |  2024 07 16 	|     IDOL: Unified Dual-Modal Latent Diffusion for Human-Centric Joint Video-Depth Generation     	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2407.10937) 	|           Region           	| Diffusion Model 	|     arxiv    	|
-
-
 
 
 </details>
@@ -500,6 +513,10 @@ dimension that has been underexplored in existing reviews.
 
 <details><summary>Holistic Human || Text2MotionVideo</summary>
 
+
+
+
+
 |   **Date**  	|                                                       **Title**                                                      	|                                        **arXiv Link**                                       	| **Motion  Representation** 	|   **Backbone**  	| **Venue** 	|
 |:-----------:	|:--------------------------------------------------------------------------------------------------------------------:	|:-------------------------------------------------------------------------------------------:	|:--------------------------:	|:---------------:	|:---------:	|
 |  2024 05 08 	|                                                   Edit-Your-Motion                                                   	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2405.04496) 	|          KeyPoint          	| Diffusion Model 	|   arXiv   	|
@@ -509,7 +526,7 @@ dimension that has been underexplored in existing reviews.
 |  2024 02 14 	|                                Magic-Me: Identity-Specific Video Customized Diffusion                                	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2402.09368) 	|           Latent           	| Diffusion Model 	|   arXiv   	|
 |  2024 04 07 	|            Towards a Simultaneous and Granular Identity-Expression Control in Personalized Face Generation           	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2401.01207) 	|           Latent           	| Diffusion Model 	| CVPR 2024 	|
 |  2023 04 17 	|                                  Text2Performer: Text-Driven Human Video Generation                                  	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2304.08483) 	|           Latent           	| Encoder-Decoder 	| ICCV 2023 	|
-| 2024 04 14  	|                                                     LoopAnimate                                                      	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2404.09172) 	|           Latent           	| Diffusion Model 	|   arXiv   	|
+| 2024 04 14  	|                                                     LoopAnimate                                                      	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2404.09172	) 	|           Latent           	| Diffusion Model 	|   arXiv   	|
 |  2023 07 10 	|             AnimateDiff: Animate Your Personalized Text-to-Image Diffusion Models without Specific Tuning            	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2307.04725) 	|           Latent           	| Diffusion Model 	|   arXiv   	|
 |  2023 12 06 	|                           AnimateZero: Video Diffusion Models are Zero-Shot Image Animators                          	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2312.03793) 	|           Latent           	| Diffusion Model 	|   arXiv   	|
 |  2023 10 30 	|                        VideoCrafter1: Open Diffusion Models for High-Quality Video Generation                        	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2310.19512) 	|           Latent           	| Diffusion Model 	|   arXiv   	|
@@ -521,7 +538,12 @@ dimension that has been underexplored in existing reviews.
 |  2024 02 22 	|                                                   Customize-A-Video                                                  	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2402.14780) 	|           Latent           	| Diffusion Model 	|   arXiv   	|
 |  2023 12 12 	|                   LatentMan: Generating Consistent Animated Characters using Image Diffusion Models                  	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2312.07133) 	|     3D Parameterization    	| Diffusion Model 	|   arXiv   	|
 |  2024 08 15 	|                    DeCo: Decoupled Human-Centered Diffusion Video Editing with Motion Consistency                    	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2408.07481) 	|     3D Parameterization    	| Diffusion Model 	|   arXiv   	|
+|  2024 10 15 	|                            Tex4D: Zero-shot 4D Scene Texturing with Video Diffusion Models                           	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2410.10821) 	|           Latent           	| Diffusion Model 	|   arXiv   	|
 |  2024 01 17 	|                  VideoCrafter2: Overcoming Data Limitations for High-Quality Video Diffusion Models                  	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2401.09047) 	|           Latent           	| Diffusion Model 	| CVPR 2024 	|
+
+
+
+
 
 </details>
 
@@ -552,7 +574,6 @@ dimension that has been underexplored in existing reviews.
 
 <details open><summary>Part (Face) || Lip Synchronization</summary>
 
-
 |  **Date**  	|                                       **Title**                                      	|                                              **arXiv Link**                                             	| **Motion  Representation** 	|   **Backbone**  	| **Venue** 	|
 |:----------:	|:------------------------------------------------------------------------------------:	|:-------------------------------------------------------------------------------------------------------:	|:--------------------------:	|:---------------:	|:---------:	|
 | 2020 09 17 	|                      Photorealistic Audio-driven Video Portraits                     	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://ieeexplore.ieee.org/document/9199560) 	|           Region           	| Encoder-Decoder 	|  TVCG2020 	|
@@ -564,7 +585,11 @@ dimension that has been underexplored in existing reviews.
 | 2024 09 10 	|     KAN-Based Fusion of Dual-Domain for Audio-Driven Facial Landmarks Generation     	|       [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2409.05330)       	|          KeyPoint          	| Encoder-Decoder 	|   arxiv   	|
 | 2024 09 10 	|            PersonaTalk: Bring Attention to Your Persona in Visual Dubbing            	|       [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2409.05379)       	|     3D Parameterization    	| Encoder-Decoder 	|   arxiv   	|
 | 2024 09 17 	|   LawDNet: Enhanced Audio-Driven Lip Synthesis via Local Affine Warping Deformation  	|       [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2409.09326)       	|           Latent           	| Encoder-Decoder 	|   arxiv   	|
+| 2024 10 15 	|   MuseTalk: Real-Time High Quality Lip Synchronization with Latent Space Inpainting  	|       [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2410.10122)       	|           Latent           	| Diffusion Model 	|   arxiv   	|
 | 2023 01 10 	|         Speech driven video editing via an audio-conditioned diffusion model         	|       [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2301.04474)       	|           Latent           	| Diffusion Model 	|  IVC2024  	|
+
+
+
 
 
 
@@ -642,7 +667,6 @@ dimension that has been underexplored in existing reviews.
 
 <details><summary>Holistic Human || Audio-Driven Holistic Body Driving</summary>
 
-
 |  **Date**  	|                                                    **Title**                                                    	|                                        **arXiv Link**                                       	| **Motion  Representation** 	|   **Backbone**  	|   **Venue**  	|
 |:----------:	|:---------------------------------------------------------------------------------------------------------------:	|:-------------------------------------------------------------------------------------------:	|:--------------------------:	|:---------------:	|:------------:	|
 | 2024 03 13 	|                                                     VLOGGER                                                     	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2403.08764) 	|     3D Parameterization    	| Diffusion Model 	|     arXiv    	|
@@ -651,7 +675,11 @@ dimension that has been underexplored in existing reviews.
 | 2024 09 13 	|         DiffTED: One-shot Audio-driven TED Talk Video Generation with Diffusion-based Co-speech Gestures        	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2409.07649) 	|          KeyPoint          	| Diffusion Model 	|     arXiv    	|
 | 2024 09 27 	|      Self-Supervised Learning of Deviation in Latent Representation for Co-speech Gesture Video Generation      	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2409.17674) 	|           Region           	| Diffusion Model 	|     arXiv    	|
 | 2024 10 08 	| TANGO: Co-Speech Gesture Video Reenactment with Hierarchical Audio Motion Embedding and Diffusion Interpolation 	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2410.04221) 	|           Latent           	| Encoder-Decoder 	|     arXiv    	|
+| 2024 10 15 	|           TALK-Act: Enhance Textural-Awareness for 2D Speaking Avatar Reenactment with Diffusion Model          	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2410.10696) 	|           Latent           	| Diffusion Model 	|     arXiv    	|
 | 2024 05 15 	|                      Dance Any Beat: Blending Beats with Visuals in Dance Video Generation                      	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2405.09266) 	|           Region           	| Diffusion Model 	|     arXiv    	|
+
+
+
 
 </details>
 
@@ -736,11 +764,12 @@ dimension that has been underexplored in existing reviews.
 If you find our survey and repository useful for your research project, please consider citing our paper:
 
 ```bibtex
-@inproceedings{xue2024human,
+@article{xue2024human,
   title={Human Motion Video Generation: A survey},
-  author={Xue, H. and Luo, X. and Hu, Z. and et al.},
-  booktitle={TechRxiv},
+  author={Xue, Haiwei and Luo, Xiangyang and Hu, Zhanghao and Zhang, Xin and Xiang, Xunzhi and Dai, Yuqin and Liu, Jianzhuang and Zhang, Zhensong and Li, Minglei and Yang, Jian and others},
+  journal={Authorea Preprints},
   year={2024},
+  publisher={Authorea}
   doi={10.36227/techrxiv.172793202.22697340/v1}
 }
 ```
