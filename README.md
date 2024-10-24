@@ -9,13 +9,16 @@
     
 <p align="center">
 <a href='assets/Human Motion Video Generation A Survey.pdf'>
-<img src='https://img.shields.io/badge/arXiv-PDF-green?style=flat&logo=arXiv&logoColor=green' alt='arXiv PDF'>
+<img src='https://img.shields.io/badge/TechRxiv-PDF-green?style=flat&logo=TechRxiv&logoColor=green' alt='TechRxiv PDF'>
 </a>
 <img src='https://img.shields.io/badge/Awesome Survey-8A2BE2' alt='Survey'>
-<img src='https://img.shields.io/badge/Related Work-179+ Papers and 64+ Datasets-blue' alt='MorePapers'>
+<img src='https://img.shields.io/badge/Related Work-180+ Papers and 64+ Datasets-blue' alt='MorePapers'>
 <br>
 <img src='https://img.shields.io/badge/Under Review-4BC88C' alt='under'>
-<img src='https://img.shields.io/badge/Update 🔥-2024.10.21-red' alt='MorePapers'>
+<img src='https://img.shields.io/badge/Update 🔥-2024.10.24-red' alt='MorePapers'>
+<a href='https://zhuanlan.zhihu.com/p/2672965087'>
+<img src='https://img.shields.io/badge/知乎-论文笔记-0084ff?style=flat&logo=zhihu&logoColor=yellow' alt='知乎文章'>
+</a>
 <br>
 <br>
 You can click on <b><img width="16" src="https://img.icons8.com/emoji/48/FFD700/eyes-emoji.png" alt="Watch Icon"/> Watch</b> and <b><img width="16" src="https://img.icons8.com/emoji/48/FFD700/star-emoji.png" alt="Star Icon"/> Star</b> to get the latest updates at any time.
@@ -156,7 +159,20 @@ dimension that has been underexplored in existing reviews.
 
 ## 💙 News
 
-**[2024/10/21][V3.5 Vision](https://github.com/Winn1y/Awesome-Human-Motion-Video-Generation): Update Methods.**
+
+**[2024/10/24 Happy Coding Day!][V3.6 Vision](https://github.com/Winn1y/Awesome-Human-Motion-Video-Generation): Update Methods.**
+
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2410.17262) EmoGene (Audio, Fine-Grained Style and Emotion-Driven Animation)
+
+<a href='https://zhuanlan.zhihu.com/p/2672965087'>
+<img src='https://img.shields.io/badge/知乎-论文笔记-0084ff?style=flat&logo=zhihu&logoColor=yellow' alt='知乎文章'>
+</a>
+Find the Chinese version notes of the survey, welcome to pay attention.
+
+----
+
+
+[2024/10/21][V3.5 Vision](https://github.com/Winn1y/Awesome-Human-Motion-Video-Generation/tree/3.5): Update Methods.
 
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2410.14283) Takin-ADA: Emotion Controllable Audio-Driven Animation with Canonical and Landmark Loss Optimization (Audio, Fine-Grained Style and Emotion-Driven Animation)
 
@@ -708,7 +724,6 @@ dimension that has been underexplored in existing reviews.
 
 
 
-
 |  **Date**  	|                                                **Title**                                               	|                                        **arXiv Link**                                       	| **Motion  Representation** 	|          **Backbone**          	|               **Venue**              	|
 |:----------:	|:------------------------------------------------------------------------------------------------------:	|:-------------------------------------------------------------------------------------------:	|:--------------------------:	|:------------------------------:	|:------------------------------------:	|
 | 2021 05 19 	|                                 Audio-Driven Emotional Video Portraits                                 	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2104.07452) 	|          KeyPoint          	|         Encoder-Decoder        	|               CVPR 2021              	|
@@ -739,6 +754,7 @@ dimension that has been underexplored in existing reviews.
 | 2024 09 24 	|           MIMAFace: Face Animation via Motion-Identity Modulated Appearance Feature Learning           	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2409.15179) 	|           Latent           	|         Diffusion Model        	|                 arXiv                	|
 | 2024 10 10 	|              MimicTalk: Mimicking a personalized and expressive 3D talking face in minutes             	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2410.06734) 	|     3D Parameterization    	|         Encoder-Decoder        	|               Nips 2024              	|
 | 2024 10 21 	|  Takin-ADA: Emotion Controllable Audio-Driven Animation with Canonical and Landmark Loss Optimization  	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2410.14283) 	|           Latent           	|         Encoder-Decoder        	|                 arXiv                	|
+| 2024 10 24 	|                            Audio-Driven Emotional 3D Talking-Head Generation                           	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2410.17262) 	|           Latent           	|         Encoder-Decoder        	|                 arXiv                	|
 | 2024 08 07 	|       ReSyncer: Rewiring Style-based Generator for Unified Audio-Visually Synced Facial Performer      	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2408.03284) 	|           Latent           	|         Encoder-Decoder        	|               ECCV 2024              	|
 | 2023 01 05 	|                  Expressive Speech-driven Facial Animation with controllable emotions                  	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2301.02008) 	|           Latent           	|         Encoder-Decoder        	|              ICMEW 2023              	|
 | 2024 01 28 	|             Media2Face: Co-speech Facial Animation Generation With Multi-Modality Guidance             	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2401.15687) 	|           Latent           	|         Diffusion Model        	|                 arXiv                	|
