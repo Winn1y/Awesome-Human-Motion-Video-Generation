@@ -12,10 +12,10 @@
 <img src='https://img.shields.io/badge/TechRxiv-PDF-green?style=flat&logo=TechRxiv&logoColor=green' alt='TechRxiv PDF'>
 </a>
 <img src='https://img.shields.io/badge/Awesome Survey-8A2BE2' alt='Survey'>
-<img src='https://img.shields.io/badge/Related Work-180+ Papers and 64+ Datasets-blue' alt='MorePapers'>
+<img src='https://img.shields.io/badge/Related Work-182+ Papers and 64+ Datasets-blue' alt='MorePapers'>
 <br>
 <img src='https://img.shields.io/badge/Under Review-4BC88C' alt='under'>
-<img src='https://img.shields.io/badge/Update 🔥-2024.10.24-red' alt='MorePapers'>
+<img src='https://img.shields.io/badge/Update 🔥-2024.10.29-red' alt='MorePapers'>
 <a href='https://zhuanlan.zhihu.com/p/2672965087'>
 <img src='https://img.shields.io/badge/知乎-论文笔记-0084ff?style=flat&logo=zhihu&logoColor=yellow' alt='知乎文章'>
 </a>
@@ -159,8 +159,13 @@ dimension that has been underexplored in existing reviews.
 
 ## 💙 News
 
+**[2024/10/29][V3.7 Vision](https://github.com/Winn1y/Awesome-Human-Motion-Video-Generation): Update Methods.**
 
-**[2024/10/24 Happy Coding Day!][V3.6 Vision](https://github.com/Winn1y/Awesome-Human-Motion-Video-Generation): Update Methods.**
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2410.20974) MovieCharacter (Visual, Pose2Video)
+
+----
+
+[2024/10/24 Happy Coding Day!][V3.6 Vision](https://github.com/Winn1y/Awesome-Human-Motion-Video-Generation/tree/3.6): Update Methods.
 
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2410.17262) EmoGene (Audio, Fine-Grained Style and Emotion-Driven Animation)
 
@@ -508,11 +513,13 @@ Find the Chinese version notes of the survey, welcome to pay attention.
 <details><summary>Holistic Human || Pose2Video </summary>
 
 
-|  **Date**  	|                                  **Title**                                  	|                                        **arXiv Link**                                       	| **Motion  Representation** 	|   **Backbone**  	| **Venue** 	|
-|:----------:	|:---------------------------------------------------------------------------:	|:-------------------------------------------------------------------------------------------:	|:--------------------------:	|:---------------:	|:---------:	|
-| 2023 04 12 	|                                  DreamPose                                  	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2304.06025) 	|           Region           	| Diffusion Model 	| ICCV 2023 	|
-| 2024 03 25 	|      Make-Your-Anchor: A Diffusion-based 2D Avatar Generation Framework     	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2403.16510) 	|     3D Parameterization    	| Diffusion Model 	| CVPR 2024 	|
-| 2024 04 21 	| PoseAnimate: Zero-shot high fidelity pose controllable character animation  	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2404.13680) 	|          KeyPoint          	| Diffusion Model 	|   arxiv   	|
+|  **Date**  	|                                      **Title**                                     	|                                        **arXiv Link**                                       	| **Motion  Representation** 	|   **Backbone**  	| **Venue** 	|
+|:----------:	|:----------------------------------------------------------------------------------:	|:-------------------------------------------------------------------------------------------:	|:--------------------------:	|:---------------:	|:---------:	|
+| 2023 04 12 	|                                      DreamPose                                     	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2304.06025) 	|           Region           	| Diffusion Model 	| ICCV 2023 	|
+| 2024 03 25 	|         Make-Your-Anchor: A Diffusion-based 2D Avatar Generation Framework         	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2403.16510) 	|     3D Parameterization    	| Diffusion Model 	| CVPR 2024 	|
+| 2024 04 21 	|     PoseAnimate: Zero-shot high fidelity pose controllable character animation     	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2404.13680) 	|          KeyPoint          	| Diffusion Model 	|   arxiv   	|
+| 2024 10 29 	| MovieCharacter: A Tuning-Free Framework for Controllable Character Video Synthesis 	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2410.20974) 	|           Region           	| Diffusion Model 	|   arxiv   	|
+
 
 </details>
 
