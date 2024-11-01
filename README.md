@@ -12,10 +12,10 @@
 <img src='https://img.shields.io/badge/TechRxiv-PDF-green?style=flat&logo=TechRxiv&logoColor=green' alt='TechRxiv PDF'>
 </a>
 <img src='https://img.shields.io/badge/Awesome Survey-8A2BE2' alt='Survey'>
-<img src='https://img.shields.io/badge/Related Work-182+ Papers and 64+ Datasets-blue' alt='MorePapers'>
+<img src='https://img.shields.io/badge/Related Work-183+ Papers and 64+ Datasets-blue' alt='MorePapers'>
 <br>
 <img src='https://img.shields.io/badge/Under Review-4BC88C' alt='under'>
-<img src='https://img.shields.io/badge/Update 🔥-2024.10.29-red' alt='MorePapers'>
+<img src='https://img.shields.io/badge/Update 🔥-2024.11.01-red' alt='MorePapers'>
 <a href='https://zhuanlan.zhihu.com/p/2672965087'>
 <img src='https://img.shields.io/badge/知乎-论文笔记-0084ff?style=flat&logo=zhihu&logoColor=yellow' alt='知乎文章'>
 </a>
@@ -159,7 +159,14 @@ dimension that has been underexplored in existing reviews.
 
 ## 💙 News
 
-**[2024/10/29][V3.7 Vision](https://github.com/Winn1y/Awesome-Human-Motion-Video-Generation): Update Methods.**
+**[2024/11/01][V3.8 Vision](https://github.com/Winn1y/Awesome-Human-Motion-Video-Generation): Update Methods.**
+
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2410.23836) Stereo-Talker (Audio, Audio-Driven Holistic Body Driving)
+
+
+----
+
+[2024/10/29][V3.7 Vision](https://github.com/Winn1y/Awesome-Human-Motion-Video-Generation/tree/3.7): Update Methods.
 
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2410.20974) MovieCharacter (Visual, Pose2Video)
 
@@ -710,6 +717,7 @@ Find the Chinese version notes of the survey, welcome to pay attention.
 
 <details><summary>Holistic Human || Audio-Driven Holistic Body Driving</summary>
 
+
 |  **Date**  	|                                                    **Title**                                                    	|                                        **arXiv Link**                                       	| **Motion  Representation** 	|   **Backbone**  	|   **Venue**  	|
 |:----------:	|:---------------------------------------------------------------------------------------------------------------:	|:-------------------------------------------------------------------------------------------:	|:--------------------------:	|:---------------:	|:------------:	|
 | 2024 03 13 	|                                                     VLOGGER                                                     	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2403.08764) 	|     3D Parameterization    	| Diffusion Model 	|     arXiv    	|
@@ -719,8 +727,8 @@ Find the Chinese version notes of the survey, welcome to pay attention.
 | 2024 09 27 	|      Self-Supervised Learning of Deviation in Latent Representation for Co-speech Gesture Video Generation      	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2409.17674) 	|           Region           	| Diffusion Model 	|     arXiv    	|
 | 2024 10 08 	| TANGO: Co-Speech Gesture Video Reenactment with Hierarchical Audio Motion Embedding and Diffusion Interpolation 	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2410.04221) 	|           Latent           	| Encoder-Decoder 	|     arXiv    	|
 | 2024 10 15 	|           TALK-Act: Enhance Textural-Awareness for 2D Speaking Avatar Reenactment with Diffusion Model          	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2410.10696) 	|           Latent           	| Diffusion Model 	|     arXiv    	|
+| 2024 11 01 	|               Stereo-Talker: Audio-driven 3D Human Synthesis with Prior-Guided Mixture-of-Experts               	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2410.23836) 	|           Latent           	| Encoder-Decoder 	|     arXiv    	|
 | 2024 05 15 	|                      Dance Any Beat: Blending Beats with Visuals in Dance Video Generation                      	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2405.09266) 	|           Region           	| Diffusion Model 	|     arXiv    	|
-
 
 
 
