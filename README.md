@@ -12,10 +12,10 @@
 <img src='https://img.shields.io/badge/TechRxiv-PDF-green?style=flat&logo=TechRxiv&logoColor=green' alt='TechRxiv PDF'>
 </a>
 <img src='https://img.shields.io/badge/Awesome Survey-8A2BE2' alt='Survey'>
-<img src='https://img.shields.io/badge/Related Work-185+ Papers and 64+ Datasets-blue' alt='MorePapers'>
+<img src='https://img.shields.io/badge/Related Work-186+ Papers and 64+ Datasets-blue' alt='MorePapers'>
 <br>
 <img src='https://img.shields.io/badge/Under Review-4BC88C' alt='under'>
-<img src='https://img.shields.io/badge/Update 🔥-2024.11.04-red' alt='MorePapers'>
+<img src='https://img.shields.io/badge/Update 🔥-2024.11.14-red' alt='MorePapers'>
 <a href='https://zhuanlan.zhihu.com/p/2672965087'>
 <img src='https://img.shields.io/badge/知乎-论文笔记-0084ff?style=flat&logo=zhihu&logoColor=yellow' alt='知乎文章'>
 </a>
@@ -159,8 +159,14 @@ dimension that has been underexplored in existing reviews.
 
 ## 💙 News
 
+**[2024/11/14][V4.0 Vision](https://github.com/Winn1y/Awesome-Human-Motion-Video-Generation): Update Methods.**
 
-**[2024/11/04][V3.9 Vision](https://github.com/Winn1y/Awesome-Human-Motion-Video-Generation): Update Methods.**
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2411.08656) MikuDance: Animating Character Art with Mixed Motion Dynamics (Visual, Pose-Guided Dance Video Generation)
+
+
+----
+
+[2024/11/04][V3.9 Vision](https://github.com/Winn1y/Awesome-Human-Motion-Video-Generation/tree/3.9): Update Methods.
 
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2411.00225) Fashion-VDM (Visual, Try-On Video Generation)
 
@@ -474,6 +480,7 @@ Find the Chinese version notes of the survey, welcome to pay attention.
 <details><summary>Holistic Human || Pose-Guided Dance Video Generation </summary>
 
 
+
 |   **Date**  	|                                             **Title**                                            	|                                        **arXiv Link**                                       	| **Motion  Representation** 	|   **Backbone**  	|   **Venue**  	|
 |:-----------:	|:------------------------------------------------------------------------------------------------:	|:-------------------------------------------------------------------------------------------:	|:--------------------------:	|:---------------:	|:------------:	|
 |  2023 06 30 	|                                               DisCo                                              	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2307.00040) 	|          KeyPoint          	| Diffusion Model 	|   CVPR2024   	|
@@ -497,7 +504,10 @@ Find the Chinese version notes of the survey, welcome to pay attention.
 |  2024 09 25 	|           MIMO: Controllable Character Video Synthesis with Spatial Decomposed Modeling          	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2409.16160) 	|          KeyPoint          	| Diffusion Model 	|     arxiv    	|
 |  2024 10 02 	|      High Quality Human Image Animation using Regional Supervision and Motion Blur Condition     	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2409.19580) 	|          KeyPoint          	| Diffusion Model 	|     arxiv    	|
 |  2024 10 15 	|        Animate-X: Universal Character Image Animation with Enhanced Motion Representation        	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2410.10306) 	|          KeyPoint          	| Diffusion Model 	|     arxiv    	|
+|  2024 11 14 	|                   MikuDance: Animating Character Art with Mixed Motion Dynamics                  	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2411.08656) 	|          KeyPoint          	| Diffusion Model 	|     arxiv    	|
 |  2024 07 16 	|     IDOL: Unified Dual-Modal Latent Diffusion for Human-Centric Joint Video-Depth Generation     	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2407.10937) 	|           Region           	| Diffusion Model 	|     arxiv    	|
+
+
 
 
 </details>
