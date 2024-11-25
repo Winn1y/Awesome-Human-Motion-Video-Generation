@@ -12,10 +12,10 @@
 <img src='https://img.shields.io/badge/TechRxiv-PDF-green?style=flat&logo=TechRxiv&logoColor=green' alt='TechRxiv PDF'>
 </a>
 <img src='https://img.shields.io/badge/Awesome Survey-8A2BE2' alt='Survey'>
-<img src='https://img.shields.io/badge/Related Work-189+ Papers and 64+ Datasets-blue' alt='MorePapers'>
+<img src='https://img.shields.io/badge/Related Work-190+ Papers and 64+ Datasets-blue' alt='MorePapers'>
 <br>
 <img src='https://img.shields.io/badge/Under Review-4BC88C' alt='under'>
-<img src='https://img.shields.io/badge/Update 🔥-2024.11.18-red' alt='MorePapers'>
+<img src='https://img.shields.io/badge/Update 🔥-2024.11.25-red' alt='MorePapers'>
 <a href='https://zhuanlan.zhihu.com/p/2672965087'>
 <img src='https://img.shields.io/badge/知乎-论文笔记-0084ff?style=flat&logo=zhihu&logoColor=yellow' alt='知乎文章'>
 </a>
@@ -159,7 +159,13 @@ dimension that has been underexplored in existing reviews.
 
 ## 💙 News
 
-**[2024/11/18] [V4.2 Vision](https://github.com/Winn1y/Awesome-Human-Motion-Video-Generation): Update Methods.**
+**[2024/11/25] [V4.3 Vision](https://github.com/Winn1y/Awesome-Human-Motion-Video-Generation): Update Methods.**
+
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2411.15028) FloAt: Flow Warping of Self-Attention for Clothing Animation Generation (Visual, Try-On Video Generation)
+
+----
+
+[2024/11/18] [V4.2 Vision](https://github.com/Winn1y/Awesome-Human-Motion-Video-Generation/tree/4.2): Update Methods.
 
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2411.10061) EchoMimicV2: Towards Striking, Simplified, and Semi-Body Human Animation (Audio, Audio-Driven Holistic Body Driving)
 
@@ -543,12 +549,18 @@ Find the Chinese version notes of the survey, welcome to pay attention.
 <details><summary>Holistic Human || Try-On Video Generation </summary>
 
 
+
+
+
 |  **Date**  	|                                           **Title**                                          	|                                        **arXiv Link**                                       	| **Motion  Representation** 	|   **Backbone**  	|      **Venue**     	|
 |:----------:	|:--------------------------------------------------------------------------------------------:	|:-------------------------------------------------------------------------------------------:	|:--------------------------:	|:---------------:	|:------------------:	|
 | 2024 04 26 	| Tunnel Try-on: Excavating Spatial-temporal Tunnels for High-quality Virtual Try-on in Videos 	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2404.17571) 	|          KeyPoint          	| Diffusion Model 	|        arxiv       	|
 | 2024 05 20 	|                      ViViD: Video Virtual Try-on using Diffusion Models                      	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2405.11794) 	|           Region           	| Diffusion Model 	|        arxiv       	|
 | 2024 11 04 	|                     Fashion-VDM: Video Diffusion Model for Virtual Try-On                    	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2411.00225) 	|           Latent           	| Diffusion Model 	| SIGGRAPH Asia 2025 	|
+| 2024 11 25 	|            FloAt: Flow Warping of Self-Attention for Clothing Animation Generation           	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2411.15028) 	|           Latent           	| Diffusion Model 	|        arxiv       	|
 | 2024 07 16 	|   WildVidFit: Video Virtual Try-On in the Wild via Image-Based Controlled Diffusion Models   	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2407.10625) 	|          KeyPoint          	| Diffusion Model 	|        arxiv       	|
+
+
 
 
 </details>
