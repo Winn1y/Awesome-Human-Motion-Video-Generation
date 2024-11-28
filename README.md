@@ -159,7 +159,7 @@ dimension that has been underexplored in existing reviews.
 
 ## 💙 News
 
-**[2024/11/25] [V4.4 Vision](https://github.com/Winn1y/Awesome-Human-Motion-Video-Generation): Update Methods.**
+**[2024/11/28] [V4.4 Vision](https://github.com/Winn1y/Awesome-Human-Motion-Video-Generation): Update Methods.**
 
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2411.18293) HiFiVFS: High Fidelity Video Face Swapping (Visual, Portrait Animation)
 
