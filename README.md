@@ -12,10 +12,10 @@
 <img src='https://img.shields.io/badge/TechRxiv-PDF-green?style=flat&logo=TechRxiv&logoColor=green' alt='TechRxiv PDF'>
 </a>
 <img src='https://img.shields.io/badge/Awesome Survey-8A2BE2' alt='Survey'>
-<img src='https://img.shields.io/badge/Related Work-219+ Papers and 64+ Datasets-blue' alt='MorePapers'>
+<img src='https://img.shields.io/badge/Related Work-220+ Papers and 64+ Datasets-blue' alt='MorePapers'>
 <br>
 <img src='https://img.shields.io/badge/Under Review-4BC88C' alt='under'>
-<img src='https://img.shields.io/badge/Update 🔥-2024.12.17-red' alt='MorePapers'>
+<img src='https://img.shields.io/badge/Update 🔥-2025.01.04-red' alt='MorePapers'>
 <a href='https://zhuanlan.zhihu.com/p/2672965087'>
 <img src='https://img.shields.io/badge/知乎-论文笔记-0084ff?style=flat&logo=zhihu&logoColor=yellow' alt='知乎文章'>
 </a>`
@@ -159,8 +159,13 @@ dimension that has been underexplored in existing reviews.
 
 ## 💙 News
 
+**[2025/01/04] [V4.9 Vision](https://github.com/Winn1y/Awesome-Human-Motion-Video-Generation): Update Methods. Happy New Year🎀**
 
-**[2024/12/17] [V4.8 Vision](https://github.com/Winn1y/Awesome-Human-Motion-Video-Generation): Update Methods.**
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.14531) Consistent Human Image and Video Generation with Spatially Conditioned Diffusion (Visual, Pose-Guided Dance Video Generation)
+
+----
+
+[2024/12/17] [V4.8 Vision](https://github.com/Winn1y/Awesome-Human-Motion-Video-Generation/tree/4.8): Update Methods.
 
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.11279) VividFace: A Diffusion-Based Hybrid Framework for High-Fidelity Video Face Swapping (Visual, Portrait Animation)
 
@@ -589,8 +594,6 @@ Find the Chinese version notes of the survey, welcome to pay attention.
 
 <details><summary>Holistic Human || Pose-Guided Dance Video Generation </summary>
 
-
-
 |   **Date**  	|                                             **Title**                                            	|                                        **arXiv Link**                                       	| **Motion  Representation** 	|   **Backbone**  	|   **Venue**  	|
 |:-----------:	|:------------------------------------------------------------------------------------------------:	|:-------------------------------------------------------------------------------------------:	|:--------------------------:	|:---------------:	|:------------:	|
 |  2023 06 30 	|                                               DisCo                                              	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2307.00040) 	|          KeyPoint          	| Diffusion Model 	|   CVPR2024   	|
@@ -603,7 +606,7 @@ Find the Chinese version notes of the survey, welcome to pay attention.
 |  2024 05 26 	|   Disentangling Foreground and Background Motion for Enhanced Realism in Human Video Generation  	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2405.16393) 	|          KeyPoint          	| Diffusion Model 	|     arxiv    	|
 |  2024 05 28 	|          VividPose: Advancing Stable Video Diffusion for Realistic Human Image Animation         	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2405.18156) 	|          KeyPoint          	| Diffusion Model 	|     arxiv    	|
 | 2024 05 30  	|            MotionFollower: Editing Video Motion via Lightweight Score-Guided Diffusion           	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2405.20325) 	|          KeyPoint          	| Diffusion Model 	|     arxiv    	|
-|  2024 06 03 	|      UniAnimate: Taming Unified Video Diffusion Models for Consistent Human Image animation      	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2406.01188) 	|          KeyPoint          	| Diffusion Model 	|     arxiv    	|
+|  2024 06 03 	|      UniAnimate: Taming Unified Video Diffusion Models for Consistent Human Image animation      	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2406.01188) 	|          KeyPoint          	| Diffusion Model 	|     arxiv    	|
 |  2024 06 05 	| Follow-Your-Pose v2: Multiple-Condition Guided Character Image Animation for Stable Pose Control 	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2406.03035) 	|          KeyPoint          	| Diffusion Model 	|     arxiv    	|
 |  2024 05 27 	|             Human4DiT: Free-view Human Video Generation with 4D Diffusion Transformer            	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2405.17405) 	|     3D Parameterization    	|   Transformer   	|     arxiv    	|
 |  2024 01 19 	|                            Synthesizing Moving People with 3D Control                            	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2401.10889) 	|     3D Parameterization    	| Diffusion Model 	|     arxiv    	|
@@ -618,8 +621,8 @@ Find the Chinese version notes of the survey, welcome to pay attention.
 |  2024 11 26 	|              StableAnimator: High-Quality Identity-Preserving Human Image Animation              	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2411.17697) 	|          KeyPoint          	| Diffusion Model 	|     arxiv    	|
 |  2024 11 30 	|          DreamDance: Animating Human Images by Enriching 3D Geometry Cues from 2D Poses          	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.00397) 	|          KeyPoint          	| Diffusion Model 	|     arxiv    	|
 |  2024 12 12 	|            DisPose: Disentangling Pose Guidance for Controllable Human Image Animation           	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.09349) 	|       KeyPoint,Region      	| Diffusion Model 	|     arxiv    	|
+|  2024 12 19 	|         Consistent Human Image and Video Generation with Spatially Conditioned Diffusion         	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.14531) 	|          KeyPoint          	| Diffusion Model 	|     arxiv    	|
 |  2024 07 16 	|     IDOL: Unified Dual-Modal Latent Diffusion for Human-Centric Joint Video-Depth Generation     	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2407.10937) 	|           Region           	| Diffusion Model 	|     arxiv    	|
-
 
 
 
