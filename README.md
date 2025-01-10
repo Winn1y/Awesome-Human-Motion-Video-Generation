@@ -12,10 +12,10 @@
 <img src='https://img.shields.io/badge/TechRxiv-PDF-green?style=flat&logo=TechRxiv&logoColor=green' alt='TechRxiv PDF'>
 </a>
 <img src='https://img.shields.io/badge/Awesome Survey-8A2BE2' alt='Survey'>
-<img src='https://img.shields.io/badge/Related Work-224+ Papers and 64+ Datasets-blue' alt='MorePapers'>
+<img src='https://img.shields.io/badge/Related Work-226+ Papers and 64+ Datasets-blue' alt='MorePapers'>
 <br>
 <img src='https://img.shields.io/badge/Under Review-4BC88C' alt='under'>
-<img src='https://img.shields.io/badge/Update 🔥-2025.01.06-red' alt='MorePapers'>
+<img src='https://img.shields.io/badge/Update 🔥-2025.01.10-red' alt='MorePapers'>
 <a href='https://zhuanlan.zhihu.com/p/2672965087'>
 <img src='https://img.shields.io/badge/知乎-论文笔记-0084ff?style=flat&logo=zhihu&logoColor=yellow' alt='知乎文章'>
 </a>`
@@ -159,7 +159,16 @@ dimension that has been underexplored in existing reviews.
 
 ## 💙 News
 
-**[2025/01/06] [V5.0 Vision](https://github.com/Winn1y/Awesome-Human-Motion-Video-Generation): Update Methods. Happy New Year🎀**
+
+**[2025/01/10] [V5.1 Vision](https://github.com/Winn1y/Awesome-Human-Motion-Video-Generation): Update Methods. Happy New Year🎀**
+
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.19489) RAIN: Real-time Animation of Infinite Video Stream (Visual, Portrait Animation)
+
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.19645) VideoMaker: Zero-shot Customized Video Generation with the Inherent Force of Video Diffusion Models (Text, Text2Face)
+
+----
+
+[2025/01/06] [V5.0 Vision](https://github.com/Winn1y/Awesome-Human-Motion-Video-Generation/tree/5.0): Update Methods. Happy New Year🎀
 
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.17290) Free-viewpoint Human Animation with Pose-correlated Reference Selection (Visual, Pose-Guided Dance Video Generation)
 
@@ -564,7 +573,9 @@ Find the Chinese version notes of the survey, welcome to pay attention.
 | 2024 11 28 	|                              HiFiVFS: High Fidelity Video Face Swapping                              	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2411.18293) 	|           Latent           	| Encoder-Decoder 	|                    arXiv                   	|
 | 2024 12 02 	| EmojiDiff: Advanced Facial Expression Control with High Identity Preservation in Portrait Generation 	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.01254) 	|           Latent           	| Diffusion Model 	|                    arXiv                   	|
 | 2024 12 15 	|          VividFace: A Diffusion-Based Hybrid Framework for High-Fidelity Video Face Swapping         	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.11279) 	|           Latent           	| Diffusion Model 	|                    arXiv                   	|
+| 2024 12 27 	|                          RAIN: Real-time Animation of Infinite Video Stream                          	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.19489) 	|           Latent           	| Diffusion Model 	|                    arXiv                   	|
 | 2024 03 23 	|                            FaceOff: A Video-to-Video Face Swapping System                            	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2208.09788) 	|           Latent           	| Encoder-Decoder 	|                  WACV 2023                 	|
+
 
 
 </details>
@@ -710,6 +721,9 @@ Find the Chinese version notes of the survey, welcome to pay attention.
 
 <details open><summary>Part (Face) || Text2Face</summary>
 
+
+
+
 |  **Date**  	|                                                        **Title**                                                        	|                                        **arXiv Link**                                       	| **Motion  Representation** 	|   **Backbone**  	|   **Venue**  	|
 |:----------:	|:-----------------------------------------------------------------------------------------------------------------------:	|:-------------------------------------------------------------------------------------------:	|:--------------------------:	|:---------------:	|:------------:	|
 | 2021 05 07 	|                       Write-a-speaker: Text-based Emotional and Rhythmic Talking-head Generation                        	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2104.07995) 	|          KeyPoint          	|       GAN       	|   AAAI 2021  	|
@@ -723,7 +737,10 @@ Find the Chinese version notes of the survey, welcome to pay attention.
 | 2024 11 28 	|                   MotionCharacter: Identity-Preserving and Motion Controllable Human Video Generation                   	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2411.18281) 	|           Region           	| Diffusion Model 	|     arXiv    	|
 | 2024 11 26 	|                         Identity-Preserving Text-to-Video Generation by Frequency Decomposition                         	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2411.17440) 	|           Region           	| Diffusion Model 	|     arXiv    	|
 | 2024 11 26 	|               PersonalVideo: High ID-Fidelity Video Customization without Dynamic and Semantic Degradation              	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2411.17048) 	|           Latent           	| Diffusion Model 	|     arXiv    	|
+| 2024 12 27 	|           VideoMaker: Zero-shot Customized Video Generation with the Inherent Force of Video Diffusion Models           	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.19645) 	|           Latent           	| Diffusion Model 	|     arXiv    	|
 | 2020 03 01 	|                                        Towards Automatic Face-to-Face Translation                                       	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2003.00418) 	|           Latent           	| Encoder-Decoder 	|  ACM MM 2019 	|
+
+
 
 
 </details>
