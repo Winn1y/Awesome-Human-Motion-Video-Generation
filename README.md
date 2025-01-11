@@ -18,9 +18,9 @@
 <img src='https://img.shields.io/badge/Update 🔥-2025.01.11-red' alt='MorePapers'>
 <a href='https://zhuanlan.zhihu.com/p/2672965087'>
 <img src='https://img.shields.io/badge/知乎-论文笔记-0084ff?style=flat&logo=zhihu&logoColor=yellow' alt='知乎文章'>
-</a>`
+</a>
 <br>
-<br>`
+<br>
 You can click on <b><img width="16" src="https://img.icons8.com/emoji/48/FFD700/eyes-emoji.png" alt="Watch Icon"/> Watch</b> and <b><img width="16" src="https://img.icons8.com/emoji/48/FFD700/star-emoji.png" alt="Star Icon"/> Star</b> to get the latest updates at any time.
 <br>
 <br>
@@ -159,7 +159,7 @@ dimension that has been underexplored in existing reviews.
 
 ## 💙 News
 
-**[2025/01/10] [V5.2 Vision](https://github.com/Winn1y/Awesome-Human-Motion-Video-Generation): Update Methods. Happy New Year🎀**
+**[2025/01/11] [V5.2 Vision](https://github.com/Winn1y/Awesome-Human-Motion-Video-Generation): Update Methods. Happy New Year🎀**
 
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.19860) UniAvatar: Taming Lifelike Audio-Driven Talking Head Generation with Comprehensive Motion and Lighting Control (Audio, Head Pose Driving)
 
