@@ -12,10 +12,10 @@
 <img src='https://img.shields.io/badge/TechRxiv-PDF-green?style=flat&logo=TechRxiv&logoColor=green' alt='TechRxiv PDF'>
 </a>
 <img src='https://img.shields.io/badge/Awesome Survey-8A2BE2' alt='Survey'>
-<img src='https://img.shields.io/badge/Related Work-230+ Papers and 64+ Datasets-blue' alt='MorePapers'>
+<img src='https://img.shields.io/badge/Related Work-231+ Papers and 64+ Datasets-blue' alt='MorePapers'>
 <br>
 <img src='https://img.shields.io/badge/Under Review-4BC88C' alt='under'>
-<img src='https://img.shields.io/badge/Update 🔥-2025.01.13-red' alt='MorePapers'>
+<img src='https://img.shields.io/badge/Update 🔥-2025.01.14-red' alt='MorePapers'>
 <a href='https://zhuanlan.zhihu.com/p/2672965087'>
 <img src='https://img.shields.io/badge/知乎-论文笔记-0084ff?style=flat&logo=zhihu&logoColor=yellow' alt='知乎文章'>
 </a>
@@ -159,7 +159,14 @@ dimension that has been underexplored in existing reviews.
 
 ## 💙 News
 
-**[2025/01/13] [V5.4 Vision](https://github.com/Winn1y/Awesome-Human-Motion-Video-Generation): Update Methods. Happy New Year🎀**
+
+**[2025/01/14] [V5.5 Vision](https://github.com/Winn1y/Awesome-Human-Motion-Video-Generation): Update Methods. Happy New Year🎀**
+
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2501.04586) Identity-Preserving Video Dubbing Using Motion Warping (Audio, Lip Synchronization)
+
+----
+
+[2025/01/13] [V5.4 Vision](https://github.com/Winn1y/Awesome-Human-Motion-Video-Generation/tree/5.4): Update Methods. Happy New Year🎀
 
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2501.01790) Ingredients: Blending Custom Photos with Video Diffusion Transformers (Text, Text2MotionVideo)
 
@@ -832,7 +839,6 @@ Find the Chinese version notes of the survey, welcome to pay attention.
 <details open><summary>Part (Face) || Lip Synchronization</summary>
 
 
-
 |  **Date**  	|                                       **Title**                                      	|                                              **arXiv Link**                                             	| **Motion  Representation** 	|   **Backbone**  	| **Venue** 	|
 |:----------:	|:------------------------------------------------------------------------------------:	|:-------------------------------------------------------------------------------------------------------:	|:--------------------------:	|:---------------:	|:---------:	|
 | 2020 09 17 	|                      Photorealistic Audio-driven Video Portraits                     	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://ieeexplore.ieee.org/document/9199560) 	|           Region           	| Encoder-Decoder 	|  TVCG2020 	|
@@ -846,7 +852,10 @@ Find the Chinese version notes of the survey, welcome to pay attention.
 | 2024 09 17 	|   LawDNet: Enhanced Audio-Driven Lip Synthesis via Local Affine Warping Deformation  	|       [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2409.09326)       	|           Latent           	| Encoder-Decoder 	|   arxiv   	|
 | 2024 10 15 	|   MuseTalk: Real-Time High Quality Lip Synchronization with Latent Space Inpainting  	|       [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2410.10122)       	|           Latent           	| Diffusion Model 	|   arxiv   	|
 | 2024 12 12 	|          LatentSync: Audio Conditioned Latent Diffusion Models for Lip Sync          	|       [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.09262)       	|           Latent           	| Diffusion Model 	|   arxiv   	|
+| 2025 01 08 	|                Identity-Preserving Video Dubbing Using Motion Warping                	|       [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2501.04586)       	|           Latent           	| Encoder-Decoder 	|   arxiv   	|
 | 2023 01 10 	|         Speech driven video editing via an audio-conditioned diffusion model         	|       [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2301.04474)       	|           Latent           	| Diffusion Model 	|  IVC2024  	|
+
+
 
 
 
