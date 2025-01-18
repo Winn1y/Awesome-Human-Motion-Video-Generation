@@ -12,10 +12,10 @@
 <img src='https://img.shields.io/badge/TechRxiv-PDF-green?style=flat&logo=TechRxiv&logoColor=green' alt='TechRxiv PDF'>
 </a>
 <img src='https://img.shields.io/badge/Awesome Survey-8A2BE2' alt='Survey'>
-<img src='https://img.shields.io/badge/Related Work-232+ Papers and 64+ Datasets-blue' alt='MorePapers'>
+<img src='https://img.shields.io/badge/Related Work-234+ Papers and 64+ Datasets-blue' alt='MorePapers'>
 <br>
 <img src='https://img.shields.io/badge/Under Review-4BC88C' alt='under'>
-<img src='https://img.shields.io/badge/Update 🔥-2025.01.16-red' alt='MorePapers'>
+<img src='https://img.shields.io/badge/Update 🔥-2025.01.18-red' alt='MorePapers'>
 <a href='https://zhuanlan.zhihu.com/p/2672965087'>
 <img src='https://img.shields.io/badge/知乎-论文笔记-0084ff?style=flat&logo=zhihu&logoColor=yellow' alt='知乎文章'>
 </a>
@@ -157,10 +157,22 @@ dimension that has been underexplored in existing reviews.
 ![Timeline](assets/time.png)
 
 
+
+
+
 ## 💙 News
 
+**[2025/01/18] [V5.7 Vision](https://github.com/Winn1y/Awesome-Human-Motion-Video-Generation): Update Methods. Happy New Year🎀**
 
-**[2025/01/16] [V5.6 Vision](https://github.com/Winn1y/Awesome-Human-Motion-Video-Generation): Update Methods. Happy New Year🎀**
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2501.08682) RealVVT: Towards Photorealistic Video Virtual Try-on via Spatio-Temporal Consistency (Visual, Try-On Video Generation)
+
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2501.08553) DynamicFace: High-Quality and Consistent Video Face Swapping using Composable 3D Facial Priors (Visual, Portrait Animation)
+
+
+
+----
+
+[2025/01/16] [V5.6 Vision](https://github.com/Winn1y/Awesome-Human-Motion-Video-Generation/tree/5.6): Update Methods. Happy New Year🎀
 
 
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2501.06438) Qffusion: Controllable Portrait Video Editing via Quadrant-Grid Attention Learning (Visual, Portrait Animation)
@@ -169,7 +181,7 @@ dimension that has been underexplored in existing reviews.
 ----
 
 
-**[2025/01/14] [V5.5 Vision](https://github.com/Winn1y/Awesome-Human-Motion-Video-Generation/tree/5.5): Update Methods. Happy New Year🎀**
+[2025/01/14] [V5.5 Vision](https://github.com/Winn1y/Awesome-Human-Motion-Video-Generation/tree/5.5): Update Methods. Happy New Year🎀
 
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2501.04586) Identity-Preserving Video Dubbing Using Motion Warping (Audio, Lip Synchronization)
 
@@ -591,7 +603,6 @@ Find the Chinese version notes of the survey, welcome to pay attention.
 
 
 
-
 |  **Date**  	|                                               **Title**                                              	|                                        **arXiv Link**                                       	| **Motion  Representation** 	|   **Backbone**  	|                  **Venue**                 	|
 |:----------:	|:----------------------------------------------------------------------------------------------------:	|:-------------------------------------------------------------------------------------------:	|:--------------------------:	|:---------------:	|:------------------------------------------:	|
 | 2024 06 04 	|           Follow-Your-Emoji: Fine-Controllable and Expressive Freestyle Portrait Animation           	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2406.01900) 	|          KeyPoint          	| Diffusion Model 	|              SIGGRAPH ASIA2024             	|
@@ -611,7 +622,9 @@ Find the Chinese version notes of the survey, welcome to pay attention.
 | 2024 12 15 	|          VividFace: A Diffusion-Based Hybrid Framework for High-Fidelity Video Face Swapping         	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.11279) 	|           Latent           	| Diffusion Model 	|                    arXiv                   	|
 | 2024 12 27 	|                          RAIN: Real-time Animation of Infinite Video Stream                          	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.19489) 	|           Latent           	| Diffusion Model 	|                    arXiv                   	|
 | 2025 01 11 	|          Qffusion: Controllable Portrait Video Editing via Quadrant-Grid Attention Learning          	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2501.06438) 	|           Latent           	| Diffusion Model 	|                    arXiv                   	|
+| 2025 01 15 	|    DynamicFace: High-Quality and Consistent Video Face Swapping using Composable 3D Facial Priors    	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2501.08553) 	|           Latent           	| Diffusion Model 	|                    arXiv                   	|
 | 2024 03 23 	|                            FaceOff: A Video-to-Video Face Swapping System                            	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2208.09788) 	|           Latent           	| Encoder-Decoder 	|                  WACV 2023                 	|
+
 
 
 
@@ -707,7 +720,6 @@ Find the Chinese version notes of the survey, welcome to pay attention.
 <details><summary>Holistic Human || Try-On Video Generation </summary>
 
 
-
 |  **Date**  	|                                           **Title**                                          	|                                        **arXiv Link**                                       	| **Motion  Representation** 	|   **Backbone**  	|      **Venue**     	|
 |:----------:	|:--------------------------------------------------------------------------------------------:	|:-------------------------------------------------------------------------------------------:	|:--------------------------:	|:---------------:	|:------------------:	|
 | 2024 04 26 	| Tunnel Try-on: Excavating Spatial-temporal Tunnels for High-quality Virtual Try-on in Videos 	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2404.17571) 	|          KeyPoint          	| Diffusion Model 	|        arxiv       	|
@@ -717,7 +729,10 @@ Find the Chinese version notes of the survey, welcome to pay attention.
 | 2024 12 04 	|             PEMF-VVTO: Point-Enhanced Video Virtual Try-on via Mask-free Paradigm            	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.03021) 	|           Latent           	| Diffusion Model 	|        arxiv       	|
 | 2024 12 13 	|         Dynamic Try-On: Taming Video Virtual Try-on with Dynamic Attention Mechanism         	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.09822) 	|           Latent           	| Diffusion Model 	|        arxiv       	|
 | 2024 12 13 	|           SwiftTry: Fast and Consistent Video Virtual Try-On with Diffusion Models           	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.10178) 	|           Latent           	| Diffusion Model 	|        arxiv       	|
+| 2025 01 15 	|     RealVVT: Towards Photorealistic Video Virtual Try-on via Spatio-Temporal Consistency     	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2501.08682) 	|           Latent           	| Diffusion Model 	|        arxiv       	|
 | 2024 07 16 	|   WildVidFit: Video Virtual Try-On in the Wild via Image-Based Controlled Diffusion Models   	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2407.10625) 	|          KeyPoint          	| Diffusion Model 	|        arxiv       	|
+
+
 
 </details>
 
