@@ -12,10 +12,10 @@
 <img src='https://img.shields.io/badge/TechRxiv-PDF-green?style=flat&logo=TechRxiv&logoColor=green' alt='TechRxiv PDF'>
 </a>
 <img src='https://img.shields.io/badge/Awesome Survey-8A2BE2' alt='Survey'>
-<img src='https://img.shields.io/badge/Related Work-238+ Papers and 64+ Datasets-blue' alt='MorePapers'>
+<img src='https://img.shields.io/badge/Related Work-239+ Papers and 64+ Datasets-blue' alt='MorePapers'>
 <br>
 <img src='https://img.shields.io/badge/Under Review-4BC88C' alt='under'>
-<img src='https://img.shields.io/badge/Update 🔥-2025.01.22-red' alt='MorePapers'>
+<img src='https://img.shields.io/badge/Update 🔥-2025.01.24-red' alt='MorePapers'>
 <a href='https://zhuanlan.zhihu.com/p/2672965087'>
 <img src='https://img.shields.io/badge/知乎-论文笔记-0084ff?style=flat&logo=zhihu&logoColor=yellow' alt='知乎文章'>
 </a>
@@ -162,7 +162,15 @@ dimension that has been underexplored in existing reviews.
 
 ## 💙 News
 
-**[2025/01/22] [V5.9 Vision](https://github.com/Winn1y/Awesome-Human-Motion-Video-Generation): Update Methods. Happy New Year🎀**
+**[2025/01/24] [V6.0 Vision](https://github.com/Winn1y/Awesome-Human-Motion-Video-Generation): Update Methods. Happy New Year🍟**
+
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2501.13452) EchoVideo: Identity-Preserving Human Video Generation by Multimodal Feature Fusion (Text, Text2MotionVideo)
+
+
+
+----
+
+[2025/01/22] [V5.9 Vision](https://github.com/Winn1y/Awesome-Human-Motion-Video-Generation/tree/5.9): Update Methods. Happy New Year🎀
 
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2501.11325) CatV2TON: Taming Diffusion Transformers for Vision-Based Virtual Try-On with Temporal Concatenation (Visual, Try-On Video Generation)
 
@@ -822,6 +830,9 @@ Find the Chinese version notes of the survey, welcome to pay attention.
 
 <details><summary>Holistic Human || Text2MotionVideo</summary>
 
+
+
+
 |   **Date**  	|                                                       **Title**                                                      	|                                        **arXiv Link**                                       	| **Motion  Representation** 	|   **Backbone**  	| **Venue** 	|
 |:-----------:	|:--------------------------------------------------------------------------------------------------------------------:	|:-------------------------------------------------------------------------------------------:	|:--------------------------:	|:---------------:	|:---------:	|
 |  2024 05 08 	|                                                   Edit-Your-Motion                                                   	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2405.04496) 	|          KeyPoint          	| Diffusion Model 	|   arXiv   	|
@@ -843,6 +854,7 @@ Find the Chinese version notes of the survey, welcome to pay attention.
 |  2024 11 29 	|                            Fleximo: Towards Flexible Text-to-Human Motion Video Generation                           	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2411.19459) 	|           Latent           	| Diffusion Model 	|   arXiv   	|
 |  2023 12 30 	|                                Dual-Stream Diffusion Net for Text-to-Video Generation                                	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2308.08316) 	|           Latent           	| Diffusion Model 	|   arXiv   	|
 |  2025 01 07 	|                      Magic Mirror: ID-Preserved Video Generation in Video Diffusion Transformers                     	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2501.03931) 	|           Latent           	| Diffusion Model 	|   arXiv   	|
+|  2025 01 23 	|                  EchoVideo: Identity-Preserving Human Video Generation by Multimodal Feature Fusion                  	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2501.13452) 	|           Latent           	| Diffusion Model 	|   arXiv   	|
 |  2025 01 17 	|                        Textoon: Generating Vivid 2D Cartoon Characters from Text Descriptions                        	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2501.10020) 	|           Latent           	| Diffusion Model 	|   arXiv   	|
 |  2025 01 03 	|                         Ingredients: Blending Custom Photos with Video Diffusion Transformers                        	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2501.01790) 	|           Latent           	| Diffusion Model 	|   arXiv   	|
 |  2024 02 22 	|                                                   Customize-A-Video                                                  	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2402.14780) 	|           Latent           	| Diffusion Model 	|   arXiv   	|
@@ -850,6 +862,10 @@ Find the Chinese version notes of the survey, welcome to pay attention.
 |  2024 08 15 	|                    DeCo: Decoupled Human-Centered Diffusion Video Editing with Motion Consistency                    	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2408.07481) 	|     3D Parameterization    	| Diffusion Model 	|   arXiv   	|
 |  2024 10 15 	|                            Tex4D: Zero-shot 4D Scene Texturing with Video Diffusion Models                           	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2410.10821) 	|           Latent           	| Diffusion Model 	|   arXiv   	|
 |  2024 01 17 	|                  VideoCrafter2: Overcoming Data Limitations for High-Quality Video Diffusion Models                  	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2401.09047) 	|           Latent           	| Diffusion Model 	| CVPR 2024 	|
+
+
+
+
 
 
 </details>
