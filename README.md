@@ -12,10 +12,10 @@
 <img src='https://img.shields.io/badge/TechRxiv-PDF-green?style=flat&logo=TechRxiv&logoColor=green' alt='TechRxiv PDF'>
 </a>
 <img src='https://img.shields.io/badge/Awesome Survey-8A2BE2' alt='Survey'>
-<img src='https://img.shields.io/badge/Related Work-241+ Papers and 64+ Datasets-blue' alt='MorePapers'>
+<img src='https://img.shields.io/badge/Related Work-242+ Papers and 64+ Datasets-blue' alt='MorePapers'>
 <br>
 <img src='https://img.shields.io/badge/Under Review-4BC88C' alt='under'>
-<img src='https://img.shields.io/badge/Update 🔥-2025.01.30-red' alt='MorePapers'>
+<img src='https://img.shields.io/badge/Update 🔥-2025.02.03-red' alt='MorePapers'>
 <a href='https://zhuanlan.zhihu.com/p/2672965087'>
 <img src='https://img.shields.io/badge/知乎-论文笔记-0084ff?style=flat&logo=zhihu&logoColor=yellow' alt='知乎文章'>
 </a>
@@ -164,8 +164,17 @@ dimension that has been underexplored in existing reviews.
 ## 💙 News
 
 
+**[2025/02/03] [V6.3 Vision](https://github.com/Winn1y/Awesome-Human-Motion-Video-Generation): Update Methods. Happy 2025 !!🍟**
 
-**[2025/01/30] [V6.2 Vision](https://github.com/Winn1y/Awesome-Human-Motion-Video-Generation): Update Methods. Happy 2025 !!🍟**
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2501.18801) Every Image Listens, Every Image Dances: Music-Driven Image Animation (Audio, Audio-Driven Holistic Body Driving)
+
+
+
+----
+
+
+
+[2025/01/30] [V6.2 Vision](https://github.com/Winn1y/Awesome-Human-Motion-Video-Generation/tree/6.2): Update Methods. Happy 2025 !!🍟
 
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2501.17718) Learning Semantic Facial Descriptors for Accurate Face Animation (Visual, Portrait Animation)
 
@@ -1017,7 +1026,6 @@ Find the Chinese version notes of the survey, welcome to pay attention.
 <details><summary>Holistic Human || Audio-Driven Holistic Body Driving</summary>
 
 
-
 |  **Date**  	|                                                    **Title**                                                    	|                                        **arXiv Link**                                       	| **Motion  Representation** 	|   **Backbone**  	|   **Venue**  	|
 |:----------:	|:---------------------------------------------------------------------------------------------------------------:	|:-------------------------------------------------------------------------------------------:	|:--------------------------:	|:---------------:	|:------------:	|
 | 2024 03 13 	|                                                     VLOGGER                                                     	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2403.08764) 	|     3D Parameterization    	| Diffusion Model 	|     arXiv    	|
@@ -1031,6 +1039,7 @@ Find the Chinese version notes of the survey, welcome to pay attention.
 | 2024 11 18 	|                     EchoMimicV2: Towards Striking, Simplified, and Semi-Body Human Animation                    	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2411.10061) 	|           Latent           	| Diffusion Model 	|     arXiv    	|
 | 2025 01 18 	|                          EMO2: End-Effector Guided Audio-Driven Avatar Video Generation                         	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2501.10687) 	|           Latent           	| Diffusion Model 	|     arXiv    	|
 | 2024 05 15 	|                      Dance Any Beat: Blending Beats with Visuals in Dance Video Generation                      	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2405.09266) 	|           Region           	| Diffusion Model 	|     arXiv    	|
+| 2025 01 30 	|                      Every Image Listens, Every Image Dances: Music-Driven Image Animation                      	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2501.18801) 	|           Region           	| Diffusion Model 	|     arXiv    	|
 
 
 
