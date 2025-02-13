@@ -163,7 +163,7 @@ dimension that has been underexplored in existing reviews.
 
 ## 💙 News
 
-**[2025/02/13] [V6.8 Vision](https://github.com/Winn1y/Awesome-Human-Motion-Video-Generation): Update Methods. **
+**[2025/02/13] [V6.8 Vision](https://github.com/Winn1y/Awesome-Human-Motion-Video-Generation): Update Methods.**
 
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2502.08189) AnyCharV: Bootstrap Controllable Character Video Generation with Fine-to-Coarse Guidance (Visual, Pose-Guided Dance Video Generation)
 
