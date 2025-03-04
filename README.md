@@ -164,7 +164,7 @@ dimension that has been underexplored in existing reviews.
 ## 💙 News
 
 
-**[2025/02/28] [V7.5 Vision](https://github.com/Winn1y/Awesome-Human-Motion-Video-Generation/): Update Methods.**
+**[2025/03/05] [V7.5 Vision](https://github.com/Winn1y/Awesome-Human-Motion-Video-Generation/): Update Methods.**
 
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2503.00740) FaceShot: Bring Any Character into Life (Visual, Portrait Animation)
 
