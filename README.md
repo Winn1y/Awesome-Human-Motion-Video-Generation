@@ -12,10 +12,10 @@
 <img src='https://img.shields.io/badge/TechRxiv-PDF-green?style=flat&logo=TechRxiv&logoColor=green' alt='TechRxiv PDF'>
 </a>
 <img src='https://img.shields.io/badge/Awesome Survey-8A2BE2' alt='Survey'>
-<img src='https://img.shields.io/badge/Related Work-262+ Papers and 64+ Datasets-blue' alt='MorePapers'>
+<img src='https://img.shields.io/badge/Related Work-263+ Papers and 64+ Datasets-blue' alt='MorePapers'>
 <br>
 <img src='https://img.shields.io/badge/Under Review-4BC88C' alt='under'>
-<img src='https://img.shields.io/badge/Update 🔥-2025.03.07-red' alt='MorePapers'>
+<img src='https://img.shields.io/badge/Update 🔥-2025.03.11-red' alt='MorePapers'>
 <a href='https://zhuanlan.zhihu.com/p/2672965087'>
 <img src='https://img.shields.io/badge/知乎-论文笔记-0084ff?style=flat&logo=zhihu&logoColor=yellow' alt='知乎文章'>
 </a>
@@ -164,9 +164,13 @@ dimension that has been underexplored in existing reviews.
 ## 💙 News
 
 
+**[2025/03/11] [V7.7 Vision](https://github.com/Winn1y/Awesome-Human-Motion-Video-Generation/): Update Methods.**
 
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2503.06505) DynamicID: Zero-Shot Multi-ID Image Personalization with Flexible Facial Editability (Text, Text2Face)
 
-**[2025/03/07] [V7.6 Vision](https://github.com/Winn1y/Awesome-Human-Motion-Video-Generation/): Update Methods.**
+----
+
+[2025/03/07] [V7.6 Vision](https://github.com/Winn1y/Awesome-Human-Motion-Video-Generation/tree/7.6): Update Methods.
 
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2503.04067) FREAK: Frequency-modulated High-fidelity and Real-time Audio-driven Talking Portrait Synthesis (Audio, Head Pose Driving)
 
@@ -991,6 +995,7 @@ Find the Chinese version notes of the survey, welcome to pay attention.
 
 
 
+
 |  **Date**  	|                                                        **Title**                                                        	|                                        **arXiv Link**                                       	| **Motion  Representation** 	|   **Backbone**  	|   **Venue**  	|
 |:----------:	|:-----------------------------------------------------------------------------------------------------------------------:	|:-------------------------------------------------------------------------------------------:	|:--------------------------:	|:---------------:	|:------------:	|
 | 2021 05 07 	|                       Write-a-speaker: Text-based Emotional and Rhythmic Talking-head Generation                        	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2104.07995) 	|          KeyPoint          	|       GAN       	|   AAAI 2021  	|
@@ -1004,8 +1009,14 @@ Find the Chinese version notes of the survey, welcome to pay attention.
 | 2024 11 28 	|                   MotionCharacter: Identity-Preserving and Motion Controllable Human Video Generation                   	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2411.18281) 	|           Region           	| Diffusion Model 	|     arXiv    	|
 | 2024 11 26 	|                         Identity-Preserving Text-to-Video Generation by Frequency Decomposition                         	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2411.17440) 	|           Region           	| Diffusion Model 	|     arXiv    	|
 | 2024 11 26 	|               PersonalVideo: High ID-Fidelity Video Customization without Dynamic and Semantic Degradation              	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2411.17048) 	|           Latent           	| Diffusion Model 	|     arXiv    	|
+| 2025 03 09 	|                   DynamicID: Zero-Shot Multi-ID Image Personalization with Flexible Facial Editability                  	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2503.06505) 	|          KeyPoint          	| Diffusion Model 	|     arXiv    	|
 | 2024 12 27 	|           VideoMaker: Zero-shot Customized Video Generation with the Inherent Force of Video Diffusion Models           	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.19645) 	|           Latent           	| Diffusion Model 	|     arXiv    	|
 | 2020 03 01 	|                                        Towards Automatic Face-to-Face Translation                                       	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2003.00418) 	|           Latent           	| Encoder-Decoder 	|  ACM MM 2019 	|
+
+
+
+
+
 
 
 
