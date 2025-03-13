@@ -12,10 +12,10 @@
 <img src='https://img.shields.io/badge/TechRxiv-PDF-green?style=flat&logo=TechRxiv&logoColor=green' alt='TechRxiv PDF'>
 </a>
 <img src='https://img.shields.io/badge/Awesome Survey-8A2BE2' alt='Survey'>
-<img src='https://img.shields.io/badge/Related Work-263+ Papers and 64+ Datasets-blue' alt='MorePapers'>
+<img src='https://img.shields.io/badge/Related Work-265+ Papers and 64+ Datasets-blue' alt='MorePapers'>
 <br>
 <img src='https://img.shields.io/badge/Under Review-4BC88C' alt='under'>
-<img src='https://img.shields.io/badge/Update 🔥-2025.03.11-red' alt='MorePapers'>
+<img src='https://img.shields.io/badge/Update 🔥-2025.03.13-red' alt='MorePapers'>
 <a href='https://zhuanlan.zhihu.com/p/2672965087'>
 <img src='https://img.shields.io/badge/知乎-论文笔记-0084ff?style=flat&logo=zhihu&logoColor=yellow' alt='知乎文章'>
 </a>
@@ -164,7 +164,20 @@ dimension that has been underexplored in existing reviews.
 ## 💙 News
 
 
-**[2025/03/11] [V7.7 Vision](https://github.com/Winn1y/Awesome-Human-Motion-Video-Generation/): Update Methods.**
+
+
+**[2025/03/13] [V7.8 Vision](https://github.com/Winn1y/Awesome-Human-Motion-Video-Generation/): Update Methods.**
+
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2503.09154) SwapAnyone: Consistent and Realistic Video Synthesis for Swapping Any Person into Any Video (Visual, Pose2Video)
+
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2503.08714) Versatile Multimodal Controls for Whole-Body Talking Human Animation (Audio, Audio-Driven Holistic Body Driving)
+
+----
+
+
+
+
+[2025/03/11] [V7.7 Vision](https://github.com/Winn1y/Awesome-Human-Motion-Video-Generation/tree/7.7): Update Methods.
 
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2503.06505) DynamicID: Zero-Shot Multi-ID Image Personalization with Flexible Facial Editability (Text, Text2Face)
 
@@ -956,18 +969,16 @@ Find the Chinese version notes of the survey, welcome to pay attention.
 
 
 
-
-|  **Date**  |                                                **Title**                                               |                                        **arXiv Link**                                       | **Motion  Representation** |   **Backbone**  | **Venue** |
-|:----------:|:------------------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------:|:--------------------------:|:---------------:|:---------:|
-| 2023 04 12 |                                                DreamPose                                               | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2304.06025) |           Region           | Diffusion Model | ICCV 2023 |
-| 2024 03 25 |                   Make-Your-Anchor: A Diffusion-based 2D Avatar Generation Framework                   | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2403.16510) |     3D Parameterization    | Diffusion Model | CVPR 2024 |
-| 2024 04 21 |               PoseAnimate: Zero-shot high fidelity pose controllable character animation               | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2404.13680) |          KeyPoint          | Diffusion Model |   arxiv   |
-| 2024 12 18 |     ManiVideo: Generating Hand-Object Manipulation Video with Dexterous and Generalizable Grasping     | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.16212) |          KeyPoint          | Diffusion Model |   arxiv   |
-| 2025 02 07 |         HumanDiT: Pose-Guided Diffusion Transformer for Long-form Human Motion Video Generation        | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2502.04847) |          KeyPoint          | Diffusion Model |   arxiv   |
-| 2024 11 26 | AnchorCrafter: Animate CyberAnchors Saling Your Products via Human-Object Interacting Video Generation | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2411.17383) |          KeyPoint          | Diffusion Model |   arxiv   |
-| 2024 10 29 |           MovieCharacter: A Tuning-Free Framework for Controllable Character Video Synthesis           | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2410.20974) |           Region           | Diffusion Model |   arxiv   |
-
-
+|  **Date**  	|                                                **Title**                                               	|                                        **arXiv Link**                                       	| **Motion  Representation** 	|   **Backbone**  	| **Venue** 	|
+|:----------:	|:------------------------------------------------------------------------------------------------------:	|:-------------------------------------------------------------------------------------------:	|:--------------------------:	|:---------------:	|:---------:	|
+| 2023 04 12 	|                                                DreamPose                                               	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2304.06025) 	|           Region           	| Diffusion Model 	| ICCV 2023 	|
+| 2024 03 25 	|                   Make-Your-Anchor: A Diffusion-based 2D Avatar Generation Framework                   	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2403.16510) 	|     3D Parameterization    	| Diffusion Model 	| CVPR 2024 	|
+| 2024 04 21 	|               PoseAnimate: Zero-shot high fidelity pose controllable character animation               	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2404.13680) 	|          KeyPoint          	| Diffusion Model 	|   arxiv   	|
+| 2024 12 18 	|     ManiVideo: Generating Hand-Object Manipulation Video with Dexterous and Generalizable Grasping     	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.16212) 	|          KeyPoint          	| Diffusion Model 	|   arxiv   	|
+| 2025 02 07 	|         HumanDiT: Pose-Guided Diffusion Transformer for Long-form Human Motion Video Generation        	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2502.04847) 	|          KeyPoint          	| Diffusion Model 	|   arxiv   	|
+| 2025 03 12 	|       SwapAnyone: Consistent and Realistic Video Synthesis for Swapping Any Person into Any Video      	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2503.09154) 	|          KeyPoint          	| Diffusion Model 	|   arxiv   	|
+| 2024 11 26 	| AnchorCrafter: Animate CyberAnchors Saling Your Products via Human-Object Interacting Video Generation 	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2411.17383) 	|          KeyPoint          	| Diffusion Model 	|   arxiv   	|
+| 2024 10 29 	|           MovieCharacter: A Tuning-Free Framework for Controllable Character Video Synthesis           	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2410.20974) 	|           Region           	| Diffusion Model 	|   arxiv   	|
 
 
 
@@ -1230,7 +1241,6 @@ Find the Chinese version notes of the survey, welcome to pay attention.
 
 
 
-
 |  **Date**  	|                                                    **Title**                                                    	|                                        **arXiv Link**                                       	| **Motion  Representation** 	|   **Backbone**  	|   **Venue**  	|
 |:----------:	|:---------------------------------------------------------------------------------------------------------------:	|:-------------------------------------------------------------------------------------------:	|:--------------------------:	|:---------------:	|:------------:	|
 | 2024 03 13 	|                                                     VLOGGER                                                     	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2403.08764) 	|     3D Parameterization    	| Diffusion Model 	|     arXiv    	|
@@ -1245,11 +1255,10 @@ Find the Chinese version notes of the survey, welcome to pay attention.
 | 2025 01 18 	|                          EMO2: End-Effector Guided Audio-Driven Avatar Video Generation                         	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2501.10687) 	|           Latent           	| Diffusion Model 	|     arXiv    	|
 | 2025 02 03 	|              OmniHuman-1: Rethinking the Scaling-Up of One-Stage Conditioned Human Animation Models             	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2502.01061) 	|           Latent           	| Diffusion Model 	|     arxiv    	|
 | 2025 02 11 	|       Contextual Gesture: Co-Speech Gesture Video Generation through Context-aware Gesture Representation       	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2502.07239) 	|           Latent           	| Diffusion Model 	|     arxiv    	|
+| 2025 03 10 	|                       Versatile Multimodal Controls for Whole-Body Talking Human Animation                      	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2503.08714) 	|           Latent           	| Diffusion Model 	|     arxiv    	|
 | 2024 05 15 	|                      Dance Any Beat: Blending Beats with Visuals in Dance Video Generation                      	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2405.09266) 	|           Region           	| Diffusion Model 	|     arXiv    	|
 | 2025 02 24 	|                            X-Dancer: Expressive Music to Human Dance Video Generation                           	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2502.17414) 	|          KeyPoint          	| Diffusion Model 	|     arXiv    	|
 | 2025 01 30 	|                      Every Image Listens, Every Image Dances: Music-Driven Image Animation                      	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2501.18801) 	|           Region           	| Diffusion Model 	|     arXiv    	|
-
-
 
 
 
