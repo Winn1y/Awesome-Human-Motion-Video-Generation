@@ -158,11 +158,6 @@ dimension that has been underexplored in existing reviews.
 
 
 
-
-
-## 💙 News
-
-
 ## 💙 News
 
 **[2025/03/20] [V8.2 Vision](https://github.com/Winn1y/Awesome-Human-Motion-Video-Generation/): Update Methods.**
