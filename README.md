@@ -12,10 +12,10 @@
 <img src='https://img.shields.io/badge/TechRxiv-PDF-green?style=flat&logo=TechRxiv&logoColor=green' alt='TechRxiv PDF'>
 </a>
 <img src='https://img.shields.io/badge/Awesome Survey-8A2BE2' alt='Survey'>
-<img src='https://img.shields.io/badge/Related Work-275+ Papers and 64+ Datasets-blue' alt='MorePapers'>
+<img src='https://img.shields.io/badge/Related Work-276+ Papers and 64+ Datasets-blue' alt='MorePapers'>
 <br>
 <img src='https://img.shields.io/badge/Under Review-4BC88C' alt='under'>
-<img src='https://img.shields.io/badge/Update 🔥-2025.03.21-red' alt='MorePapers'>
+<img src='https://img.shields.io/badge/Update 🔥-2025.03.24-red' alt='MorePapers'>
 <a href='https://zhuanlan.zhihu.com/p/2672965087'>
 <img src='https://img.shields.io/badge/知乎-论文笔记-0084ff?style=flat&logo=zhihu&logoColor=yellow' alt='知乎文章'>
 </a>
@@ -161,10 +161,19 @@ dimension that has been underexplored in existing reviews.
 ## 💙 News
 
 
+**[2025/03/24] [V8.4 Vision](https://github.com/Winn1y/Awesome-Human-Motion-Video-Generation/): Update Methods.**
+
+
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2503.16942) Re-HOLD: Video Hand Object Interaction Reenactment via adaptive Layout-instructed Diffusion Model (Visual, Pose2Video)
 
 
 
-**[2025/03/21] [V8.3 Vision](https://github.com/Winn1y/Awesome-Human-Motion-Video-Generation/): Update Methods.**
+----
+
+
+
+
+[2025/03/21] [V8.3 Vision](https://github.com/Winn1y/Awesome-Human-Motion-Video-Generation/tree/8.3): Update Methods.
 
 
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2503.15914) Text-Driven Diffusion Model for Sign Language Production (Text, Text2MotionVideo)
@@ -1044,6 +1053,7 @@ Find the Chinese version notes of the survey, welcome to pay attention.
 
 
 
+
 |  **Date**  	|                                                **Title**                                               	|                                        **arXiv Link**                                       	| **Motion  Representation** 	|   **Backbone**  	| **Venue** 	|
 |:----------:	|:------------------------------------------------------------------------------------------------------:	|:-------------------------------------------------------------------------------------------:	|:--------------------------:	|:---------------:	|:---------:	|
 | 2023 04 12 	|                                                DreamPose                                               	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2304.06025) 	|           Region           	| Diffusion Model 	| ICCV 2023 	|
@@ -1052,8 +1062,16 @@ Find the Chinese version notes of the survey, welcome to pay attention.
 | 2024 12 18 	|     ManiVideo: Generating Hand-Object Manipulation Video with Dexterous and Generalizable Grasping     	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.16212) 	|          KeyPoint          	| Diffusion Model 	|   arxiv   	|
 | 2025 02 07 	|         HumanDiT: Pose-Guided Diffusion Transformer for Long-form Human Motion Video Generation        	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2502.04847) 	|          KeyPoint          	| Diffusion Model 	|   arxiv   	|
 | 2025 03 12 	|       SwapAnyone: Consistent and Realistic Video Synthesis for Swapping Any Person into Any Video      	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2503.09154) 	|          KeyPoint          	| Diffusion Model 	|   arxiv   	|
+| 2025 03 21 	|    Re-HOLD: Video Hand Object Interaction Reenactment via adaptive Layout-instructed Diffusion Model   	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2503.16942) 	|          KeyPoint          	| Diffusion Model 	|   arxiv   	|
 | 2024 11 26 	| AnchorCrafter: Animate CyberAnchors Saling Your Products via Human-Object Interacting Video Generation 	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2411.17383) 	|          KeyPoint          	| Diffusion Model 	|   arxiv   	|
 | 2024 10 29 	|           MovieCharacter: A Tuning-Free Framework for Controllable Character Video Synthesis           	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2410.20974) 	|           Region           	| Diffusion Model 	|   arxiv   	|
+
+
+
+
+
+
+
 
 
 
