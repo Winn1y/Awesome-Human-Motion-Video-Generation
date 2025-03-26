@@ -12,10 +12,10 @@
 <img src='https://img.shields.io/badge/TechRxiv-PDF-green?style=flat&logo=TechRxiv&logoColor=green' alt='TechRxiv PDF'>
 </a>
 <img src='https://img.shields.io/badge/Awesome Survey-8A2BE2' alt='Survey'>
-<img src='https://img.shields.io/badge/Related Work-279+ Papers and 64+ Datasets-blue' alt='MorePapers'>
+<img src='https://img.shields.io/badge/Related Work-283+ Papers and 64+ Datasets-blue' alt='MorePapers'>
 <br>
 <img src='https://img.shields.io/badge/Under Review-4BC88C' alt='under'>
-<img src='https://img.shields.io/badge/Update 🔥-2025.03.25-red' alt='MorePapers'>
+<img src='https://img.shields.io/badge/Update 🔥-2025.03.26-red' alt='MorePapers'>
 <a href='https://zhuanlan.zhihu.com/p/2672965087'>
 <img src='https://img.shields.io/badge/知乎-论文笔记-0084ff?style=flat&logo=zhihu&logoColor=yellow' alt='知乎文章'>
 </a>
@@ -161,7 +161,23 @@ dimension that has been underexplored in existing reviews.
 ## 💙 News
 
 
-**[2025/03/25] [V8.5 Vision](https://github.com/Winn1y/Awesome-Human-Motion-Video-Generation/): Update Methods.**
+
+**[2025/03/26] [V8.6 Vision](https://github.com/Winn1y/Awesome-Human-Motion-Video-Generation/): Update Methods.**
+
+
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2503.19416) EmoHead: Emotional Talking Head via Manipulating Semantic Expression Parameters (Audio, Fine-Grained Style and Emotion-Driven Animation)
+
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2503.19383) MVPortrait: Text-Guided Motion and Emotion Control for Multi-view Vivid Portrait Animation (Audio, Fine-Grained Style and Emotion-Driven Animation)
+
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2503.19001) DisentTalk: Cross-lingual Talking Face Generation via Semantic Disentangled Diffusion Model (Audio, Fine-Grained Style and Emotion-Driven Animation)
+
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2503.19824) AudCast: Audio-Driven Human Video Generation by Cascaded Diffusion Transformers (Audio, Audio-Driven Holistic Body Driving)
+
+
+
+----
+
+[2025/03/25] [V8.5 Vision](https://github.com/Winn1y/Awesome-Human-Motion-Video-Generation/tree/8.5): Update Methods.
 
 
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2503.18860) HunyuanPortrait: Implicit Condition Control for Enhanced Portrait Animation (Visual, Portrait Animation)
@@ -1413,6 +1429,10 @@ Find the Chinese version notes of the survey, welcome to pay attention.
 
 
 
+
+
+
+
 |  **Date**  	|                                                    **Title**                                                    	|                                        **arXiv Link**                                       	| **Motion  Representation** 	|   **Backbone**  	|   **Venue**  	|
 |:----------:	|:---------------------------------------------------------------------------------------------------------------:	|:-------------------------------------------------------------------------------------------:	|:--------------------------:	|:---------------:	|:------------:	|
 | 2024 03 13 	|                                                     VLOGGER                                                     	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2403.08764) 	|     3D Parameterization    	| Diffusion Model 	|     arXiv    	|
@@ -1429,6 +1449,7 @@ Find the Chinese version notes of the survey, welcome to pay attention.
 | 2025 02 11 	|       Contextual Gesture: Co-Speech Gesture Video Generation through Context-aware Gesture Representation       	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2502.07239) 	|           Latent           	| Diffusion Model 	|     arxiv    	|
 | 2025 03 13 	|            Cosh-DiT: Co-Speech Gesture Video Synthesis via Hybrid Audio-Visual Diffusion Transformers           	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2503.09942) 	|          KeyPoint          	| Diffusion Model 	|     arxiv    	|
 | 2025 03 10 	|                       Versatile Multimodal Controls for Whole-Body Talking Human Animation                      	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2503.08714) 	|           Latent           	| Diffusion Model 	|     arxiv    	|
+| 2025 03 25 	|                 AudCast: Audio-Driven Human Video Generation by Cascaded Diffusion Transformers                 	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2503.19824) 	|           Latent           	| Diffusion Model 	|     arxiv    	|
 | 2024 05 15 	|                      Dance Any Beat: Blending Beats with Visuals in Dance Video Generation                      	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2405.09266) 	|           Region           	| Diffusion Model 	|     arXiv    	|
 | 2025 02 24 	|                            X-Dancer: Expressive Music to Human Dance Video Generation                           	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2502.17414) 	|          KeyPoint          	| Diffusion Model 	|     arXiv    	|
 | 2025 03 18 	|                              MusicInfuser: Making Video Diffusion Listen and Dance                              	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2503.14505) 	|           Latent           	| Diffusion Model 	|     arXiv    	|
@@ -1442,11 +1463,13 @@ Find the Chinese version notes of the survey, welcome to pay attention.
 
 
 
-
 </details>
 
 
 <details><summary>Part (Face) || Fine-Grained Style and Emotion-Driven Animation</summary>
+
+
+
 
 
 
@@ -1500,9 +1523,13 @@ Find the Chinese version notes of the survey, welcome to pay attention.
 | 2024 12 18 	|                          Real-time One-Step Diffusion-based Expressive Portrait Videos Generation                         	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.13479) 	|           Latent           	|         Diffusion Model        	|                 arXiv                	|
 | 2025 01 03 	|                            MoEE: Mixture of Emotion Experts for Audio-Driven Portrait Animation                           	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2501.01808) 	|           Latent           	|         Diffusion Model        	|                 arXiv                	|
 | 2025 02 11 	|                  Playmate: Flexible Control of Portrait Animation via 3D-Implicit Space Guided Diffusion                  	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2502.07203) 	|           Latent           	|         Diffusion Model        	|                 arXiv                	|
+| 2025 03 25 	|                      EmoHead: Emotional Talking Head via Manipulating Semantic Expression Parameters                      	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2503.19416) 	|           Latent           	|         Diffusion Model        	|                 arXiv                	|
+| 2025 03 25 	|                 MVPortrait: Text-Guided Motion and Emotion Control for Multi-view Vivid Portrait Animation                	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2503.19383) 	|           Latent           	|         Diffusion Model        	|                 arXiv                	|
+| 2025 03 24 	|                DisentTalk: Cross-lingual Talking Face Generation via Semantic Disentangled Diffusion Model                	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2503.19001) 	|           Latent           	|         Diffusion Model        	|                 arXiv                	|
 | 2024 08 07 	|                ReSyncer: Rewiring Style-based Generator for Unified Audio-Visually Synced Facial Performer                	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2408.03284) 	|           Latent           	|         Encoder-Decoder        	|               ECCV 2024              	|
 | 2023 01 05 	|                            Expressive Speech-driven Facial Animation with controllable emotions                           	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2301.02008) 	|           Latent           	|         Encoder-Decoder        	|              ICMEW 2023              	|
 | 2024 01 28 	|                       Media2Face: Co-speech Facial Animation Generation With Multi-Modality Guidance                      	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2401.15687) 	|           Latent           	|         Diffusion Model        	|                 arXiv                	|
+
 
 
 
