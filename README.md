@@ -12,10 +12,10 @@
 <img src='https://img.shields.io/badge/TechRxiv-PDF-green?style=flat&logo=TechRxiv&logoColor=green' alt='TechRxiv PDF'>
 </a>
 <img src='https://img.shields.io/badge/Awesome Survey-8A2BE2' alt='Survey'>
-<img src='https://img.shields.io/badge/Related Work-283+ Papers and 64+ Datasets-blue' alt='MorePapers'>
+<img src='https://img.shields.io/badge/Related Work-286+ Papers and 64+ Datasets-blue' alt='MorePapers'>
 <br>
 <img src='https://img.shields.io/badge/Under Review-4BC88C' alt='under'>
-<img src='https://img.shields.io/badge/Update 🔥-2025.03.26-red' alt='MorePapers'>
+<img src='https://img.shields.io/badge/Update 🔥-2025.03.31-red' alt='MorePapers'>
 <a href='https://zhuanlan.zhihu.com/p/2672965087'>
 <img src='https://img.shields.io/badge/知乎-论文笔记-0084ff?style=flat&logo=zhihu&logoColor=yellow' alt='知乎文章'>
 </a>
@@ -161,8 +161,22 @@ dimension that has been underexplored in existing reviews.
 ## 💙 News
 
 
+**[2025/03/31] [V8.7 Vision](https://github.com/Winn1y/Awesome-Human-Motion-Video-Generation/): Update Methods.**
 
-**[2025/03/26] [V8.6 Vision](https://github.com/Winn1y/Awesome-Human-Motion-Video-Generation/): Update Methods.**
+
+
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2503.22225) Follow Your Motion: A Generic Temporal Consistency Portrait Editing Framework with Trajectory Guidance (Visual, Pose2Video)
+
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2503.22179) High-Fidelity Diffusion Face Swapping with ID-Constrained Facial Conditioning (Visual, Portrait Animation)
+
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2503.22605) Audio-Plane: Audio Factorization Plane Gaussian Splatting for Real-Time Talking Head Synthesis (Audio, Head Pose Driving)
+
+
+
+----
+
+
+[2025/03/26] [V8.6 Vision](https://github.com/Winn1y/Awesome-Human-Motion-Video-Generation/tree/8.6): Update Methods.
 
 
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2503.19416) EmoHead: Emotional Talking Head via Manipulating Semantic Expression Parameters (Audio, Fine-Grained Style and Emotion-Driven Animation)
@@ -922,6 +936,12 @@ Find the Chinese version notes of the survey, welcome to pay attention.
 
 
 
+
+
+
+
+
+
 |  **Date**  	|                                                **Title**                                                	|                                        **arXiv Link**                                       	| **Motion  Representation** 	|   **Backbone**  	|                  **Venue**                 	|
 |:----------:	|:-------------------------------------------------------------------------------------------------------:	|:-------------------------------------------------------------------------------------------:	|:--------------------------:	|:---------------:	|:------------------------------------------:	|
 | 2024 06 04 	|             Follow-Your-Emoji: Fine-Controllable and Expressive Freestyle Portrait Animation            	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2406.01900) 	|          KeyPoint          	| Diffusion Model 	|              SIGGRAPH ASIA2024             	|
@@ -948,7 +968,9 @@ Find the Chinese version notes of the survey, welcome to pay attention.
 | 2025 03 02 	|                                 FaceShot: Bring Any Character into Life                                 	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2503.00740) 	|           Latent           	| Diffusion Model 	|                    arxiv                   	|
 | 2025 03 15 	|                     Snapmoji: Instant Generation of Animatable Dual-Stylized Avatars                    	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2503.11978) 	|           Latent           	| Diffusion Model 	|                    arxiv                   	|
 | 2025 03 24 	|               HunyuanPortrait: Implicit Condition Control for Enhanced Portrait Animation               	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2503.18860) 	|           Latent           	| Diffusion Model 	|                    arxiv                   	|
+| 2025 03 28 	|              High-Fidelity Diffusion Face Swapping with ID-Constrained Facial Conditioning              	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2503.22179) 	|           Latent           	| Diffusion Model 	|                    arxiv                   	|
 | 2024 03 23 	|                              FaceOff: A Video-to-Video Face Swapping System                             	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2208.09788) 	|           Latent           	| Encoder-Decoder 	|                  WACV 2023                 	|
+
 
 
 
@@ -1097,6 +1119,9 @@ Find the Chinese version notes of the survey, welcome to pay attention.
 
 
 
+
+
+
 |  **Date**  	|                                                **Title**                                               	|                                        **arXiv Link**                                       	| **Motion  Representation** 	|   **Backbone**  	| **Venue** 	|
 |:----------:	|:------------------------------------------------------------------------------------------------------:	|:-------------------------------------------------------------------------------------------:	|:--------------------------:	|:---------------:	|:---------:	|
 | 2023 04 12 	|                                                DreamPose                                               	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2304.06025) 	|           Region           	| Diffusion Model 	| ICCV 2023 	|
@@ -1106,8 +1131,12 @@ Find the Chinese version notes of the survey, welcome to pay attention.
 | 2025 02 07 	|         HumanDiT: Pose-Guided Diffusion Transformer for Long-form Human Motion Video Generation        	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2502.04847) 	|          KeyPoint          	| Diffusion Model 	|   arxiv   	|
 | 2025 03 12 	|       SwapAnyone: Consistent and Realistic Video Synthesis for Swapping Any Person into Any Video      	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2503.09154) 	|          KeyPoint          	| Diffusion Model 	|   arxiv   	|
 | 2025 03 21 	|    Re-HOLD: Video Hand Object Interaction Reenactment via adaptive Layout-instructed Diffusion Model   	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2503.16942) 	|          KeyPoint          	| Diffusion Model 	|   arxiv   	|
+| 2025 03 28 	| Follow Your Motion: A Generic Temporal Consistency Portrait Editing Framework with Trajectory Guidance 	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2503.22225) 	|          KeyPoint          	| Encoder-Decoder 	|   arxiv   	|
 | 2024 11 26 	| AnchorCrafter: Animate CyberAnchors Saling Your Products via Human-Object Interacting Video Generation 	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2411.17383) 	|          KeyPoint          	| Diffusion Model 	|   arxiv   	|
 | 2024 10 29 	|           MovieCharacter: A Tuning-Free Framework for Controllable Character Video Synthesis           	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2410.20974) 	|           Region           	| Diffusion Model 	|   arxiv   	|
+
+
+
 
 
 
@@ -1327,10 +1356,6 @@ Find the Chinese version notes of the survey, welcome to pay attention.
 
 
 
-
-
-
-
 |  **Date**  	|                                                            **Title**                                                            	|                                                            **arXiv Link**                                                           	|  **Motion  Representation**  	|   **Backbone**  	|                              **Venue**                              	|
 |:----------:	|:-------------------------------------------------------------------------------------------------------------------------------:	|:-----------------------------------------------------------------------------------------------------------------------------------:	|:----------------------------:	|:---------------:	|:-------------------------------------------------------------------:	|
 | 2017 08 20 	|                           Predicting head pose from speech with a conditional variational autoencoder                           	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://ueaeprints.uea.ac.uk/id/eprint/64846/1/greenwood_Interspeech.pdf) 	|            Latent            	|  Autoregressive 	|                               ISCA2017                              	|
@@ -1388,6 +1413,7 @@ Find the Chinese version notes of the survey, welcome to pay attention.
 | 2025 03 18 	|                        PC-Talk: Precise Facial Animation Control for Audio-Driven Talking Face Generation                       	|                     [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2503.14295)                     	|            Latent            	| Diffusion Model 	|                                arxiv                                	|
 | 2025 03 14 	|                 Cafe-Talk: Generating 3D Talking Face Animation with Multimodal Coarse- and Fine-grained Control                	|                     [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2503.14517)                     	|            Latent            	| Diffusion Model 	|                                arxiv                                	|
 | 2025 03 24 	|                Teller: Real-Time Streaming Audio-Driven Portrait Animation with Autoregressive Motion Generation                	|                     [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2503.18429)                     	|            Latent            	| Diffusion Model 	|                                arxiv                                	|
+| 2025 03 28 	|                  Audio-Plane: Audio Factorization Plane Gaussian Splatting for Real-Time Talking Head Synthesis                 	|                     [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2503.22605)                     	|            Latent            	| Diffusion Model 	|                                arxiv                                	|
 | 2024 04 28 	|                                                          GaussianTalker                                                         	|                     [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2404.14037)                     	|      3D Parameterization     	| Encoder-Decoder 	|                              ACM MM2024                             	|
 | 2021 12 10 	|                                 FaceFormer: Speech-Driven 3D Facial Animation with Transformers                                 	|                     [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2112.05329)                     	|            Latent            	|   Transformer   	|                                CVPR22                               	|
 | 2023 09 15 	|           Towards the generation of synchronized and believable non-verbal facial behaviors of a talking virtual agent          	|                     [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2311.12804)                     	|            Latent            	|       GAN       	|                              ICMI 2023                              	|
