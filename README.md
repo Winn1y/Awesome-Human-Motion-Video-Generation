@@ -161,7 +161,21 @@ dimension that has been underexplored in existing reviews.
 ## 💙 News
 
 
-**[2025/04/01] [V8.8 Vision](https://github.com/Winn1y/Awesome-Human-Motion-Video-Generation/): Update Methods.**
+
+**[2025/04/02] [V8.9 Vision](https://github.com/Winn1y/Awesome-Human-Motion-Video-Generation/): Update Methods.**
+
+
+
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2504.00665) Monocular and Generalizable Gaussian Talking Head Animation (Audio, Head Pose Driving)
+
+
+
+----
+
+
+
+
+[2025/04/01] [V8.8 Vision](https://github.com/Winn1y/Awesome-Human-Motion-Video-Generation/tree/8.8): Update Methods.
 
 
 
@@ -1382,14 +1396,6 @@ Find the Chinese version notes of the survey, welcome to pay attention.
 
 
 
-
-
-
-
-
-
-
-
 |  **Date**  	|                                                            **Title**                                                            	|                                                            **arXiv Link**                                                           	|  **Motion  Representation**  	|   **Backbone**  	|                              **Venue**                              	|
 |:----------:	|:-------------------------------------------------------------------------------------------------------------------------------:	|:-----------------------------------------------------------------------------------------------------------------------------------:	|:----------------------------:	|:---------------:	|:-------------------------------------------------------------------:	|
 | 2017 08 20 	|                           Predicting head pose from speech with a conditional variational autoencoder                           	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://ueaeprints.uea.ac.uk/id/eprint/64846/1/greenwood_Interspeech.pdf) 	|            Latent            	|  Autoregressive 	|                               ISCA2017                              	|
@@ -1449,10 +1455,13 @@ Find the Chinese version notes of the survey, welcome to pay attention.
 | 2025 03 24 	|                Teller: Real-Time Streaming Audio-Driven Portrait Animation with Autoregressive Motion Generation                	|                     [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2503.18429)                     	|            Latent            	| Diffusion Model 	|                                arxiv                                	|
 | 2025 03 28 	|                  Audio-Plane: Audio Factorization Plane Gaussian Splatting for Real-Time Talking Head Synthesis                 	|                     [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2503.22605)                     	|            Latent            	| Diffusion Model 	|                                arxiv                                	|
 | 2025 03 26 	|                                 Dual Audio-Centric Modality Coupling for Talking Head Generation                                	|                     [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2503.22728)                     	|            Latent            	| Diffusion Model 	|                                arxiv                                	|
+| 2025 04 01 	|                                   Monocular and Generalizable Gaussian Talking Head Animation                                   	|                     [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2504.00665)                     	|            Latent            	| Encoder-Decoder 	|                                arxiv                                	|
 | 2024 04 28 	|                                                          GaussianTalker                                                         	|                     [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2404.14037)                     	|      3D Parameterization     	| Encoder-Decoder 	|                              ACM MM2024                             	|
 | 2021 12 10 	|                                 FaceFormer: Speech-Driven 3D Facial Animation with Transformers                                 	|                     [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2112.05329)                     	|            Latent            	|   Transformer   	|                                CVPR22                               	|
 | 2023 09 15 	|           Towards the generation of synchronized and believable non-verbal facial behaviors of a talking virtual agent          	|                     [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2311.12804)                     	|            Latent            	|       GAN       	|                              ICMI 2023                              	|
 | 2023 10 17 	|                 CorrTalk: Correlation Between Hierarchical Speech and Facial Activity Variances for 3D Animation                	|                     [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2310.11295)                     	|            Latent            	| Encoder-Decoder 	| IEEE Transactions on Circuits and Systems for Video Technology 2024 	|
+
+
 
 
 
