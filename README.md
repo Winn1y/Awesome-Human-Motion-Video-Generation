@@ -12,10 +12,10 @@
 <img src='https://img.shields.io/badge/TechRxiv-PDF-green?style=flat&logo=TechRxiv&logoColor=green' alt='TechRxiv PDF'>
 </a>
 <img src='https://img.shields.io/badge/Awesome Survey-8A2BE2' alt='Survey'>
-<img src='https://img.shields.io/badge/Related Work-293+ Papers and 64+ Datasets-blue' alt='MorePapers'>
+<img src='https://img.shields.io/badge/Related Work-298+ Papers and 64+ Datasets-blue' alt='MorePapers'>
 <br>
 <img src='https://img.shields.io/badge/Under Review-4BC88C' alt='under'>
-<img src='https://img.shields.io/badge/Update 🔥-2025.04.04-red' alt='MorePapers'>
+<img src='https://img.shields.io/badge/Update 🔥-2025.04.09-red' alt='MorePapers'>
 <a href='https://zhuanlan.zhihu.com/p/2672965087'>
 <img src='https://img.shields.io/badge/知乎-论文笔记-0084ff?style=flat&logo=zhihu&logoColor=yellow' alt='知乎文章'>
 </a>
@@ -161,7 +161,27 @@ dimension that has been underexplored in existing reviews.
 ## 💙 News
 
 
-**[2025/04/04] [V9.0 Vision](https://github.com/Winn1y/Awesome-Human-Motion-Video-Generation/): Update Methods.**
+
+**[2025/04/09] [V9.1 Vision](https://github.com/Winn1y/Awesome-Human-Motion-Video-Generation/): Update Methods.**
+
+
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2504.04126) Multi-identity Human Image Animation with Structural Video Diffusion (Visual, Pose-Guided Dance Video Generation)
+
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2504.04842) FantasyTalking: Realistic Talking Portrait Generation via Coherent Motion Synthesis (Audio, Head Pose Driving)
+
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2504.05803) SE4Lip: Speech-Lip Encoder for Talking Head Synthesis to Solve Phoneme-Viseme Alignment Ambiguity (Audio, Head Pose Driving)
+
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2504.05746) Exploiting Temporal Audio-Visual Correlation Embedding for Audio-Driven One-Shot Talking Head Animation (Audio, Head Pose Driving)
+
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2504.04427) FluentLip: A Phonemes-Based Two-stage Approach for Audio-Driven Lip Synthesis with Optical Flow Consistency (Audio, Lip Synchronization)
+
+
+
+----
+
+
+
+[2025/04/04] [V9.0 Vision](https://github.com/Winn1y/Awesome-Human-Motion-Video-Generation/tree/9.0): Update Methods.
 
 
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2504.01724) DreamActor-M1: Holistic, Expressive and Robust Human Image Animation with Hybrid Guidance (Visual, Video-Guided Dance Video Generation)
@@ -1080,6 +1100,18 @@ Find the Chinese version notes of the survey, welcome to pay attention.
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
 |   **Date**  	|                                             **Title**                                            	|                                        **arXiv Link**                                       	| **Motion  Representation** 	|   **Backbone**  	|   **Venue**  	|
 |:-----------:	|:------------------------------------------------------------------------------------------------:	|:-------------------------------------------------------------------------------------------:	|:--------------------------:	|:---------------:	|:------------:	|
 |  2023 06 30 	|                                               DisCo                                              	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2307.00040) 	|          KeyPoint          	| Diffusion Model 	|   CVPR2024   	|
@@ -1114,6 +1146,7 @@ Find the Chinese version notes of the survey, welcome to pay attention.
 |  2025 02 12 	|     AnyCharV: Bootstrap Controllable Character Video Generation with Fine-to-Coarse Guidance     	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2502.08189) 	|          KeyPoint          	| Diffusion Model 	|     arxiv    	|
 |  2025 02 17 	|                    HumanGif: Single-View Human Diffusion with Generative Prior                   	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2502.12080) 	|          KeyPoint          	| Diffusion Model 	|     arxiv    	|
 |  2025 03 24 	|            EvAnimate: Event-conditioned Image-to-Video Generation for Human Animation            	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2503.18552) 	|          KeyPoint          	| Diffusion Model 	|     arxiv    	|
+|  2025 04 05 	|               Multi-identity Human Image Animation with Structural Video Diffusion               	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2504.04126) 	|          KeyPoint          	| Diffusion Model 	|     arxiv    	|
 |  2024 07 16 	|     IDOL: Unified Dual-Modal Latent Diffusion for Human-Centric Joint Video-Depth Generation     	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2407.10937) 	|           Region           	| Diffusion Model 	|     arxiv    	|
 
 
@@ -1372,21 +1405,29 @@ Find the Chinese version notes of the survey, welcome to pay attention.
 <details open><summary>Part (Face) || Lip Synchronization</summary>
 
 
-|  **Date**  	|                                       **Title**                                      	|                                              **arXiv Link**                                             	| **Motion  Representation** 	|   **Backbone**  	| **Venue** 	|
-|:----------:	|:------------------------------------------------------------------------------------:	|:-------------------------------------------------------------------------------------------------------:	|:--------------------------:	|:---------------:	|:---------:	|
-| 2020 09 17 	|                      Photorealistic Audio-driven Video Portraits                     	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://ieeexplore.ieee.org/document/9199560) 	|           Region           	| Encoder-Decoder 	|  TVCG2020 	|
-| 2019 05 09 	|     Hierarchical cross-modal talking face generation with dynamic pixel-wise loss    	|       [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/1905.03820)       	|          KeyPoint          	|  Autoregressive 	|  CVPR2019 	|
-| 2019 05 08 	|                Capture, Learning, and Synthesis of 3D Speaking Styles                	|       [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/1905.03079)       	|           Latent           	| Encoder-Decoder 	|  CVPR2019 	|
-| 2024 08 13 	|               Style-Preserving Lip Sync via Audio-Aware Style Reference              	|       [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2408.05412)       	|           Latent           	| Diffusion Model 	|   arxiv   	|
-| 2024 09 06 	| SegTalker: Segmentation-based Talking Face Generation with Mask-guided Local Editing 	|       [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2409.03605)       	|           Latent           	|       GAN       	|   arxiv   	|
-| 2024 09 10 	|          Leveraging WaveNet for Dynamic Listening Head Modeling from Speech          	|       [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2409.05089)       	|           Latent           	|  Autoregressive 	|   arxiv   	|
-| 2024 09 10 	|     KAN-Based Fusion of Dual-Domain for Audio-Driven Facial Landmarks Generation     	|       [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2409.05330)       	|          KeyPoint          	| Encoder-Decoder 	|   arxiv   	|
-| 2024 09 10 	|            PersonaTalk: Bring Attention to Your Persona in Visual Dubbing            	|       [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2409.05379)       	|     3D Parameterization    	| Encoder-Decoder 	|   arxiv   	|
-| 2024 09 17 	|   LawDNet: Enhanced Audio-Driven Lip Synthesis via Local Affine Warping Deformation  	|       [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2409.09326)       	|           Latent           	| Encoder-Decoder 	|   arxiv   	|
-| 2024 10 15 	|   MuseTalk: Real-Time High Quality Lip Synchronization with Latent Space Inpainting  	|       [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2410.10122)       	|           Latent           	| Diffusion Model 	|   arxiv   	|
-| 2024 12 12 	|          LatentSync: Audio Conditioned Latent Diffusion Models for Lip Sync          	|       [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.09262)       	|           Latent           	| Diffusion Model 	|   arxiv   	|
-| 2025 01 08 	|                Identity-Preserving Video Dubbing Using Motion Warping                	|       [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2501.04586)       	|           Latent           	| Encoder-Decoder 	|   arxiv   	|
-| 2023 01 10 	|         Speech driven video editing via an audio-conditioned diffusion model         	|       [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2301.04474)       	|           Latent           	| Diffusion Model 	|  IVC2024  	|
+
+
+
+
+
+|  **Date**  	|                                                  **Title**                                                  	|                                              **arXiv Link**                                             	| **Motion  Representation** 	|   **Backbone**  	| **Venue** 	|
+|:----------:	|:-----------------------------------------------------------------------------------------------------------:	|:-------------------------------------------------------------------------------------------------------:	|:--------------------------:	|:---------------:	|:---------:	|
+| 2020 09 17 	|                                 Photorealistic Audio-driven Video Portraits                                 	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://ieeexplore.ieee.org/document/9199560) 	|           Region           	| Encoder-Decoder 	|  TVCG2020 	|
+| 2019 05 09 	|                Hierarchical cross-modal talking face generation with dynamic pixel-wise loss                	|       [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/1905.03820)       	|          KeyPoint          	|  Autoregressive 	|  CVPR2019 	|
+| 2019 05 08 	|                            Capture, Learning, and Synthesis of 3D Speaking Styles                           	|       [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/1905.03079)       	|           Latent           	| Encoder-Decoder 	|  CVPR2019 	|
+| 2024 08 13 	|                          Style-Preserving Lip Sync via Audio-Aware Style Reference                          	|       [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2408.05412)       	|           Latent           	| Diffusion Model 	|   arxiv   	|
+| 2024 09 06 	|             SegTalker: Segmentation-based Talking Face Generation with Mask-guided Local Editing            	|       [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2409.03605)       	|           Latent           	|       GAN       	|   arxiv   	|
+| 2024 09 10 	|                      Leveraging WaveNet for Dynamic Listening Head Modeling from Speech                     	|       [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2409.05089)       	|           Latent           	|  Autoregressive 	|   arxiv   	|
+| 2024 09 10 	|                 KAN-Based Fusion of Dual-Domain for Audio-Driven Facial Landmarks Generation                	|       [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2409.05330)       	|          KeyPoint          	| Encoder-Decoder 	|   arxiv   	|
+| 2024 09 10 	|                        PersonaTalk: Bring Attention to Your Persona in Visual Dubbing                       	|       [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2409.05379)       	|     3D Parameterization    	| Encoder-Decoder 	|   arxiv   	|
+| 2024 09 17 	|              LawDNet: Enhanced Audio-Driven Lip Synthesis via Local Affine Warping Deformation              	|       [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2409.09326)       	|           Latent           	| Encoder-Decoder 	|   arxiv   	|
+| 2024 10 15 	|              MuseTalk: Real-Time High Quality Lip Synchronization with Latent Space Inpainting              	|       [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2410.10122)       	|           Latent           	| Diffusion Model 	|   arxiv   	|
+| 2024 12 12 	|                      LatentSync: Audio Conditioned Latent Diffusion Models for Lip Sync                     	|       [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.09262)       	|           Latent           	| Diffusion Model 	|   arxiv   	|
+| 2025 01 08 	|                            Identity-Preserving Video Dubbing Using Motion Warping                           	|       [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2501.04586)       	|           Latent           	| Encoder-Decoder 	|   arxiv   	|
+| 2025 04 06 	| FluentLip: A Phonemes-Based Two-stage Approach for Audio-Driven Lip Synthesis with Optical Flow Consistency 	|       [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2504.04427)       	|           Latent           	|       GAN       	|   arxiv   	|
+| 2023 01 10 	|                     Speech driven video editing via an audio-conditioned diffusion model                    	|       [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2301.04474)       	|           Latent           	| Diffusion Model 	|  IVC2024  	|
+
+
 
 
 
@@ -1409,6 +1450,10 @@ Find the Chinese version notes of the survey, welcome to pay attention.
 
 
 <details open><summary>Part (Face) || Head Pose Driving</summary>
+
+
+
+
 
 
 
@@ -1489,10 +1534,17 @@ Find the Chinese version notes of the survey, welcome to pay attention.
 | 2025 04 01 	|                                   Monocular and Generalizable Gaussian Talking Head Animation                                   	|                     [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2504.00665)                     	|            Latent            	| Encoder-Decoder 	|                                arxiv                                	|
 | 2025 04 03 	|     Audio-visual Controlled Video Diffusion with Masked Selective State Spaces Modeling for Natural Talking Head Generation     	|                     [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2504.02542)                     	|            Latent            	| Diffusion Model 	|                                arxiv                                	|
 | 2025 04 03 	|                            VoiceCraft-Dub: Automated Video Dubbing with Neural Codec Language Models                            	|                     [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2504.02386)                     	|            Latent            	| Diffusion Model 	|                                arxiv                                	|
+| 2025 04 07 	|                       FantasyTalking: Realistic Talking Portrait Generation via Coherent Motion Synthesis                       	|                     [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2504.04842)                     	|            Latent            	| Diffusion Model 	|                                arxiv                                	|
+| 2025 04 08 	|                SE4Lip: Speech-Lip Encoder for Talking Head Synthesis to Solve Phoneme-Viseme Alignment Ambiguity                	|                     [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2504.05803)                     	|            Latent            	| Encoder-Decoder 	|                                arxiv                                	|
+| 2025 04 08 	|             Exploiting Temporal Audio-Visual Correlation Embedding for Audio-Driven One-Shot Talking Head Animation             	|                     [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2504.05746)                     	|            Latent            	| Encoder-Decoder 	|                                arxiv                                	|
 | 2024 04 28 	|                                                          GaussianTalker                                                         	|                     [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2404.14037)                     	|      3D Parameterization     	| Encoder-Decoder 	|                              ACM MM2024                             	|
 | 2021 12 10 	|                                 FaceFormer: Speech-Driven 3D Facial Animation with Transformers                                 	|                     [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2112.05329)                     	|            Latent            	|   Transformer   	|                                CVPR22                               	|
 | 2023 09 15 	|           Towards the generation of synchronized and believable non-verbal facial behaviors of a talking virtual agent          	|                     [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2311.12804)                     	|            Latent            	|       GAN       	|                              ICMI 2023                              	|
 | 2023 10 17 	|                 CorrTalk: Correlation Between Hierarchical Speech and Facial Activity Variances for 3D Animation                	|                     [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2310.11295)                     	|            Latent            	| Encoder-Decoder 	| IEEE Transactions on Circuits and Systems for Video Technology 2024 	|
+
+
+
+
 
 
 
