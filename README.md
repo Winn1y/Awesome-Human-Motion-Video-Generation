@@ -12,10 +12,10 @@
 <img src='https://img.shields.io/badge/TechRxiv-PDF-green?style=flat&logo=TechRxiv&logoColor=green' alt='TechRxiv PDF'>
 </a>
 <img src='https://img.shields.io/badge/Awesome Survey-8A2BE2' alt='Survey'>
-<img src='https://img.shields.io/badge/Related Work-300+ Papers and 64+ Datasets-blue' alt='MorePapers'>
+<img src='https://img.shields.io/badge/Related Work-302+ Papers and 64+ Datasets-blue' alt='MorePapers'>
 <br>
 <img src='https://img.shields.io/badge/Under Review-4BC88C' alt='under'>
-<img src='https://img.shields.io/badge/Update 🔥-2025.04.14-red' alt='MorePapers'>
+<img src='https://img.shields.io/badge/Update 🔥-2025.04.16-red' alt='MorePapers'>
 <a href='https://zhuanlan.zhihu.com/p/2672965087'>
 <img src='https://img.shields.io/badge/知乎-论文笔记-0084ff?style=flat&logo=zhihu&logoColor=yellow' alt='知乎文章'>
 </a>
@@ -160,7 +160,18 @@ dimension that has been underexplored in existing reviews.
 
 ## 💙 News
 
-**[2025/04/14] [V9.2 Vision](https://github.com/Winn1y/Awesome-Human-Motion-Video-Generation/): Update Methods.**
+**[2025/04/16] [V9.3 Vision](https://github.com/Winn1y/Awesome-Human-Motion-Video-Generation/): Update Methods.**
+
+
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2504.11289) UniAnimate-DiT: Human Image Animation with Large-Scale Video Diffusion Transformer (Visual, Pose-Guided Dance Video Generation)
+
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2504.10905) InterAnimate: Taming Region-aware Diffusion Model for Realistic Human Interaction Animation (Visual, Portrait Animation)
+
+
+
+----
+
+[2025/04/14] [V9.2 Vision](https://github.com/Winn1y/Awesome-Human-Motion-Video-Generation/tree/9.2): Update Methods.
 
 
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2504.08181) TokenMotion: Decoupled Motion Control via Token Disentanglement for Human-centric Video Generation (Visual, Pose-Guided Dance Video Generation)
@@ -1011,11 +1022,6 @@ Find the Chinese version notes of the survey, welcome to pay attention.
 
 
 
-
-
-
-
-
 |  **Date**  	|                                                **Title**                                                	|                                        **arXiv Link**                                       	| **Motion  Representation** 	|   **Backbone**  	|                  **Venue**                 	|
 |:----------:	|:-------------------------------------------------------------------------------------------------------:	|:-------------------------------------------------------------------------------------------:	|:--------------------------:	|:---------------:	|:------------------------------------------:	|
 | 2024 06 04 	|             Follow-Your-Emoji: Fine-Controllable and Expressive Freestyle Portrait Animation            	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2406.01900) 	|          KeyPoint          	| Diffusion Model 	|              SIGGRAPH ASIA2024             	|
@@ -1043,7 +1049,18 @@ Find the Chinese version notes of the survey, welcome to pay attention.
 | 2025 03 15 	|                     Snapmoji: Instant Generation of Animatable Dual-Stylized Avatars                    	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2503.11978) 	|           Latent           	| Diffusion Model 	|                    arxiv                   	|
 | 2025 03 24 	|               HunyuanPortrait: Implicit Condition Control for Enhanced Portrait Animation               	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2503.18860) 	|           Latent           	| Diffusion Model 	|                    arxiv                   	|
 | 2025 03 28 	|              High-Fidelity Diffusion Face Swapping with ID-Constrained Facial Conditioning              	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2503.22179) 	|           Latent           	| Diffusion Model 	|                    arxiv                   	|
+| 2025 04 15 	|       InterAnimate: Taming Region-aware Diffusion Model for Realistic Human Interaction Animation       	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2504.10905) 	|           Latent           	| Diffusion Model 	|                    arxiv                   	|
 | 2024 03 23 	|                              FaceOff: A Video-to-Video Face Swapping System                             	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2208.09788) 	|           Latent           	| Encoder-Decoder 	|                  WACV 2023                 	|
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -1114,6 +1131,10 @@ Find the Chinese version notes of the survey, welcome to pay attention.
 
 
 
+
+
+
+
 |   **Date**  	|                                              **Title**                                             	|                                        **arXiv Link**                                       	| **Motion  Representation** 	|   **Backbone**  	|   **Venue**  	|
 |:-----------:	|:--------------------------------------------------------------------------------------------------:	|:-------------------------------------------------------------------------------------------:	|:--------------------------:	|:---------------:	|:------------:	|
 |  2023 06 30 	|                                                DisCo                                               	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2307.00040) 	|          KeyPoint          	| Diffusion Model 	|   CVPR2024   	|
@@ -1150,7 +1171,10 @@ Find the Chinese version notes of the survey, welcome to pay attention.
 |  2025 03 24 	|             EvAnimate: Event-conditioned Image-to-Video Generation for Human Animation             	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2503.18552) 	|          KeyPoint          	| Diffusion Model 	|     arxiv    	|
 |  2025 04 11 	| TokenMotion: Decoupled Motion Control via Token Disentanglement for Human-centric Video Generation 	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2504.08181) 	|          KeyPoint          	| Diffusion Model 	|     arxiv    	|
 |  2025 04 05 	|                Multi-identity Human Image Animation with Structural Video Diffusion                	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2504.04126) 	|          KeyPoint          	| Diffusion Model 	|     arxiv    	|
+|  2025 04 15 	|         UniAnimate-DiT: Human Image Animation with Large-Scale Video Diffusion Transformer         	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2504.11289) 	|          KeyPoint          	| Diffusion Model 	|     arxiv    	|
 |  2024 07 16 	|      IDOL: Unified Dual-Modal Latent Diffusion for Human-Centric Joint Video-Depth Generation      	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2407.10937) 	|           Region           	| Diffusion Model 	|     arxiv    	|
+
+
 
 
 
