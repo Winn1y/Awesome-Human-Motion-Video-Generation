@@ -12,10 +12,10 @@
 <img src='https://img.shields.io/badge/TechRxiv-PDF-green?style=flat&logo=TechRxiv&logoColor=green' alt='TechRxiv PDF'>
 </a>
 <img src='https://img.shields.io/badge/Awesome Survey-8A2BE2' alt='Survey'>
-<img src='https://img.shields.io/badge/Related Work-312+ Papers and 64+ Datasets-blue' alt='MorePapers'>
+<img src='https://img.shields.io/badge/Related Work-313+ Papers and 64+ Datasets-blue' alt='MorePapers'>
 <br>
 <img src='https://img.shields.io/badge/Under Review-4BC88C' alt='under'>
-<img src='https://img.shields.io/badge/Update 🔥-2025.05.09-red' alt='MorePapers'>
+<img src='https://img.shields.io/badge/Update 🔥-2025.05.13-red' alt='MorePapers'>
 <a href='https://zhuanlan.zhihu.com/p/2672965087'>
 <img src='https://img.shields.io/badge/知乎-论文笔记-0084ff?style=flat&logo=zhihu&logoColor=yellow' alt='知乎文章'>
 </a>
@@ -164,7 +164,16 @@ We are excited to announce the upcoming launch of a new benchmark, including enh
 
 ## 💙 News
 
-**[2025/05/09] [V9.6 Vision](https://github.com/Winn1y/Awesome-Human-Motion-Video-Generation/): Update Methods.**
+**[2025/05/13] [V9.7 Vision](https://github.com/Winn1y/Awesome-Human-Motion-Video-Generation/): Update Methods.**
+
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2505.06537) ProFashion: Prototype-guided Fashion Video Generation with Multiple Reference Images (Visual, Try-On Video Generation)
+
+
+
+----
+
+
+[2025/05/09] [V9.6 Vision](https://github.com/Winn1y/Awesome-Human-Motion-Video-Generation/tree/9.6): Update Methods.
 
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2505.03730) FlexiAct: Towards Flexible Action Control in Heterogeneous Scenarios (Visual, Video-Guided Dance Video Generation)
 
@@ -172,8 +181,8 @@ We are excited to announce the upcoming launch of a new benchmark, including enh
 
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2505.04512) HunyuanCustom: A Multimodal-Driven Architecture for Customized Video Generation (Audio, Audio-Driven Holistic Body Driving)
 
-
 ----
+
 
 [2025/05/01] [V9.5 Vision](https://github.com/Winn1y/Awesome-Human-Motion-Video-Generation/tree/9.5): Update Methods.
 
@@ -1251,6 +1260,10 @@ Find the Chinese version notes of the survey, welcome to pay attention.
 
 
 
+
+
+
+
 |  **Date**  	|                                              **Title**                                              	|                                        **arXiv Link**                                       	| **Motion  Representation** 	|   **Backbone**  	|      **Venue**     	|
 |:----------:	|:---------------------------------------------------------------------------------------------------:	|:-------------------------------------------------------------------------------------------:	|:--------------------------:	|:---------------:	|:------------------:	|
 | 2024 04 26 	|     Tunnel Try-on: Excavating Spatial-temporal Tunnels for High-quality Virtual Try-on in Videos    	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2404.17571) 	|          KeyPoint          	| Diffusion Model 	|        arxiv       	|
@@ -1263,7 +1276,11 @@ Find the Chinese version notes of the survey, welcome to pay attention.
 | 2025 01 15 	|         RealVVT: Towards Photorealistic Video Virtual Try-on via Spatio-Temporal Consistency        	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2501.08682) 	|           Latent           	| Diffusion Model 	|        arxiv       	|
 | 2025 01 20 	| CatV2TON: Taming Diffusion Transformers for Vision-Based Virtual Try-On with Temporal Concatenation 	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2501.11325) 	|           Latent           	| Diffusion Model 	|        arxiv       	|
 | 2025 04 24 	|               3DV-TON: Textured 3D-Guided Consistent Video Try-on via Diffusion Models              	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2504.17414) 	|           Latent           	| Diffusion Model 	|        arxiv       	|
+| 2025 05 10 	|         ProFashion: Prototype-guided Fashion Video Generation with Multiple Reference Images        	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2505.06537) 	|           Latent           	| Diffusion Model 	|        arxiv       	|
 | 2024 07 16 	|       WildVidFit: Video Virtual Try-On in the Wild via Image-Based Controlled Diffusion Models      	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2407.10625) 	|          KeyPoint          	| Diffusion Model 	|        arxiv       	|
+
+
+
 
 
 
