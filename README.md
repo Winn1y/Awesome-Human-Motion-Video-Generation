@@ -12,10 +12,10 @@
 <img src='https://img.shields.io/badge/TechRxiv-PDF-green?style=flat&logo=TechRxiv&logoColor=green' alt='TechRxiv PDF'>
 </a>
 <img src='https://img.shields.io/badge/Awesome Survey-8A2BE2' alt='Survey'>
-<img src='https://img.shields.io/badge/Related Work-313+ Papers and 64+ Datasets-blue' alt='MorePapers'>
+<img src='https://img.shields.io/badge/Related Work-314+ Papers and 64+ Datasets-blue' alt='MorePapers'>
 <br>
 <img src='https://img.shields.io/badge/Under Review-4BC88C' alt='under'>
-<img src='https://img.shields.io/badge/Update 🔥-2025.05.13-red' alt='MorePapers'>
+<img src='https://img.shields.io/badge/Update 🔥-2025.05.23-red' alt='MorePapers'>
 <a href='https://zhuanlan.zhihu.com/p/2672965087'>
 <img src='https://img.shields.io/badge/知乎-论文笔记-0084ff?style=flat&logo=zhihu&logoColor=yellow' alt='知乎文章'>
 </a>
@@ -164,7 +164,16 @@ We are excited to announce the upcoming launch of a new benchmark, including enh
 
 ## 💙 News
 
-**[2025/05/13] [V9.7 Vision](https://github.com/Winn1y/Awesome-Human-Motion-Video-Generation/): Update Methods.**
+**[2025/05/23] [V9.8 Vision](https://github.com/Winn1y/Awesome-Human-Motion-Video-Generation/): Update Methods.**
+
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2505.15800) Interspatial Attention for Efficient 4D Human Video Generation (Visual, Pose-Guided Dance Video Generation)
+
+
+
+----
+
+
+[2025/05/13] [V9.7 Vision](https://github.com/Winn1y/Awesome-Human-Motion-Video-Generation/tree/9.7): Update Methods.
 
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2505.06537) ProFashion: Prototype-guided Fashion Video Generation with Multiple Reference Images (Visual, Try-On Video Generation)
 
@@ -1187,6 +1196,10 @@ Find the Chinese version notes of the survey, welcome to pay attention.
 
 
 
+
+
+
+
 |   **Date**  	|                                              **Title**                                             	|                                        **arXiv Link**                                       	| **Motion  Representation** 	|   **Backbone**  	|   **Venue**  	|
 |:-----------:	|:--------------------------------------------------------------------------------------------------:	|:-------------------------------------------------------------------------------------------:	|:--------------------------:	|:---------------:	|:------------:	|
 |  2023 06 30 	|                                                DisCo                                               	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2307.00040) 	|          KeyPoint          	| Diffusion Model 	|   CVPR2024   	|
@@ -1226,7 +1239,11 @@ Find the Chinese version notes of the survey, welcome to pay attention.
 |  2025 04 15 	|         UniAnimate-DiT: Human Image Animation with Large-Scale Video Diffusion Transformer         	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2504.11289) 	|          KeyPoint          	| Diffusion Model 	|     arxiv    	|
 |  2025 04 21 	|  RealisDance-DiT: Simple yet Strong Baseline towards Controllable Character Animation in the Wild  	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2504.14977) 	|          KeyPoint          	| Diffusion Model 	|     arxiv    	|
 |  2025 04 28 	|                   AnimateAnywhere: Rouse the Background in Human Image Animation                   	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2504.19834) 	|          KeyPoint          	| Diffusion Model 	|     arxiv    	|
+|  2025 05 23 	|                   Interspatial Attention for Efficient 4D Human Video Generation                   	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2505.15800) 	|          3D参数化          	| Diffusion Model 	|     arxiv    	|
 |  2024 07 16 	|      IDOL: Unified Dual-Modal Latent Diffusion for Human-Centric Joint Video-Depth Generation      	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2407.10937) 	|           Region           	| Diffusion Model 	|     arxiv    	|
+
+
+
 
 
 
