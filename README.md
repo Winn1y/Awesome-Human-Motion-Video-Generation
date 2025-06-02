@@ -12,10 +12,10 @@
 <img src='https://img.shields.io/badge/TechRxiv-PDF-green?style=flat&logo=TechRxiv&logoColor=green' alt='TechRxiv PDF'>
 </a>
 <img src='https://img.shields.io/badge/Awesome Survey-8A2BE2' alt='Survey'>
-<img src='https://img.shields.io/badge/Related Work-328+ Papers and 64+ Datasets-blue' alt='MorePapers'>
+<img src='https://img.shields.io/badge/Related Work-329+ Papers and 64+ Datasets-blue' alt='MorePapers'>
 <br>
 <img src='https://img.shields.io/badge/Under Review-4BC88C' alt='under'>
-<img src='https://img.shields.io/badge/Update 🔥-2025.05.30-red' alt='MorePapers'>
+<img src='https://img.shields.io/badge/Update 🔥-2025.06.03-red' alt='MorePapers'>
 <a href='https://zhuanlan.zhihu.com/p/2672965087'>
 <img src='https://img.shields.io/badge/知乎-论文笔记-0084ff?style=flat&logo=zhihu&logoColor=yellow' alt='知乎文章'>
 </a>
@@ -164,7 +164,28 @@ We are excited to announce the upcoming launch of a new benchmark, including enh
 
 ## 💙 News
 
-**[2025/05/30] [V10.2 Vision](https://github.com/Winn1y/Awesome-Human-Motion-Video-Generation/): Update Methods.**
+
+
+
+
+**[2025/06/03] [V10.3 Vision](https://github.com/Winn1y/Awesome-Human-Motion-Video-Generation/): Update Methods.**
+
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2505.24733) DreamDance: Animating Character Art via Inpainting Stable Gaussian Worlds (Visual, Pose-Guided Dance Video Generation)
+
+
+
+
+
+
+----
+
+
+
+
+
+
+
+[2025/05/30] [V10.2 Vision](https://github.com/Winn1y/Awesome-Human-Motion-Video-Generation/10.2): Update Methods.
 
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2505.22977) HyperMotion: DiT-Based Pose-Guided Human Image Animation of Complex Motions (Visual, Pose-Guided Dance Video Generation)
 
@@ -1266,10 +1287,6 @@ Find the Chinese version notes of the survey, welcome to pay attention.
 
 
 
-
-
-
-
 |   **Date**  	|                                              **Title**                                             	|                                        **arXiv Link**                                       	| **Motion  Representation** 	|   **Backbone**  	|   **Venue**  	|
 |:-----------:	|:--------------------------------------------------------------------------------------------------:	|:-------------------------------------------------------------------------------------------:	|:--------------------------:	|:---------------:	|:------------:	|
 |  2023 06 30 	|                                                DisCo                                               	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2307.00040) 	|          KeyPoint          	| Diffusion Model 	|   CVPR2024   	|
@@ -1313,7 +1330,9 @@ Find the Chinese version notes of the survey, welcome to pay attention.
 |  2025 05 28 	|                     LatentMove: Towards Complex Human Movement Video Generation                    	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2505.22046) 	|           Latent           	| Diffusion Model 	|     arxiv    	|
 |  2025 05 29 	|             HyperMotion: DiT-Based Pose-Guided Human Image Animation of Complex Motions            	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2505.22977) 	|           Latent           	| Diffusion Model 	|     arxiv    	|
 |  2025 05 29 	|                             How Animals Dance (When You're Not Looking)                            	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2505.23738) 	|           Latent           	| Diffusion Model 	|     arxiv    	|
+|  2025 05 30 	|              DreamDance: Animating Character Art via Inpainting Stable Gaussian Worlds             	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2505.24733) 	|           Latent           	| Diffusion Model 	|     arxiv    	|
 |  2024 07 16 	|      IDOL: Unified Dual-Modal Latent Diffusion for Human-Centric Joint Video-Depth Generation      	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2407.10937) 	|           Region           	| Diffusion Model 	|     arxiv    	|
+
 
 
 
