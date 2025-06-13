@@ -12,10 +12,10 @@
 <img src='https://img.shields.io/badge/TechRxiv-PDF-green?style=flat&logo=TechRxiv&logoColor=green' alt='TechRxiv PDF'>
 </a>
 <img src='https://img.shields.io/badge/Awesome Survey-8A2BE2' alt='Survey'>
-<img src='https://img.shields.io/badge/Related Work-335+ Papers and 64+ Datasets-blue' alt='MorePapers'>
+<img src='https://img.shields.io/badge/Related Work-337+ Papers and 64+ Datasets-blue' alt='MorePapers'>
 <br>
 <img src='https://img.shields.io/badge/Under Review-4BC88C' alt='under'>
-<img src='https://img.shields.io/badge/Update 🔥-2025.06.12-red' alt='MorePapers'>
+<img src='https://img.shields.io/badge/Update 🔥-2025.06.13-red' alt='MorePapers'>
 <a href='https://zhuanlan.zhihu.com/p/2672965087'>
 <img src='https://img.shields.io/badge/知乎-论文笔记-0084ff?style=flat&logo=zhihu&logoColor=yellow' alt='知乎文章'>
 </a>
@@ -164,7 +164,22 @@ We are excited to announce the upcoming launch of a new benchmark, including enh
 
 ## 💙 News
 
-**[2025/06/12] [V10.6 Vision](https://github.com/Winn1y/Awesome-Human-Motion-Video-Generation/): Update Methods.**
+
+
+**[2025/06/13] [V10.7 Vision](https://github.com/Winn1y/Awesome-Human-Motion-Video-Generation/): Update Methods.**
+
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2506.10468) Low-Barrier Dataset Collection with Real Human Body for Interactive Per-Garment Virtual Try-On (Visual, Try-On Video Generation)
+
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2506.10568) DreamActor-H1: High-Fidelity Human-Product Demonstration Video Generation via Motion-designed Diffusion Transformers (Visual, Pose2Video)
+
+
+
+
+
+
+----
+
+[2025/06/12] [V10.6 Vision](https://github.com/Winn1y/Awesome-Human-Motion-Video-Generation/tree/10.6): Update Methods.
 
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2506.09411) Synthetic Human Action Video Data Generation with Pose Transfer (Visual, Pose2Video)
 
@@ -1408,8 +1423,6 @@ Find the Chinese version notes of the survey, welcome to pay attention.
 
 
 
-
-
 |  **Date**  	|                                              **Title**                                              	|                                        **arXiv Link**                                       	| **Motion  Representation** 	|   **Backbone**  	|      **Venue**     	|
 |:----------:	|:---------------------------------------------------------------------------------------------------:	|:-------------------------------------------------------------------------------------------:	|:--------------------------:	|:---------------:	|:------------------:	|
 | 2024 04 26 	|     Tunnel Try-on: Excavating Spatial-temporal Tunnels for High-quality Virtual Try-on in Videos    	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2404.17571) 	|          KeyPoint          	| Diffusion Model 	|        arxiv       	|
@@ -1425,7 +1438,10 @@ Find the Chinese version notes of the survey, welcome to pay attention.
 | 2025 05 10 	|         ProFashion: Prototype-guided Fashion Video Generation with Multiple Reference Images        	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2505.06537) 	|           Latent           	| Diffusion Model 	|        arxiv       	|
 | 2025 05 27 	|       MagicTryOn: Harnessing Diffusion Transformer for Garment-Preserving Video Virtual Try-on      	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2505.21325) 	|           Latent           	| Diffusion Model 	|        arxiv       	|
 | 2025 06 06 	|          ChronoTailor: Harnessing Attention Guidance for Fine-Grained Video Virtual Try-On          	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2506.05858) 	|           Latent           	| Diffusion Model 	|        arxiv       	|
+| 2025 06 12 	|    Low-Barrier Dataset Collection with Real Human Body for Interactive Per-Garment Virtual Try-On   	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2506.10468) 	|           Latent           	| Diffusion Model 	|        arxiv       	|
 | 2024 07 16 	|       WildVidFit: Video Virtual Try-On in the Wild via Image-Based Controlled Diffusion Models      	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2407.10625) 	|          KeyPoint          	| Diffusion Model 	|        arxiv       	|
+
+
 
 
 
@@ -1470,10 +1486,10 @@ Find the Chinese version notes of the survey, welcome to pay attention.
 | 2025 03 21 	|            Re-HOLD: Video Hand Object Interaction Reenactment via adaptive Layout-instructed Diffusion Model           	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2503.16942) 	|          KeyPoint          	| Diffusion Model 	|   arxiv   	|
 | 2025 03 28 	|         Follow Your Motion: A Generic Temporal Consistency Portrait Editing Framework with Trajectory Guidance         	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2503.22225) 	|          KeyPoint          	| Encoder-Decoder 	|   arxiv   	|
 | 2025 05 26 	| AniCrafter: Customizing Realistic Human-Centric Animation via Avatar-Background Conditioning in Video Diffusion Models 	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2505.20255) 	|           Region           	| Diffusion Model 	|   arxiv   	|
+| 2025 06 12 	|  DreamActor-H1: High-Fidelity Human-Product Demonstration Video Generation via Motion-designed Diffusion Transformers  	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2506.10568) 	|           Region           	| Diffusion Model 	|   arxiv   	|
 | 2024 11 26 	|         AnchorCrafter: Animate CyberAnchors Saling Your Products via Human-Object Interacting Video Generation         	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2411.17383) 	|          KeyPoint          	| Diffusion Model 	|   arxiv   	|
 | 2024 10 29 	|                   MovieCharacter: A Tuning-Free Framework for Controllable Character Video Synthesis                   	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2410.20974) 	|           Region           	| Diffusion Model 	|   arxiv   	|
 | 2025 06 11 	|                             Synthetic Human Action Video Data Generation with Pose Transfer                            	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2506.09411) 	|          KeyPoint          	| Diffusion Model 	|   arxiv   	|
-
 
 
 
