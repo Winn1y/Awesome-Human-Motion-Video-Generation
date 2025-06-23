@@ -12,10 +12,10 @@
 <img src='https://img.shields.io/badge/TechRxiv-PDF-green?style=flat&logo=TechRxiv&logoColor=green' alt='TechRxiv PDF'>
 </a>
 <img src='https://img.shields.io/badge/Awesome Survey-8A2BE2' alt='Survey'>
-<img src='https://img.shields.io/badge/Related Work-340+ Papers and 64+ Datasets-blue' alt='MorePapers'>
+<img src='https://img.shields.io/badge/Related Work-342+ Papers and 64+ Datasets-blue' alt='MorePapers'>
 <br>
 <img src='https://img.shields.io/badge/Under Review-4BC88C' alt='under'>
-<img src='https://img.shields.io/badge/Update 🔥-2025.06.18-red' alt='MorePapers'>
+<img src='https://img.shields.io/badge/Update 🔥-2025.06.23-red' alt='MorePapers'>
 <a href='https://zhuanlan.zhihu.com/p/2672965087'>
 <img src='https://img.shields.io/badge/知乎-论文笔记-0084ff?style=flat&logo=zhihu&logoColor=yellow' alt='知乎文章'>
 </a>
@@ -165,7 +165,24 @@ We are excited to announce the upcoming launch of a new benchmark, including enh
 ## 💙 News
 
 
-**[2025/06/18] [V10.8 Vision](https://github.com/Winn1y/Awesome-Human-Motion-Video-Generation/): Update Methods.**
+**[2025/06/23] [V10.9 Vision](https://github.com/Winn1y/Awesome-Human-Motion-Video-Generation/): Update Methods.**
+
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2506.16852) Controllable and Expressive One-Shot Video Head Swapping (Visual, Portrait Animation)
+
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2506.15838) EchoShot: Multi-Shot Portrait Video Generation (Text, Text2MotionVideo)
+
+
+
+
+
+----
+
+
+
+
+
+
+[2025/06/18] [V10.8 Vision](https://github.com/Winn1y/Awesome-Human-Motion-Video-Generation/tree/10.8): Update Methods.
 
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2506.12680) 3D Hand Mesh-Guided AI-Generated Malformed Hand Refinement with Hand Pose Transformation via Diffusion Model (Visual, Pose-Guided Dance Video Generation)
 
@@ -1210,8 +1227,6 @@ Find the Chinese version notes of the survey, welcome to pay attention.
 
 
 
-
-
 |  **Date**  	|                                                **Title**                                                	|                                        **arXiv Link**                                       	| **Motion  Representation** 	|   **Backbone**  	|                  **Venue**                 	|
 |:----------:	|:-------------------------------------------------------------------------------------------------------:	|:-------------------------------------------------------------------------------------------:	|:--------------------------:	|:---------------:	|:------------------------------------------:	|
 | 2024 06 04 	|             Follow-Your-Emoji: Fine-Controllable and Expressive Freestyle Portrait Animation            	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2406.01900) 	|          KeyPoint          	| Diffusion Model 	|              SIGGRAPH ASIA2024             	|
@@ -1242,9 +1257,8 @@ Find the Chinese version notes of the survey, welcome to pay attention.
 | 2025 04 15 	|       InterAnimate: Taming Region-aware Diffusion Model for Realistic Human Interaction Animation       	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2504.10905) 	|           Latent           	| Diffusion Model 	|                    arxiv                   	|
 | 2025 04 27 	|  IM-Portrait: Learning 3D-aware Video Diffusion for Photorealistic Talking Heads from Monocular Videos  	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2504.19165) 	|           Latent           	| Diffusion Model 	|                    arxiv                   	|
 | 2025 04 30 	|             MagicPortrait: Temporally Consistent Face Reenactment with 3D Geometric Guidance            	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2504.21497) 	|           Latent           	| Diffusion Model 	|                    arxiv                   	|
+| 2025 06 20 	|                         Controllable and Expressive One-Shot Video Head Swapping                        	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2506.16852) 	|           Latent           	| Diffusion Model 	|                    arxiv                   	|
 | 2024 03 23 	|                              FaceOff: A Video-to-Video Face Swapping System                             	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2208.09788) 	|           Latent           	| Encoder-Decoder 	|                  WACV 2023                 	|
-
-
 
 
 
@@ -1599,8 +1613,6 @@ Find the Chinese version notes of the survey, welcome to pay attention.
 
 
 
-
-
 |   **Date**  	|                                                       **Title**                                                      	|                                        **arXiv Link**                                       	| **Motion  Representation** 	|   **Backbone**  	| **Venue** 	|
 |:-----------:	|:--------------------------------------------------------------------------------------------------------------------:	|:-------------------------------------------------------------------------------------------:	|:--------------------------:	|:---------------:	|:---------:	|
 |  2024 05 08 	|                                                   Edit-Your-Motion                                                   	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2405.04496) 	|          KeyPoint          	| Diffusion Model 	|   arXiv   	|
@@ -1633,8 +1645,8 @@ Find the Chinese version notes of the survey, welcome to pay attention.
 |  2024 08 15 	|                    DeCo: Decoupled Human-Centered Diffusion Video Editing with Motion Consistency                    	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2408.07481) 	|     3D Parameterization    	| Diffusion Model 	|   arXiv   	|
 |  2024 10 15 	|                            Tex4D: Zero-shot 4D Scene Texturing with Video Diffusion Models                           	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2410.10821) 	|           Latent           	| Diffusion Model 	|   arXiv   	|
 |  2025 03 31 	|                  HumanDreamer: Generating Controllable Human-Motion Videos via Decoupled Generation                  	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2503.24026) 	|          KeyPoint          	| Diffusion Model 	|   arxiv   	|
+|  2025 06 16 	|                                    EchoShot: Multi-Shot Portrait Video Generation                                    	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2506.15838) 	|          KeyPoint          	| Diffusion Model 	|   arxiv   	|
 |  2024 01 17 	|                  VideoCrafter2: Overcoming Data Limitations for High-Quality Video Diffusion Models                  	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2401.09047) 	|           Latent           	| Diffusion Model 	| CVPR 2024 	|
-
 
 
 
