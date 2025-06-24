@@ -12,10 +12,10 @@
 <img src='https://img.shields.io/badge/TechRxiv-PDF-green?style=flat&logo=TechRxiv&logoColor=green' alt='TechRxiv PDF'>
 </a>
 <img src='https://img.shields.io/badge/Awesome Survey-8A2BE2' alt='Survey'>
-<img src='https://img.shields.io/badge/Related Work-342+ Papers and 64+ Datasets-blue' alt='MorePapers'>
+<img src='https://img.shields.io/badge/Related Work-343+ Papers and 64+ Datasets-blue' alt='MorePapers'>
 <br>
 <img src='https://img.shields.io/badge/Under Review-4BC88C' alt='under'>
-<img src='https://img.shields.io/badge/Update 🔥-2025.06.23-red' alt='MorePapers'>
+<img src='https://img.shields.io/badge/Update 🔥-2025.06.24-red' alt='MorePapers'>
 <a href='https://zhuanlan.zhihu.com/p/2672965087'>
 <img src='https://img.shields.io/badge/知乎-论文笔记-0084ff?style=flat&logo=zhihu&logoColor=yellow' alt='知乎文章'>
 </a>
@@ -165,7 +165,20 @@ We are excited to announce the upcoming launch of a new benchmark, including enh
 ## 💙 News
 
 
-**[2025/06/23] [V10.9 Vision](https://github.com/Winn1y/Awesome-Human-Motion-Video-Generation/): Update Methods.**
+**[2025/06/24] [V11.0 Vision](https://github.com/Winn1y/Awesome-Human-Motion-Video-Generation/): Update Methods.**
+
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2506.18866) OmniAvatar: Efficient Audio-Driven Avatar Video Generation with Adaptive Body Animation (Audio, Audio-Driven Holistic Body Driving)
+
+
+
+
+
+
+----
+
+
+
+[2025/06/23] [V10.9 Vision](https://github.com/Winn1y/Awesome-Human-Motion-Video-Generation/): Update Methods.
 
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2506.16852) Controllable and Expressive One-Shot Video Head Swapping (Visual, Portrait Animation)
 
@@ -1866,10 +1879,6 @@ Find the Chinese version notes of the survey, welcome to pay attention.
 
 
 
-
-
-
-
 |  **Date**  	|                                                        **Title**                                                        	|                                        **arXiv Link**                                       	| **Motion  Representation** 	|   **Backbone**  	|   **Venue**  	|
 |:----------:	|:-----------------------------------------------------------------------------------------------------------------------:	|:-------------------------------------------------------------------------------------------:	|:--------------------------:	|:---------------:	|:------------:	|
 | 2024 03 13 	|                                                         VLOGGER                                                         	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2403.08764) 	|     3D Parameterization    	| Diffusion Model 	|     arXiv    	|
@@ -1894,6 +1903,7 @@ Find the Chinese version notes of the survey, welcome to pay attention.
 | 2025 05 29 	|                    MMGT: Motion Mask Guided Two-Stage Network for Co-Speech Gesture Video Generation                    	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2505.23120) 	|           Latent           	| Diffusion Model 	|     arxiv    	|
 | 2025 06 11 	|                    InterActHuman: Multi-Concept Human Animation with Layout-Aligned Audio Conditions                    	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2506.09984) 	|           Latent           	| Diffusion Model 	|     arxiv    	|
 | 2025 06 11 	| AlignHuman: Improving Motion and Fidelity via Timestep-Segment Preference Optimization for Audio-Driven Human Animation 	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2506.11144) 	|           Latent           	| Diffusion Model 	|     arxiv    	|
+| 2025 06 23 	|                 OmniAvatar: Efficient Audio-Driven Avatar Video Generation with Adaptive Body Animation                 	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2506.18866) 	|           Latent           	| Diffusion Model 	|     arxiv    	|
 | 2024 05 15 	|                          Dance Any Beat: Blending Beats with Visuals in Dance Video Generation                          	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2405.09266) 	|           Region           	| Diffusion Model 	|     arXiv    	|
 | 2025 02 24 	|                                X-Dancer: Expressive Music to Human Dance Video Generation                               	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2502.17414) 	|          KeyPoint          	| Diffusion Model 	|     arXiv    	|
 | 2025 03 18 	|                                  MusicInfuser: Making Video Diffusion Listen and Dance                                  	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2503.14505) 	|           Latent           	| Diffusion Model 	|     arXiv    	|
