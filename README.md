@@ -12,10 +12,10 @@
 <img src='https://img.shields.io/badge/TechRxiv-PDF-green?style=flat&logo=TechRxiv&logoColor=green' alt='TechRxiv PDF'>
 </a>
 <img src='https://img.shields.io/badge/Awesome Survey-8A2BE2' alt='Survey'>
-<img src='https://img.shields.io/badge/Related Work-359+ Papers and 64+ Datasets-blue' alt='MorePapers'>
+<img src='https://img.shields.io/badge/Related Work-360+ Papers and 64+ Datasets-blue' alt='MorePapers'>
 <br>
 <img src='https://img.shields.io/badge/Under Review-4BC88C' alt='under'>
-<img src='https://img.shields.io/badge/Update 🔥-2025.07.10-red' alt='MorePapers'>
+<img src='https://img.shields.io/badge/Update 🔥-2025.07.12-red' alt='MorePapers'>
 <a href='https://zhuanlan.zhihu.com/p/2672965087'>
 <img src='https://img.shields.io/badge/知乎-论文笔记-0084ff?style=flat&logo=zhihu&logoColor=yellow' alt='知乎文章'>
 </a>
@@ -164,7 +164,15 @@ We are excited to announce the upcoming launch of a new benchmark, including enh
 
 ## 💙 News
 
-**[2025/07/10] [V11.5 Vision](https://github.com/Winn1y/Awesome-Human-Motion-Video-Generation/): Update Methods.**
+**[2025/07/12] [V11.6 Vision](https://github.com/Winn1y/Awesome-Human-Motion-Video-Generation/): Update Methods.**
+
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2507.07591) Stable-Hair v2: Real-World Hair Transfer via Multiple-View Diffusion Model (Visual, Portrait Animation)
+
+
+
+----
+
+[2025/07/10] [V11.5 Vision](https://github.com/Winn1y/Awesome-Human-Motion-Video-Generation/tree/11.5): Update Methods.
 
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2507.06812) Democratizing High-Fidelity Co-Speech Gesture Video Generation (Audio, Audio-Driven Holistic Body Driving)
 
@@ -1314,6 +1322,7 @@ Find the Chinese version notes of the survey, welcome to pay attention.
 
 
 
+
 |  **Date**  	|                                                **Title**                                                	|                                        **arXiv Link**                                       	| **Motion  Representation** 	|   **Backbone**  	|                  **Venue**                 	|
 |:----------:	|:-------------------------------------------------------------------------------------------------------:	|:-------------------------------------------------------------------------------------------:	|:--------------------------:	|:---------------:	|:------------------------------------------:	|
 | 2024 06 04 	|             Follow-Your-Emoji: Fine-Controllable and Expressive Freestyle Portrait Animation            	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2406.01900) 	|          KeyPoint          	| Diffusion Model 	|              SIGGRAPH ASIA2024             	|
@@ -1346,7 +1355,9 @@ Find the Chinese version notes of the survey, welcome to pay attention.
 | 2025 04 30 	|             MagicPortrait: Temporally Consistent Face Reenactment with 3D Geometric Guidance            	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2504.21497) 	|           Latent           	| Diffusion Model 	|                    arxiv                   	|
 | 2025 06 20 	|                         Controllable and Expressive One-Shot Video Head Swapping                        	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2506.16852) 	|           Latent           	| Diffusion Model 	|                    arxiv                   	|
 | 2025 07 03 	|        CanonSwap: High-Fidelity and Consistent Video Face Swapping via Canonical Space Modulation       	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2507.02691) 	|           Latent           	| Diffusion Model 	|                    arxiv                   	|
+| 2025 07 10 	|                Stable-Hair v2: Real-World Hair Transfer via Multiple-View Diffusion Model               	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2507.07591) 	|           Latent           	| Diffusion Model 	|                    arxiv                   	|
 | 2024 03 23 	|                              FaceOff: A Video-to-Video Face Swapping System                             	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2208.09788) 	|           Latent           	| Encoder-Decoder 	|                  WACV 2023                 	|
+
 
 
 
