@@ -12,10 +12,10 @@
 <img src='https://img.shields.io/badge/TechRxiv-PDF-green?style=flat&logo=TechRxiv&logoColor=green' alt='TechRxiv PDF'>
 </a>
 <img src='https://img.shields.io/badge/Awesome Survey-8A2BE2' alt='Survey'>
-<img src='https://img.shields.io/badge/Related Work-365+ Papers and 64+ Datasets-blue' alt='MorePapers'>
+<img src='https://img.shields.io/badge/Related Work-366+ Papers and 64+ Datasets-blue' alt='MorePapers'>
 <br>
 <img src='https://img.shields.io/badge/Under Review-4BC88C' alt='under'>
-<img src='https://img.shields.io/badge/Update 🔥-2025.07.20-red' alt='MorePapers'>
+<img src='https://img.shields.io/badge/Update 🔥-2025.07.22-red' alt='MorePapers'>
 <a href='https://zhuanlan.zhihu.com/p/2672965087'>
 <img src='https://img.shields.io/badge/知乎-论文笔记-0084ff?style=flat&logo=zhihu&logoColor=yellow' alt='知乎文章'>
 </a>
@@ -164,7 +164,14 @@ We are excited to announce the upcoming launch of a new benchmark, including enh
 
 ## 💙 News
 
-**[2025/07/20] [V11.7 Vision](https://github.com/Winn1y/Awesome-Human-Motion-Video-Generation/): Update Methods.**
+**[2025/07/22] [V11.8 Vision](https://github.com/Winn1y/Awesome-Human-Motion-Video-Generation/tree/11.7): Update Methods.**
+
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2507.15064) StableAnimator++: Overcoming Pose Misalignment and Face Distortion for Human Image Animation (Visual, Pose-Guided Dance Video Generation)
+
+
+----
+
+[2025/07/20] [V11.7 Vision](https://github.com/Winn1y/Awesome-Human-Motion-Video-Generation/tree/11.7): Update Methods.
 
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2507.12956) FantasyPortrait: Enhancing Multi-Character Portrait Animation with Expression-Augmented Diffusion Transformers (Text, Text2Face)
 
@@ -1524,6 +1531,7 @@ Find the Chinese version notes of the survey, welcome to pay attention.
 |  2025 05 30 	|                   DreamDance: Animating Character Art via Inpainting Stable Gaussian Worlds                  	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2505.24733) 	|           Latent           	| Diffusion Model 	|     arxiv    	|
 |  2025 06 02 	|               OmniV2V: Versatile Video Generation and Editing via Dynamic Content Manipulation               	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2506.01801) 	|           Latent           	| Diffusion Model 	|     arxiv    	|
 |  2025 06 15 	| 3D Hand Mesh-Guided AI-Generated Malformed Hand Refinement with Hand Pose Transformation via Diffusion Model 	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2506.12680) 	|           Region           	| Diffusion Model 	|     arxiv    	|
+|  2025 07 20 	|         StableAnimator++: Overcoming Pose Misalignment and Face Distortion for Human Image Animation         	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2507.15064) 	|          KeyPoint          	| Diffusion Model 	|     arxiv    	|
 |  2024 07 16 	|           IDOL: Unified Dual-Modal Latent Diffusion for Human-Centric Joint Video-Depth Generation           	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2407.10937) 	|           Region           	| Diffusion Model 	|     arxiv    	|
 
 
