@@ -12,10 +12,10 @@
 <img src='https://img.shields.io/badge/TechRxiv-PDF-green?style=flat&logo=TechRxiv&logoColor=green' alt='TechRxiv PDF'>
 </a>
 <img src='https://img.shields.io/badge/Awesome Survey-8A2BE2' alt='Survey'>
-<img src='https://img.shields.io/badge/Related Work-366+ Papers and 64+ Datasets-blue' alt='MorePapers'>
+<img src='https://img.shields.io/badge/Related Work-368+ Papers and 64+ Datasets-blue' alt='MorePapers'>
 <br>
 <img src='https://img.shields.io/badge/Under Review-4BC88C' alt='under'>
-<img src='https://img.shields.io/badge/Update 🔥-2025.07.22-red' alt='MorePapers'>
+<img src='https://img.shields.io/badge/Update 🔥-2025.07.23-red' alt='MorePapers'>
 <a href='https://zhuanlan.zhihu.com/p/2672965087'>
 <img src='https://img.shields.io/badge/知乎-论文笔记-0084ff?style=flat&logo=zhihu&logoColor=yellow' alt='知乎文章'>
 </a>
@@ -164,7 +164,18 @@ We are excited to announce the upcoming launch of a new benchmark, including enh
 
 ## 💙 News
 
-**[2025/07/22] [V11.8 Vision](https://github.com/Winn1y/Awesome-Human-Motion-Video-Generation/tree/11.7): Update Methods.**
+
+**[2025/07/23] [V11.9 Vision](https://github.com/Winn1y/Awesome-Human-Motion-Video-Generation/): Update Methods.**
+
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2507.16813) HOComp: Interaction-Aware Human-Object Composition (Visual, Pose2Video)
+
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2507.16341) Navigating Large-Pose Challenge for High-Fidelity Face Reenactment with Video Diffusion Model (Visual, Portrait Animation)
+
+
+----
+
+
+[2025/07/22] [V11.8 Vision](https://github.com/Winn1y/Awesome-Human-Motion-Video-Generation/tree/11.8): Update Methods.
 
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2507.15064) StableAnimator++: Overcoming Pose Misalignment and Face Distortion for Human Image Animation (Visual, Pose-Guided Dance Video Generation)
 
@@ -1345,9 +1356,6 @@ Find the Chinese version notes of the survey, welcome to pay attention.
 
 
 
-
-
-
 |  **Date**  	|                                                **Title**                                                	|                                        **arXiv Link**                                       	| **Motion  Representation** 	|   **Backbone**  	|                  **Venue**                 	|
 |:----------:	|:-------------------------------------------------------------------------------------------------------:	|:-------------------------------------------------------------------------------------------:	|:--------------------------:	|:---------------:	|:------------------------------------------:	|
 | 2024 06 04 	|             Follow-Your-Emoji: Fine-Controllable and Expressive Freestyle Portrait Animation            	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2406.01900) 	|          KeyPoint          	| Diffusion Model 	|              SIGGRAPH ASIA2024             	|
@@ -1382,7 +1390,10 @@ Find the Chinese version notes of the survey, welcome to pay attention.
 | 2025 07 03 	|        CanonSwap: High-Fidelity and Consistent Video Face Swapping via Canonical Space Modulation       	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2507.02691) 	|           Latent           	| Diffusion Model 	|                    arxiv                   	|
 | 2025 07 10 	|                Stable-Hair v2: Real-World Hair Transfer via Multiple-View Diffusion Model               	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2507.07591) 	|           Latent           	| Diffusion Model 	|                    arxiv                   	|
 | 2025 07 17 	|        HairShifter: Consistent and High-Fidelity Video Hair Transfer via Anchor-Guided Animation        	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2507.12758) 	|           Latent           	| Diffusion Model 	|                    arxiv                   	|
+| 2025 07 22 	|      Navigating Large-Pose Challenge for High-Fidelity Face Reenactment with Video Diffusion Model      	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2507.16341) 	|           Latent           	| Diffusion Model 	|                    arxiv                   	|
 | 2024 03 23 	|                              FaceOff: A Video-to-Video Face Swapping System                             	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2208.09788) 	|           Latent           	| Encoder-Decoder 	|                  WACV 2023                 	|
+
+
 
 
 
@@ -1619,8 +1630,6 @@ Find the Chinese version notes of the survey, welcome to pay attention.
 
 
 
-
-
 |  **Date**  	|                                                        **Title**                                                       	|                                        **arXiv Link**                                       	| **Motion  Representation** 	|   **Backbone**  	| **Venue** 	|
 |:----------:	|:----------------------------------------------------------------------------------------------------------------------:	|:-------------------------------------------------------------------------------------------:	|:--------------------------:	|:---------------:	|:---------:	|
 | 2023 04 12 	|                                                        DreamPose                                                       	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2304.06025) 	|           Region           	| Diffusion Model 	| ICCV 2023 	|
@@ -1634,6 +1643,7 @@ Find the Chinese version notes of the survey, welcome to pay attention.
 | 2025 05 26 	| AniCrafter: Customizing Realistic Human-Centric Animation via Avatar-Background Conditioning in Video Diffusion Models 	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2505.20255) 	|           Region           	| Diffusion Model 	|   arxiv   	|
 | 2025 06 12 	|  DreamActor-H1: High-Fidelity Human-Product Demonstration Video Generation via Motion-designed Diffusion Transformers  	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2506.10568) 	|           Region           	| Diffusion Model 	|   arxiv   	|
 | 2025 07 01 	|                                Populate-A-Scene: Affordance-Aware Human Video Generation                               	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2507.00334) 	|           Region           	| Diffusion Model 	|   arxiv   	|
+| 2025 07 22 	|                                   HOComp: Interaction-Aware Human-Object Composition                                   	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2507.16813) 	|           Region           	| Diffusion Model 	|   arxiv   	|
 | 2024 11 26 	|         AnchorCrafter: Animate CyberAnchors Saling Your Products via Human-Object Interacting Video Generation         	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2411.17383) 	|          KeyPoint          	| Diffusion Model 	|   arxiv   	|
 | 2024 10 29 	|                   MovieCharacter: A Tuning-Free Framework for Controllable Character Video Synthesis                   	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2410.20974) 	|           Region           	| Diffusion Model 	|   arxiv   	|
 | 2025 06 11 	|                             Synthetic Human Action Video Data Generation with Pose Transfer                            	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2506.09411) 	|          KeyPoint          	| Diffusion Model 	|   arxiv   	|
