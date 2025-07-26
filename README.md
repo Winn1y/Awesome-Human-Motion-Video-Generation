@@ -14,7 +14,7 @@
 <img src='https://img.shields.io/badge/Awesome Survey-8A2BE2' alt='Survey'>
 <img src='https://img.shields.io/badge/Related Work-369+ Papers and 64+ Datasets-blue' alt='MorePapers'>
 <br>
-<img src='https://img.shields.io/badge/Under Review-4BC88C' alt='under'>
+<img src='https://img.shields.io/badge/Accepted by TPAMI-4BC88C' alt='under'>
 <img src='https://img.shields.io/badge/Update 🔥-2025.07.24-red' alt='MorePapers'>
 <a href='https://zhuanlan.zhihu.com/p/2672965087'>
 <img src='https://img.shields.io/badge/知乎-论文笔记-0084ff?style=flat&logo=zhihu&logoColor=yellow' alt='知乎文章'>
@@ -165,9 +165,32 @@ We are excited to announce the upcoming launch of a new benchmark, including enh
 ## 💙 News
 
 
+**[2025/07/26] IMPORTANT NEWS**
+
+Our paper has been accepted by TPAMI.🎉🎉🎉🎉🎉 Stay tuned for our updates! Here we share the timeline:
+
+🏁 May 30, 2024: Project launch
+
+🏁 June 24, 2024: First draft completed
+
+🏁 August 30, 2024: Final draft completed
+
+🏁 September 1, 2024: Submission
+
+🏁 December 12, 2024: First-round review comments returned
+
+🏁 January 10, 2025: First-round rebuttal submitted
+
+🏁 April 9, 2025: Second-round review comments returned
+
+🏁 May 5, 2025: Second-round rebuttal submitted
+
+🏁 July 26, 2025: Acceptance email received
 
 
-**[2025/07/24] [V12.0 Vision](https://github.com/Winn1y/Awesome-Human-Motion-Video-Generation/): Update Methods.**
+----
+
+[2025/07/24] [V12.0 Vision](https://github.com/Winn1y/Awesome-Human-Motion-Video-Generation/): Update Methods.
 
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2507.17327) CartoonAlive: Towards Expressive Live2D Modeling from Single Portraits (Visual, Portrait Animation)
 
