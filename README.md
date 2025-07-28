@@ -12,10 +12,10 @@
 <img src='https://img.shields.io/badge/TechRxiv-PDF-green?style=flat&logo=TechRxiv&logoColor=green' alt='TechRxiv PDF'>
 </a>
 <img src='https://img.shields.io/badge/Awesome Survey-8A2BE2' alt='Survey'>
-<img src='https://img.shields.io/badge/Related Work-369+ Papers and 64+ Datasets-blue' alt='MorePapers'>
+<img src='https://img.shields.io/badge/Related Work-371+ Papers and 64+ Datasets-blue' alt='MorePapers'>
 <br>
 <img src='https://img.shields.io/badge/Accepted by TPAMI-4BC88C' alt='under'>
-<img src='https://img.shields.io/badge/Update 🔥-2025.07.24-red' alt='MorePapers'>
+<img src='https://img.shields.io/badge/Update 🔥-2025.07.28-red' alt='MorePapers'>
 <a href='https://zhuanlan.zhihu.com/p/2672965087'>
 <img src='https://img.shields.io/badge/知乎-论文笔记-0084ff?style=flat&logo=zhihu&logoColor=yellow' alt='知乎文章'>
 </a>
@@ -165,7 +165,7 @@ We are excited to announce the upcoming launch of a new benchmark, including enh
 ## 💙 News
 
 
-**[2025/07/26] IMPORTANT NEWS**
+**[2025/07/26][TOP] IMPORTANT NEWS**
 
 Our paper has been accepted by TPAMI.🎉🎉🎉🎉🎉 Stay tuned for our updates! Here we share the timeline:
 
@@ -190,7 +190,19 @@ Our paper has been accepted by TPAMI.🎉🎉🎉🎉🎉 Stay tuned for our upd
 
 ----
 
-[2025/07/24] [V12.0 Vision](https://github.com/Winn1y/Awesome-Human-Motion-Video-Generation/): Update Methods.
+
+[2025/07/28] [V12.1 Vision](https://github.com/Winn1y/Awesome-Human-Motion-Video-Generation/): Update Methods.
+
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2507.18649) Livatar-1: Real-Time Talking Heads Generation with Tailored Flow Matching (Audio, Head Pose Driving)
+
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2507.19225) Face2VoiceSync: Lightweight Face-Voice Consistency for Text-Driven Talking Face Generation (Audio, Head Pose Driving)
+
+
+
+----
+
+
+[2025/07/24] [V12.0 Vision](https://github.com/Winn1y/Awesome-Human-Motion-Video-Generation/tree/12.0): Update Methods.
 
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2507.17327) CartoonAlive: Towards Expressive Live2D Modeling from Single Portraits (Visual, Portrait Animation)
 
