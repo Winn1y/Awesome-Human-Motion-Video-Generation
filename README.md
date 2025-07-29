@@ -12,10 +12,10 @@
 <img src='https://img.shields.io/badge/TechRxiv-PDF-green?style=flat&logo=TechRxiv&logoColor=green' alt='TechRxiv PDF'>
 </a>
 <img src='https://img.shields.io/badge/Awesome Survey-8A2BE2' alt='Survey'>
-<img src='https://img.shields.io/badge/Related Work-371+ Papers and 64+ Datasets-blue' alt='MorePapers'>
+<img src='https://img.shields.io/badge/Related Work-373+ Papers and 64+ Datasets-blue' alt='MorePapers'>
 <br>
 <img src='https://img.shields.io/badge/Accepted by TPAMI-4BC88C' alt='under'>
-<img src='https://img.shields.io/badge/Update 🔥-2025.07.28-red' alt='MorePapers'>
+<img src='https://img.shields.io/badge/Update 🔥-2025.07.29-red' alt='MorePapers'>
 <a href='https://zhuanlan.zhihu.com/p/2672965087'>
 <img src='https://img.shields.io/badge/知乎-论文笔记-0084ff?style=flat&logo=zhihu&logoColor=yellow' alt='知乎文章'>
 </a>
@@ -190,8 +190,18 @@ Our paper has been accepted by TPAMI.🎉🎉🎉🎉🎉 Stay tuned for our upd
 
 ----
 
+**[2025/07/29] [V12.2 Vision](https://github.com/Winn1y/Awesome-Human-Motion-Video-Generation/): Update Methods.**
 
-[2025/07/28] [V12.1 Vision](https://github.com/Winn1y/Awesome-Human-Motion-Video-Generation/): Update Methods.
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2507.20953) Mask-Free Audio-driven Talking Face Generation for Enhanced Visual Quality and Identity Preservation (Audio, Head Pose Driving)
+
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2507.19836) ChoreoMuse: Robust Music-to-Dance Video Generation with Style Transfer and Beat-Adherent Motion (Audio, Audio-Driven Holistic Body Driving)
+
+
+
+----
+
+
+[2025/07/28] [V12.1 Vision](https://github.com/Winn1y/Awesome-Human-Motion-Video-Generation/tree/12.1): Update Methods.
 
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2507.18649) Livatar-1: Real-Time Talking Heads Generation with Tailored Flow Matching (Audio, Head Pose Driving)
 
@@ -211,6 +221,7 @@ Our paper has been accepted by TPAMI.🎉🎉🎉🎉🎉 Stay tuned for our upd
 ----
 
 
+<details><summary> Historical Update. </summary>
 
 
 [2025/07/23] [V11.9 Vision](https://github.com/Winn1y/Awesome-Human-Motion-Video-Generation/tree/11.9): Update Methods.
@@ -1389,6 +1400,8 @@ Find the Chinese version notes of the survey, welcome to pay attention.
 [2024/08/26] [V1.1 Vision](https://github.com/Winn1y/Awesome-Human-Motion-Video-Generation/tree/f804350c23fa9e3d8f77334fd0e33e193d2ea351): Update Methods.
 
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2408.13049)  G3FA (Vision, Portrait Animation)
+
+</details>
 
 ----
 
