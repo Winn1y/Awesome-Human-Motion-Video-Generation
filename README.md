@@ -12,10 +12,10 @@
 <img src='https://img.shields.io/badge/TechRxiv-PDF-green?style=flat&logo=TechRxiv&logoColor=green' alt='TechRxiv PDF'>
 </a>
 <img src='https://img.shields.io/badge/Awesome Survey-8A2BE2' alt='Survey'>
-<img src='https://img.shields.io/badge/Related Work-373+ Papers and 64+ Datasets-blue' alt='MorePapers'>
+<img src='https://img.shields.io/badge/Related Work-374+ Papers and 64+ Datasets-blue' alt='MorePapers'>
 <br>
 <img src='https://img.shields.io/badge/Accepted by TPAMI-4BC88C' alt='under'>
-<img src='https://img.shields.io/badge/Update 🔥-2025.07.29-red' alt='MorePapers'>
+<img src='https://img.shields.io/badge/Update 🔥-2025.08.01-red' alt='MorePapers'>
 <a href='https://zhuanlan.zhihu.com/p/2672965087'>
 <img src='https://img.shields.io/badge/知乎-论文笔记-0084ff?style=flat&logo=zhihu&logoColor=yellow' alt='知乎文章'>
 </a>
@@ -190,7 +190,18 @@ Our paper has been accepted by TPAMI.🎉🎉🎉🎉🎉 Stay tuned for our upd
 
 ----
 
-**[2025/07/29] [V12.2 Vision](https://github.com/Winn1y/Awesome-Human-Motion-Video-Generation/): Update Methods.**
+
+
+**[2025/08/01] [V12.3 Vision](https://github.com/Winn1y/Awesome-Human-Motion-Video-Generation/): Update Methods.**
+
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2507.23143) X-NeMo: Expressive Neural Motion Reenactment via Disentangled Latent Attention (Visual, Portrait Animation)
+
+
+
+
+----
+
+[2025/07/29] [V12.2 Vision](https://github.com/Winn1y/Awesome-Human-Motion-Video-Generation/tree/12.2): Update Methods.
 
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2507.20953) Mask-Free Audio-driven Talking Face Generation for Enhanced Visual Quality and Identity Preservation (Audio, Head Pose Driving)
 
@@ -1249,12 +1260,11 @@ Find the Chinese version notes of the survey, welcome to pay attention.
 
 ```text
 @article{xue2024human,
-  title={Human Motion Video Generation: A survey},
-  author={Xue, Haiwei and Luo, Xiangyang and Hu, Zhanghao and Zhang, Xin and Xiang, Xunzhi and Dai, Yuqin and Liu, Jianzhuang and Zhang, Zhensong and Li, Minglei and Yang, Jian and others},
-  journal={Authorea Preprints},
-  year={2024},
-  publisher={Authorea}
-  doi={10.36227/techrxiv.172793202.22697340/v1}
+  title={Human Motion Video Generation: A Survey}, 
+  author={Xue, Haiwei and Luo, Xiangyang and Hu, Zhanghao and Zhang, Xin and Xiang, Xunzhi and Dai, Yuqin and Liu, Jianzhuang and Zhang, Zhensong and Li, Minglei and Yang, Jian and Ma, Fei and Wu, Zhiyong and Yang, Changpeng and Dai, Zonghong and Yu, Fei Richard},
+  journal={IEEE Transactions on Pattern Analysis and Machine Intelligence}, 
+  year={2025},
+  doi={10.1109/TPAMI.2025.3594034}
 }
 ```
 
@@ -1413,7 +1423,7 @@ Find the Chinese version notes of the survey, welcome to pay attention.
 
 ## Vision Guidance
 
-<details open><summary>Part (Face) || Portrait Animation</summary>
+<details><summary>Part (Face) || Portrait Animation</summary>
 
 
 |  **Date**  	|                                                **Title**                                                	|                                        **arXiv Link**                                       	| **Motion  Representation** 	|   **Backbone**  	|                  **Venue**                 	|
@@ -1732,7 +1742,7 @@ Find the Chinese version notes of the survey, welcome to pay attention.
 
 ## Text Guidance
 
-<details open><summary>Part (Face) || Text2Face</summary>
+<details><summary>Part (Face) || Text2Face</summary>
 
 
 
@@ -1871,7 +1881,7 @@ Find the Chinese version notes of the survey, welcome to pay attention.
 
 ## Audio Guidance
 
-<details open><summary>Part (Face) || Lip Synchronization</summary>
+<details><summary>Part (Face) || Lip Synchronization</summary>
 
 
 
@@ -1921,7 +1931,7 @@ Find the Chinese version notes of the survey, welcome to pay attention.
 
 
 
-<details open><summary>Part (Face) || Head Pose Driving</summary>
+<details><summary>Part (Face) || Head Pose Driving</summary>
 
 
 
@@ -2180,7 +2190,7 @@ Find the Chinese version notes of the survey, welcome to pay attention.
 
 ## LLM for Motion Planning
 
-<details open><summary>LLM for 2D</summary>
+<details><summary>LLM for 2D</summary>
 
 
 |  **Date**  	|                                         **Title**                                         	|                                        **arXiv Link**                                       	| **Motion  Representation** 	|   **Backbone**  	|  **Tasks**  	| **Venue** 	|
@@ -2223,12 +2233,11 @@ If you find our survey and repository useful for your research project, please c
 
 ```bibtex
 @article{xue2024human,
-  title={Human Motion Video Generation: A survey},
-  author={Xue, Haiwei and Luo, Xiangyang and Hu, Zhanghao and Zhang, Xin and Xiang, Xunzhi and Dai, Yuqin and Liu, Jianzhuang and Zhang, Zhensong and Li, Minglei and Yang, Jian and others},
-  journal={Authorea Preprints},
-  year={2024},
-  publisher={Authorea}
-  doi={10.36227/techrxiv.172793202.22697340/v1}
+  title={Human Motion Video Generation: A Survey}, 
+  author={Xue, Haiwei and Luo, Xiangyang and Hu, Zhanghao and Zhang, Xin and Xiang, Xunzhi and Dai, Yuqin and Liu, Jianzhuang and Zhang, Zhensong and Li, Minglei and Yang, Jian and Ma, Fei and Wu, Zhiyong and Yang, Changpeng and Dai, Zonghong and Yu, Fei Richard},
+  journal={IEEE Transactions on Pattern Analysis and Machine Intelligence}, 
+  year={2025},
+  doi={10.1109/TPAMI.2025.3594034}
 }
 ```
 
