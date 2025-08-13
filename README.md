@@ -12,10 +12,10 @@
 <img src='https://img.shields.io/badge/TechRxiv-PDF-green?style=flat&logo=TechRxiv&logoColor=green' alt='TechRxiv PDF'>
 </a>
 <img src='https://img.shields.io/badge/Awesome Survey-8A2BE2' alt='Survey'>
-<img src='https://img.shields.io/badge/Related Work-381+ Papers and 64+ Datasets-blue' alt='MorePapers'>
+<img src='https://img.shields.io/badge/Related Work-388+ Papers and 64+ Datasets-blue' alt='MorePapers'>
 <br>
 <img src='https://img.shields.io/badge/Accepted by TPAMI-4BC88C' alt='under'>
-<img src='https://img.shields.io/badge/Update 🔥-2025.08.08-red' alt='MorePapers'>
+<img src='https://img.shields.io/badge/Update 🔥-2025.08.13-red' alt='MorePapers'>
 <a href='https://zhuanlan.zhihu.com/p/2672965087'>
 <img src='https://img.shields.io/badge/知乎-论文笔记-0084ff?style=flat&logo=zhihu&logoColor=yellow' alt='知乎文章'>
 </a>
@@ -191,8 +191,27 @@ Our paper has been accepted by TPAMI.🎉🎉🎉🎉🎉 Stay tuned for our upd
 
 
 
+**[2025/08/13] [V12.8 Vision](https://github.com/Winn1y/Awesome-Human-Motion-Video-Generation/): Update Methods.**
 
-**[2025/08/08] [V12.7 Vision](https://github.com/Winn1y/Awesome-Human-Motion-Video-Generation/): Update Methods.**
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2508.07597) ShoulderShot: Generating Over-the-Shoulder Dialogue Videos (Text, Text2MotionVideo)
+
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2508.07901) Stand-In: A Lightweight and Plug-and-Play Identity Control for Video Generation (Text, Text2MotionVideo)
+
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2508.07603) LaVieID: Local Autoregressive Diffusion Transformers for Identity-Preserving Video Creation (Text, Text2MotionVideo)
+
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2508.06511) DiTalker: A Unified DiT-based Framework for High-Quality and Speaking Styles Controllable Portrait Animation (Audio, Head Pose Driving)
+
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2508.08248) StableAvatar: Infinite-Length Audio-Driven Avatar Video Generation (Audio, Head Pose Driving)
+
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2508.05982) AnimateScene: Camera-controllable Animation in Any Scene (Visual, Pose2Video)
+
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2508.08588) RealisMotion: Decomposed Human Motion Control and Video Generation in the World Space (Visual, Pose2Video)
+
+
+----
+
+
+[2025/08/08] [V12.7 Vision](https://github.com/Winn1y/Awesome-Human-Motion-Video-Generation/tree/12.7): Update Methods.
 
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2508.05115) RAP: Real-time Audio-driven Portrait Animation with Video Diffusion Transformer (Audio, Head Pose Driving)
 
@@ -207,7 +226,7 @@ Our paper has been accepted by TPAMI.🎉🎉🎉🎉🎉 Stay tuned for our upd
 
 ----
 
-**[2025/08/06] [V12.5 Vision](https://github.com/Winn1y/Awesome-Human-Motion-Video-Generation/tree/12.5): Update Methods.**
+[2025/08/06] [V12.5 Vision](https://github.com/Winn1y/Awesome-Human-Motion-Video-Generation/tree/12.5): Update Methods.
 
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2508.03457) READ: Real-time and Efficient Asynchronous Diffusion for Audio-driven Talking Head Generation (Audio, Head Pose Driving)
 
