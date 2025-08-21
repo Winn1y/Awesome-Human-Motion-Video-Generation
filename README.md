@@ -15,7 +15,7 @@
 <img src='https://img.shields.io/badge/Related Work-399+ Papers and 64+ Datasets-blue' alt='MorePapers'>
 <br>
 <img src='https://img.shields.io/badge/Accepted by TPAMI-4BC88C' alt='under'>
-<img src='https://img.shields.io/badge/Update 🔥-2025.08.20-red' alt='MorePapers'>
+<img src='https://img.shields.io/badge/Update 🔥-2025.08.21-red' alt='MorePapers'>
 <a href='https://zhuanlan.zhihu.com/p/2672965087'>
 <img src='https://img.shields.io/badge/知乎-论文笔记-0084ff?style=flat&logo=zhihu&logoColor=yellow' alt='知乎文章'>
 </a>
@@ -190,7 +190,17 @@ Our paper has been accepted by TPAMI.🎉🎉🎉🎉🎉 Stay tuned for our upd
 ----
 
 
-**[2025/08/20] [V13.3 Vision](https://github.com/Winn1y/Awesome-Human-Motion-Video-Generation/): Update Methods.**
+
+
+**[2025/08/21] [V13.4 Vision](https://github.com/Winn1y/Awesome-Human-Motion-Video-Generation/): Update Methods.**
+
+
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2508.14359) Taming Transformer for Emotion-Controllable Talking Face Generation (Audio, Head Pose Driving)
+
+
+----
+
+[2025/08/20] [V13.3 Vision](https://github.com/Winn1y/Awesome-Human-Motion-Video-Generation/tree/13.3): Update Methods.
 
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2508.14033) InfiniteTalk: Audio-driven Video Generation for Sparse-Frame Video Dubbing (Audio, Audio-Driven Holistic Body Driving)
 
