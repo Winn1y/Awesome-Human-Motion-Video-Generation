@@ -12,10 +12,10 @@
 <img src='https://img.shields.io/badge/TechRxiv-PDF-green?style=flat&logo=TechRxiv&logoColor=green' alt='TechRxiv PDF'>
 </a>
 <img src='https://img.shields.io/badge/Awesome Survey-8A2BE2' alt='Survey'>
-<img src='https://img.shields.io/badge/Related Work-400+ Papers and 64+ Datasets-blue' alt='MorePapers'>
+<img src='https://img.shields.io/badge/Related Work-401+ Papers and 64+ Datasets-blue' alt='MorePapers'>
 <br>
 <img src='https://img.shields.io/badge/Accepted by TPAMI-4BC88C' alt='under'>
-<img src='https://img.shields.io/badge/Update 🔥-2025.08.27-red' alt='MorePapers'>
+<img src='https://img.shields.io/badge/Update 🔥-2025.09.05-red' alt='MorePapers'>
 <a href='https://zhuanlan.zhihu.com/p/2672965087'>
 <img src='https://img.shields.io/badge/知乎-论文笔记-0084ff?style=flat&logo=zhihu&logoColor=yellow' alt='知乎文章'>
 </a>
@@ -164,6 +164,17 @@ We are excited to announce the upcoming launch of a new benchmark, including enh
 
 ## 💙 News
 
+**[2025/09/05][TOP] IMPORTANT NEWS**
+
+Links:
+
+Arxiv: https://arxiv.org/abs/2509.03883
+
+IEEE Access: https://ieeexplore.ieee.org/document/11106267
+
+Github Repo: https://github.com/Winn1y/Awesome-Human-Motion-Video-Generation
+
+------------
 
 **[2025/07/26][TOP] IMPORTANT NEWS**
 
@@ -190,9 +201,18 @@ Our paper has been accepted by TPAMI.🎉🎉🎉🎉🎉 Stay tuned for our upd
 ----
 
 
+**[2025/09/05] [V13.6 Vision](https://github.com/Winn1y/Awesome-Human-Motion-Video-Generation/): Update Methods.**
 
 
-**[2025/08/27] [V13.5 Vision](https://github.com/Winn1y/Awesome-Human-Motion-Video-Generation/): Update Methods.**
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2509.01362) Identity-Preserving Text-to-Video Generation via Training-Free Prompt, Image, and Guidance Enhancement (Text, Text2Motion)
+
+
+
+----
+
+
+
+**[2025/08/27] [V13.5 Vision](https://github.com/Winn1y/Awesome-Human-Motion-Video-Generation/tree/13.5): Update Methods.**
 
 
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2508.17404) MoCo: Motion-Consistent Human Video Generation via Structure-Appearance Decoupling (Visual, Pose2Video)
@@ -1556,6 +1576,9 @@ Find the Chinese version notes of the survey, welcome to pay attention.
 <details><summary>Part (Face) || Portrait Animation</summary>
 
 
+
+
+
 |  **Date**  	|                                                **Title**                                                	|                                        **arXiv Link**                                       	| **Motion  Representation** 	|   **Backbone**  	|                  **Venue**                 	|
 |:----------:	|:-------------------------------------------------------------------------------------------------------:	|:-------------------------------------------------------------------------------------------:	|:--------------------------:	|:---------------:	|:------------------------------------------:	|
 | 2024 06 04 	|             Follow-Your-Emoji: Fine-Controllable and Expressive Freestyle Portrait Animation            	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2406.01900) 	|          KeyPoint          	| Diffusion Model 	|              SIGGRAPH ASIA2024             	|
@@ -1592,7 +1615,13 @@ Find the Chinese version notes of the survey, welcome to pay attention.
 | 2025 07 17 	|        HairShifter: Consistent and High-Fidelity Video Hair Transfer via Anchor-Guided Animation        	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2507.12758) 	|           Latent           	| Diffusion Model 	|                    arxiv                   	|
 | 2025 07 22 	|      Navigating Large-Pose Challenge for High-Fidelity Face Reenactment with Video Diffusion Model      	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2507.16341) 	|           Latent           	| Diffusion Model 	|                    arxiv                   	|
 | 2025 07 23 	|                  CartoonAlive: Towards Expressive Live2D Modeling from Single Portraits                 	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2507.17327) 	|           Latent           	| Diffusion Model 	|                    arxiv                   	|
+| 2025 07 30 	|              X-NeMo: Expressive Neural Motion Reenactment via Disentangled Latent Attention             	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2507.23143) 	|           Latent           	| Diffusion Model 	|                    arxiv                   	|
+| 2025 08 13 	|                              LIA-X: Interpretable Latent Portrait Animator                              	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2508.09959) 	|           Latent           	| Diffusion Model 	|                      0                     	|
 | 2024 03 23 	|                              FaceOff: A Video-to-Video Face Swapping System                             	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2208.09788) 	|           Latent           	| Encoder-Decoder 	|                  WACV 2023                 	|
+
+
+
+
 
 
 
@@ -1784,25 +1813,25 @@ Find the Chinese version notes of the survey, welcome to pay attention.
 
 
 
-|  **Date**  	|                                              **Title**                                              	|                                        **arXiv Link**                                       	| **Motion  Representation** 	|   **Backbone**  	|      **Venue**     	|
-|:----------:	|:---------------------------------------------------------------------------------------------------:	|:-------------------------------------------------------------------------------------------:	|:--------------------------:	|:---------------:	|:------------------:	|
-| 2024 04 26 	|     Tunnel Try-on: Excavating Spatial-temporal Tunnels for High-quality Virtual Try-on in Videos    	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2404.17571) 	|          KeyPoint          	| Diffusion Model 	|        arxiv       	|
-| 2024 05 20 	|                          ViViD: Video Virtual Try-on using Diffusion Models                         	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2405.11794) 	|           Region           	| Diffusion Model 	|        arxiv       	|
-| 2024 11 04 	|                        Fashion-VDM: Video Diffusion Model for Virtual Try-On                        	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2411.00225) 	|           Latent           	| Diffusion Model 	| SIGGRAPH Asia 2025 	|
-| 2024 11 25 	|               FloAt: Flow Warping of Self-Attention for Clothing Animation Generation               	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2411.15028) 	|           Latent           	| Diffusion Model 	|        arxiv       	|
-| 2024 12 04 	|                PEMF-VVTO: Point-Enhanced Video Virtual Try-on via Mask-free Paradigm                	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.03021) 	|           Latent           	| Diffusion Model 	|        arxiv       	|
-| 2024 12 13 	|             Dynamic Try-On: Taming Video Virtual Try-on with Dynamic Attention Mechanism            	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.09822) 	|           Latent           	| Diffusion Model 	|        arxiv       	|
-| 2024 12 13 	|               SwiftTry: Fast and Consistent Video Virtual Try-On with Diffusion Models              	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.10178) 	|           Latent           	| Diffusion Model 	|        arxiv       	|
-| 2025 01 15 	|         RealVVT: Towards Photorealistic Video Virtual Try-on via Spatio-Temporal Consistency        	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2501.08682) 	|           Latent           	| Diffusion Model 	|        arxiv       	|
-| 2025 01 20 	| CatV2TON: Taming Diffusion Transformers for Vision-Based Virtual Try-On with Temporal Concatenation 	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2501.11325) 	|           Latent           	| Diffusion Model 	|        arxiv       	|
-| 2025 04 24 	|               3DV-TON: Textured 3D-Guided Consistent Video Try-on via Diffusion Models              	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2504.17414) 	|           Latent           	| Diffusion Model 	|        arxiv       	|
-| 2025 05 10 	|         ProFashion: Prototype-guided Fashion Video Generation with Multiple Reference Images        	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2505.06537) 	|           Latent           	| Diffusion Model 	|        arxiv       	|
-| 2025 05 27 	|       MagicTryOn: Harnessing Diffusion Transformer for Garment-Preserving Video Virtual Try-on      	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2505.21325) 	|           Latent           	| Diffusion Model 	|        arxiv       	|
-| 2025 06 06 	|          ChronoTailor: Harnessing Attention Guidance for Fine-Grained Video Virtual Try-On          	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2506.05858) 	|           Latent           	| Diffusion Model 	|        arxiv       	|
-| 2025 06 12 	|    Low-Barrier Dataset Collection with Real Human Body for Interactive Per-Garment Virtual Try-On   	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2506.10468) 	|           Latent           	| Diffusion Model 	|        arxiv       	|
-| 2025 06 26 	|                Video Virtual Try-on with Conditional Diffusion Transformer Inpainter                	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2506.21270) 	|           Latent           	| Diffusion Model 	|        arxiv       	|
-| 2024 07 16 	|       WildVidFit: Video Virtual Try-On in the Wild via Image-Based Controlled Diffusion Models      	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2407.10625) 	|          KeyPoint          	| Diffusion Model 	|        arxiv       	|
-
+|  **Date**  	|                                                    **Title**                                                    	|                                        **arXiv Link**                                       	| **Motion  Representation** 	|   **Backbone**  	|      **Venue**     	|
+|:----------:	|:---------------------------------------------------------------------------------------------------------------:	|:-------------------------------------------------------------------------------------------:	|:--------------------------:	|:---------------:	|:------------------:	|
+| 2024 04 26 	|           Tunnel Try-on: Excavating Spatial-temporal Tunnels for High-quality Virtual Try-on in Videos          	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2404.17571) 	|          KeyPoint          	| Diffusion Model 	|        arxiv       	|
+| 2024 05 20 	|                                ViViD: Video Virtual Try-on using Diffusion Models                               	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2405.11794) 	|           Region           	| Diffusion Model 	|        arxiv       	|
+| 2024 11 04 	|                              Fashion-VDM: Video Diffusion Model for Virtual Try-On                              	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2411.00225) 	|           Latent           	| Diffusion Model 	| SIGGRAPH Asia 2025 	|
+| 2024 11 25 	|                     FloAt: Flow Warping of Self-Attention for Clothing Animation Generation                     	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2411.15028) 	|           Latent           	| Diffusion Model 	|        arxiv       	|
+| 2024 12 04 	|                      PEMF-VVTO: Point-Enhanced Video Virtual Try-on via Mask-free Paradigm                      	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.03021) 	|           Latent           	| Diffusion Model 	|        arxiv       	|
+| 2024 12 13 	|                   Dynamic Try-On: Taming Video Virtual Try-on with Dynamic Attention Mechanism                  	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.09822) 	|           Latent           	| Diffusion Model 	|        arxiv       	|
+| 2024 12 13 	|                     SwiftTry: Fast and Consistent Video Virtual Try-On with Diffusion Models                    	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.10178) 	|           Latent           	| Diffusion Model 	|        arxiv       	|
+| 2025 01 15 	|               RealVVT: Towards Photorealistic Video Virtual Try-on via Spatio-Temporal Consistency              	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2501.08682) 	|           Latent           	| Diffusion Model 	|        arxiv       	|
+| 2025 01 20 	|       CatV2TON: Taming Diffusion Transformers for Vision-Based Virtual Try-On with Temporal Concatenation       	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2501.11325) 	|           Latent           	| Diffusion Model 	|        arxiv       	|
+| 2025 04 24 	|                     3DV-TON: Textured 3D-Guided Consistent Video Try-on via Diffusion Models                    	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2504.17414) 	|           Latent           	| Diffusion Model 	|        arxiv       	|
+| 2025 05 10 	|               ProFashion: Prototype-guided Fashion Video Generation with Multiple Reference Images              	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2505.06537) 	|           Latent           	| Diffusion Model 	|        arxiv       	|
+| 2025 05 27 	|             MagicTryOn: Harnessing Diffusion Transformer for Garment-Preserving Video Virtual Try-on            	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2505.21325) 	|           Latent           	| Diffusion Model 	|        arxiv       	|
+| 2025 06 06 	|                ChronoTailor: Harnessing Attention Guidance for Fine-Grained Video Virtual Try-On                	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2506.05858) 	|           Latent           	| Diffusion Model 	|        arxiv       	|
+| 2025 06 12 	|          Low-Barrier Dataset Collection with Real Human Body for Interactive Per-Garment Virtual Try-On         	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2506.10468) 	|           Latent           	| Diffusion Model 	|        arxiv       	|
+| 2025 06 26 	|                      Video Virtual Try-on with Conditional Diffusion Transformer Inpainter                      	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2506.21270) 	|           Latent           	| Diffusion Model 	|        arxiv       	|
+| 2025 08 04 	| DreamVVT: Mastering Realistic Video Virtual Try-On in the Wild via a Stage-Wise Diffusion Transformer Framework 	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2508.02807) 	|           Latent           	| Diffusion Model 	|        arxiv       	|
+| 2024 07 16 	|             WildVidFit: Video Virtual Try-On in the Wild via Image-Based Controlled Diffusion Models            	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2407.10625) 	|          KeyPoint          	| Diffusion Model 	|        arxiv       	|
 
 
 
@@ -1831,6 +1860,8 @@ Find the Chinese version notes of the survey, welcome to pay attention.
 
 
 
+
+
 |  **Date**  	|                                                        **Title**                                                       	|                                        **arXiv Link**                                       	| **Motion  Representation** 	|   **Backbone**  	| **Venue** 	|
 |:----------:	|:----------------------------------------------------------------------------------------------------------------------:	|:-------------------------------------------------------------------------------------------:	|:--------------------------:	|:---------------:	|:---------:	|
 | 2023 04 12 	|                                                        DreamPose                                                       	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2304.06025) 	|           Region           	| Diffusion Model 	| ICCV 2023 	|
@@ -1845,9 +1876,18 @@ Find the Chinese version notes of the survey, welcome to pay attention.
 | 2025 06 12 	|  DreamActor-H1: High-Fidelity Human-Product Demonstration Video Generation via Motion-designed Diffusion Transformers  	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2506.10568) 	|           Region           	| Diffusion Model 	|   arxiv   	|
 | 2025 07 01 	|                                Populate-A-Scene: Affordance-Aware Human Video Generation                               	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2507.00334) 	|           Region           	| Diffusion Model 	|   arxiv   	|
 | 2025 07 22 	|                                   HOComp: Interaction-Aware Human-Object Composition                                   	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2507.16813) 	|           Region           	| Diffusion Model 	|   arxiv   	|
+| 2025 08 06 	|            Motion is the Choreographer: Learning Latent Pose Dynamics for Seamless Sign Language Generation            	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2508.04049) 	|           Region           	| Diffusion Model 	|   arxiv   	|
+| 2025 08 08 	|                                AnimateScene: Camera-controllable Animation in Any Scene                                	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2508.05982) 	|           Region           	| Diffusion Model 	|   arxiv   	|
+| 2025 08 12 	|                  RealisMotion: Decomposed Human Motion Control and Video Generation in the World Space                 	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2508.08588) 	|           Region           	| Diffusion Model 	|   arxiv   	|
+| 2025 08 13 	|                HumanGenesis: Agent-Based Geometric and Generative Modeling for Synthetic Human Dynamics                	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2508.09858) 	|     3D Parameterization    	| Diffusion Model 	|   arxiv   	|
+| 2025 08 13 	|                        Animate-X++: Universal Character Image Animation with Dynamic Backgrounds                       	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2508.09454) 	|           Region           	| Diffusion Model 	|   arxiv   	|
+| 2025 08 12 	|            X-UniMotion: Animating Human Images with Expressive, Unified and Identity-Agnostic Motion Latents           	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2508.09383) 	|           Region           	| Diffusion Model 	|   arxiv   	|
+| 2025 08 24 	|                   MoCo: Motion-Consistent Human Video Generation via Structure-Appearance Decoupling                   	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2508.17404) 	|           Region           	| Diffusion Model 	|   arxiv   	|
 | 2024 11 26 	|         AnchorCrafter: Animate CyberAnchors Saling Your Products via Human-Object Interacting Video Generation         	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2411.17383) 	|          KeyPoint          	| Diffusion Model 	|   arxiv   	|
 | 2024 10 29 	|                   MovieCharacter: A Tuning-Free Framework for Controllable Character Video Synthesis                   	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2410.20974) 	|           Region           	| Diffusion Model 	|   arxiv   	|
 | 2025 06 11 	|                             Synthetic Human Action Video Data Generation with Pose Transfer                            	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2506.09411) 	|          KeyPoint          	| Diffusion Model 	|   arxiv   	|
+
+
 
 
 
@@ -1900,9 +1940,9 @@ Find the Chinese version notes of the survey, welcome to pay attention.
 | 2024 12 27 	|           VideoMaker: Zero-shot Customized Video Generation with the Inherent Force of Video Diffusion Models           	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.19645) 	|           Latent           	| Diffusion Model 	|     arXiv    	|
 | 2025 04 03 	|         OmniTalker: Real-Time Text-Driven Talking Head Generation with In-Context Audio-Visual Style Replication        	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2504.02433) 	|           Latent           	| Diffusion Model 	|     arxiv    	|
 | 2025 07 17 	|      FantasyPortrait: Enhancing Multi-Character Portrait Animation with Expression-Augmented Diffusion Transformers     	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2507.12956) 	|           Latent           	| Diffusion Model 	|     arxiv    	|
+| 2025 08 04 	|              Text2Lip: Progressive Lip-Synced Talking Face Generation from Text via Viseme-Guided Rendering             	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2508.02362) 	|           Latent           	| Diffusion Model 	|     arxiv    	|
+| 2025 08 05 	|                    MoCA: Identity-Preserving Text-to-Video Generation via Mixture of Cross Attention                    	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2508.03034) 	|           Latent           	| Diffusion Model 	|     arxiv    	|
 | 2020 03 01 	|                                        Towards Automatic Face-to-Face Translation                                       	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2003.00418) 	|           Latent           	| Encoder-Decoder 	|  ACM MM 2019 	|
-
-
 
 
 
@@ -1915,8 +1955,6 @@ Find the Chinese version notes of the survey, welcome to pay attention.
 </details>
 
 <details><summary>Holistic Human || Text2MotionVideo</summary>
-
-
 
 
 
@@ -1968,7 +2006,13 @@ Find the Chinese version notes of the survey, welcome to pay attention.
 |  2024 10 15 	|                             Tex4D: Zero-shot 4D Scene Texturing with Video Diffusion Models                            	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2410.10821) 	|           Latent           	| Diffusion Model 	|   arXiv   	|
 |  2025 03 31 	|                   HumanDreamer: Generating Controllable Human-Motion Videos via Decoupled Generation                   	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2503.24026) 	|          KeyPoint          	| Diffusion Model 	|   arxiv   	|
 |  2025 06 16 	|                                     EchoShot: Multi-Shot Portrait Video Generation                                     	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2506.15838) 	|          KeyPoint          	| Diffusion Model 	|   arxiv   	|
+|  2025 08 11 	|                               ShoulderShot: Generating Over-the-Shoulder Dialogue Videos                               	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2508.07597) 	|          KeyPoint          	| Diffusion Model 	|   arxiv   	|
+|  2025 08 11 	|                     Stand-In: A Lightweight and Plug-and-Play Identity Control for Video Generation                    	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2508.07901) 	|          KeyPoint          	| Diffusion Model 	|   arxiv   	|
+|  2025 08 11 	|               LaVieID: Local Autoregressive Diffusion Transformers for Identity-Preserving Video Creation              	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2508.07603) 	|          KeyPoint          	| Diffusion Model 	|   arxiv   	|
+|  2025 08 13 	|        From Large Angles to Consistent Faces: Identity-Preserving Video Generation via Mixture of Facial Experts       	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2508.09476) 	|          KeyPoint          	| Diffusion Model 	|   arxiv   	|
+|  2025 09 05 	|         Identity-Preserving Text-to-Video Generation via Training-Free Prompt, Image, and Guidance Enhancement         	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2509.01362) 	|          KeyPoint          	| Diffusion Model 	|   arxiv   	|
 |  2024 01 17 	|                   VideoCrafter2: Overcoming Data Limitations for High-Quality Video Diffusion Models                   	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2401.09047) 	|           Latent           	| Diffusion Model 	| CVPR 2024 	|
+
 
 
 
@@ -2070,9 +2114,7 @@ Find the Chinese version notes of the survey, welcome to pay attention.
 
 
 
-
-
-|  **Date**  	|                                                            **Title**                                                            	|                                                            **arXiv Link**                                                           	|  **Motion  Representation**  	|   **Backbone**  	|                              **Venue**                              	|
+|  **Date**  	|                                                            **Title**                                                            	|                                                            **arXiv Link**                                                           	|  **Motion  Representation**  	|     Backbone    	|                                Venue                                	|
 |:----------:	|:-------------------------------------------------------------------------------------------------------------------------------:	|:-----------------------------------------------------------------------------------------------------------------------------------:	|:----------------------------:	|:---------------:	|:-------------------------------------------------------------------:	|
 | 2017 08 20 	|                           Predicting head pose from speech with a conditional variational autoencoder                           	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://ueaeprints.uea.ac.uk/id/eprint/64846/1/greenwood_Interspeech.pdf) 	|            Latent            	|  Autoregressive 	|                               ISCA2017                              	|
 | 2020 04 27 	|                                         MakeItTalk: Speaker-Aware Talking-Head Animation                                        	|                     [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2004.12992)                     	|           KeyPoint           	|  Autoregressive 	|                               TOG2020                               	|
@@ -2157,12 +2199,22 @@ Find the Chinese version notes of the survey, welcome to pay attention.
 | 2025 07 17 	|                    ATL-Diff: Audio-Driven Talking Head Generation with Early Landmarks-Guide Noise Diffusion                    	|                     [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2507.12804)                     	|            Latent            	| Diffusion Model 	|                                arxiv                                	|
 | 2025 07 17 	|         Think-Before-Draw: Decomposing Emotion Semantics & Fine-Grained Controllable Expressive Talking Head Generation         	|                     [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2507.12761)                     	|            Latent            	| Diffusion Model 	|                                arxiv                                	|
 | 2025 07 11 	|       M2DAO-Talker: Harmonizing Multi-granular Motion Decoupling and Alternating Optimization for Talking-head Generation       	|                     [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2507.08307)                     	|            Latent            	| Diffusion Model 	|                                arxiv                                	|
+| 2025 07 22 	|                            Livatar-1: Real-Time Talking Heads Generation with Tailored Flow Matching                            	|                     [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2507.18649)                     	|            Latent            	| Diffusion Model 	|                                arxiv                                	|
+| 2025 07 25 	|                    Face2VoiceSync: Lightweight Face-Voice Consistency for Text-Driven Talking Face Generation                   	|                     [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2507.19225)                     	|            Latent            	| Diffusion Model 	|                                arxiv                                	|
+| 2025 07 28 	|               Mask-Free Audio-driven Talking Face Generation for Enhanced Visual Quality and Identity Preservation              	|                     [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2507.20953)                     	|            Latent            	| Diffusion Model 	|                                arxiv                                	|
+| 2025 08 05 	|                  READ: Real-time and Efficient Asynchronous Diffusion for Audio-driven Talking Head Generation                  	|                     [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2508.03457)                     	|            Latent            	| Diffusion Model 	|                                arxiv                                	|
+| 2025 08 04 	|                             X-Actor: Emotional and Expressive Long-Range Portrait Acting from Audio                             	|                     [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2508.02944)                     	|            Latent            	| Diffusion Model 	|                                arxiv                                	|
+| 2025 08 07 	|                         RAP: Real-time Audio-driven Portrait Animation with Video Diffusion Transformer                         	|                     [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2508.05115)                     	|            Latent            	| Diffusion Model 	|                                arxiv                                	|
+| 2025 07 29 	|           DiTalker: A Unified DiT-based Framework for High-Quality and Speaking Styles Controllable Portrait Animation          	|                     [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2508.06511)                     	|            Latent            	| Diffusion Model 	|                                arxiv                                	|
+| 2025 08 11 	|                                StableAvatar: Infinite-Length Audio-Driven Avatar Video Generation                               	|                     [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2508.08248)                     	|            Latent            	| Diffusion Model 	|                                arxiv                                	|
+| 2025 08 14 	|                            HM-Talker: Hybrid Motion Modeling for High-Fidelity Talking Head Synthesis                           	|                     [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2508.10566)                     	|            Latent            	| Diffusion Model 	|                                arxiv                                	|
+| 2025 08 16 	|                                RealTalk: Realistic Emotion-Aware Lifelike Talking-Head Synthesis                                	|                     [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2508.12163)                     	|            Latent            	| Diffusion Model 	|                                arxiv                                	|
+| 2025 08 19 	|                              EDTalk++: Full Disentanglement for Controllable Talking Head Synthesis                             	|                     [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2508.13442)                     	|            Latent            	| Diffusion Model 	|                                arxiv                                	|
+| 2025 08 20 	|                               Taming Transformer for Emotion-Controllable Talking Face Generation                               	|                     [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2508.14359)                     	|            Latent            	| Diffusion Model 	|                                arxiv                                	|
 | 2024 04 28 	|                                                          GaussianTalker                                                         	|                     [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2404.14037)                     	|      3D Parameterization     	| Encoder-Decoder 	|                              ACM MM2024                             	|
 | 2021 12 10 	|                                 FaceFormer: Speech-Driven 3D Facial Animation with Transformers                                 	|                     [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2112.05329)                     	|            Latent            	|   Transformer   	|                                CVPR22                               	|
 | 2023 09 15 	|           Towards the generation of synchronized and believable non-verbal facial behaviors of a talking virtual agent          	|                     [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2311.12804)                     	|            Latent            	|       GAN       	|                              ICMI 2023                              	|
 | 2023 10 17 	|                 CorrTalk: Correlation Between Hierarchical Speech and Facial Activity Variances for 3D Animation                	|                     [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2310.11295)                     	|            Latent            	| Encoder-Decoder 	| IEEE Transactions on Circuits and Systems for Video Technology 2024 	|
-
-
 
 
 
@@ -2182,6 +2234,7 @@ Find the Chinese version notes of the survey, welcome to pay attention.
 
 
 <details><summary>Holistic Human || Audio-Driven Holistic Body Driving</summary>
+
 
 
 
@@ -2220,10 +2273,15 @@ Find the Chinese version notes of the survey, welcome to pay attention.
 | 2025 06 27 	|                       MirrorMe: Towards Realtime and High Fidelity Audio-Driven Halfbody Animation                      	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2506.22065) 	|           Latent           	| Diffusion Model 	|     arxiv    	|
 | 2025 07 05 	|           EchoMimicV3: 1.3B Parameters are All You Need for Unified Multi-Modal and Multi-Task Human Animation          	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2507.03905) 	|           Latent           	| Diffusion Model 	|     arxiv    	|
 | 2025 07 09 	|                              Democratizing High-Fidelity Co-Speech Gesture Video Generation                             	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2507.06812) 	|          KeyPoint          	| Diffusion Model 	|     arxiv    	|
+| 2025 08 15 	|           FantasyTalking2: Timestep-Layer Adaptive Preference Optimization for Audio-Driven Portrait Animation          	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2508.11255) 	|           Latent           	| Diffusion Model 	|     arxiv    	|
+| 2025 08 19 	|                        InfiniteTalk: Audio-driven Video Generation for Sparse-Frame Video Dubbing                       	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2508.14033) 	|           Latent           	| Diffusion Model 	|     arxiv    	|
 | 2024 05 15 	|                          Dance Any Beat: Blending Beats with Visuals in Dance Video Generation                          	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2405.09266) 	|           Region           	| Diffusion Model 	|     arXiv    	|
 | 2025 02 24 	|                                X-Dancer: Expressive Music to Human Dance Video Generation                               	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2502.17414) 	|          KeyPoint          	| Diffusion Model 	|     arXiv    	|
 | 2025 03 18 	|                                  MusicInfuser: Making Video Diffusion Listen and Dance                                  	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2503.14505) 	|           Latent           	| Diffusion Model 	|     arXiv    	|
+| 2025 07 26 	|             ChoreoMuse: Robust Music-to-Dance Video Generation with Style Transfer and Beat-Adherent Motion             	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2507.19836) 	|           Latent           	| Diffusion Model 	|     arXiv    	|
 | 2025 01 30 	|                          Every Image Listens, Every Image Dances: Music-Driven Image Animation                          	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2501.18801) 	|           Region           	| Diffusion Model 	|     arXiv    	|
+
+
 
 
 
