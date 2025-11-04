@@ -12,10 +12,10 @@
 <img src='https://img.shields.io/badge/TechRxiv-PDF-green?style=flat&logo=TechRxiv&logoColor=green' alt='TechRxiv PDF'>
 </a>
 <img src='https://img.shields.io/badge/Awesome Survey-8A2BE2' alt='Survey'>
-<img src='https://img.shields.io/badge/Related Work-424+ Papers and 64+ Datasets-blue' alt='MorePapers'>
+<img src='https://img.shields.io/badge/Related Work-426+ Papers and 64+ Datasets-blue' alt='MorePapers'>
 <br>
 <img src='https://img.shields.io/badge/Accepted by TPAMI-4BC88C' alt='under'>
-<img src='https://img.shields.io/badge/Update 🔥-2025.11.03-red' alt='MorePapers'>
+<img src='https://img.shields.io/badge/Update 🔥-2025.11.04-red' alt='MorePapers'>
 <a href='https://zhuanlan.zhihu.com/p/2672965087'>
 <img src='https://img.shields.io/badge/知乎-论文笔记-0084ff?style=flat&logo=zhihu&logoColor=yellow' alt='知乎文章'>
 </a>
@@ -202,7 +202,21 @@ Our paper has been accepted by TPAMI.🎉🎉🎉🎉🎉 Stay tuned for our upd
 
 ----
 
-**[2025/11/03] [V15.2 Vision](https://github.com/Winn1y/Awesome-Human-Motion-Video-Generation/): Update Methods.**
+**[2025/11/04] [V15.3 Vision](https://github.com/Winn1y/Awesome-Human-Motion-Video-Generation/): Update Methods.**
+
+
+
+
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2511.00511) ID-Composer: Multi-Subject Video Synthesis with Hierarchical Identity Preservation (Visual, Pose2Video)
+
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2511.00293) Multi-View Consistent Human Image Customization via In-Context Learning (Visual, Pose2Video)
+
+
+
+----
+
+
+[2025/11/03] [V15.2 Vision](https://github.com/Winn1y/Awesome-Human-Motion-Video-Generation/tree/15.2): Update Methods.
 
 
 
@@ -215,7 +229,7 @@ Our paper has been accepted by TPAMI.🎉🎉🎉🎉🎉 Stay tuned for our upd
 ----
 
 
-[2025/10/28] [V15.1 Vision](https://github.com/Winn1y/Awesome-Human-Motion-Video-Generation/): Update Methods.
+[2025/10/28] [V15.1 Vision](https://github.com/Winn1y/Awesome-Human-Motion-Video-Generation/tree/15.1): Update Methods.
 
 
 
