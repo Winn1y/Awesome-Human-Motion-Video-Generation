@@ -211,9 +211,10 @@ Our paper has been accepted by TPAMI.🎉🎉🎉🎉🎉 Stay tuned for our upd
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2511.05432) Shared Latent Representation for Joint Text-to-Audio-Visual Synthesis (Audio, Lip Synchronization)
 
 
+----
 
 
-**[2025/11/04] [V15.3 Vision](https://github.com/Winn1y/Awesome-Human-Motion-Video-Generation/tree/15.3): Update Methods.**
+[2025/11/04] [V15.3 Vision](https://github.com/Winn1y/Awesome-Human-Motion-Video-Generation/tree/15.3): Update Methods.
 
 
 
