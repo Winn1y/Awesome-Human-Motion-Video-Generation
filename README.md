@@ -6,13 +6,13 @@
      <a href="assets/Human Motion Video Generation A Survey.pdf">
 <img width="768px" alt="image" src="assets/logoGithub.png">
 </p>
-    
+
 <p align="center">
 <a href='assets/Human Motion Video Generation A Survey.pdf'>
 <img src='https://img.shields.io/badge/TechRxiv-PDF-green?style=flat&logo=TechRxiv&logoColor=green' alt='TechRxiv PDF'>
 </a>
 <img src='https://img.shields.io/badge/Awesome Survey-8A2BE2' alt='Survey'>
-<img src='https://img.shields.io/badge/Related Work-457+ Papers and 64+ Datasets-blue' alt='MorePapers'>
+<img src='https://img.shields.io/badge/Related Work-457+ Papers and 65+ Datasets-blue' alt='MorePapers'>
 <br>
 <img src='https://img.shields.io/badge/Accepted by TPAMI-4BC88C' alt='under'>
 <img src='https://img.shields.io/badge/Update 🔥-2025.12.23-red' alt='MorePapers'>
@@ -792,6 +792,12 @@ Our paper has been accepted by TPAMI.🎉🎉🎉🎉🎉 Stay tuned for our upd
 ----
 
 
+
+
+
+<details><summary> Historical Update. </summary>
+
+
 [2025/07/24] [V12.0 Vision](https://github.com/Winn1y/Awesome-Human-Motion-Video-Generation/tree/12.0): Update Methods.
 
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2507.17327) CartoonAlive: Towards Expressive Live2D Modeling from Single Portraits (Visual, Portrait Animation)
@@ -799,9 +805,6 @@ Our paper has been accepted by TPAMI.🎉🎉🎉🎉🎉 Stay tuned for our upd
 
 
 ----
-
-
-<details><summary> Historical Update. </summary>
 
 
 [2025/07/23] [V11.9 Vision](https://github.com/Winn1y/Awesome-Human-Motion-Video-Generation/tree/11.9): Update Methods.
