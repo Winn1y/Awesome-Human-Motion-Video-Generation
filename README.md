@@ -12,10 +12,10 @@
 <img src='https://img.shields.io/badge/TechRxiv-PDF-green?style=flat&logo=TechRxiv&logoColor=green' alt='TechRxiv PDF'>
 </a>
 <img src='https://img.shields.io/badge/Awesome Survey-8A2BE2' alt='Survey'>
-<img src='https://img.shields.io/badge/Related Work-470+ Papers and 65+ Datasets-blue' alt='MorePapers'>
+<img src='https://img.shields.io/badge/Related Work-474+ Papers and 65+ Datasets-blue' alt='MorePapers'>
 <br>
 <img src='https://img.shields.io/badge/Accepted by TPAMI-4BC88C' alt='under'>
-<img src='https://img.shields.io/badge/Update 🔥-2026.01.02-red' alt='MorePapers'>
+<img src='https://img.shields.io/badge/Update 🔥-2026.01.06-red' alt='MorePapers'>
 <a href='https://zhuanlan.zhihu.com/p/2672965087'>
 <img src='https://img.shields.io/badge/知乎-论文笔记-0084ff?style=flat&logo=zhihu&logoColor=yellow' alt='知乎文章'>
 </a>
@@ -205,7 +205,6 @@ Our paper has been accepted by TPAMI.🎉🎉🎉🎉🎉 Stay tuned for our upd
 **[2026/01/06] [V17.5 Vision](https://github.com/Winn1y/Awesome-Human-Motion-Video-Generation/): Update Methods. Happy New Year!🎈🎈🎈**
 
 
-
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2601.02107) MagicFight: Personalized Martial Arts Combat Video Generation (Visual, Pose2Video)  【深圳先进技术研究院、中国电信云技术有限公司、深圳理工大学 】
 
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2601.01847) ESGaussianFace: Emotional and Stylized Audio-Driven Facial Animation via 3D Gaussian Splatting (Audio, Fine-Grained Style and Emotion-Driven Animation)  【上海交通大学、微软亚洲研究院 】
@@ -213,6 +212,7 @@ Our paper has been accepted by TPAMI.🎉🎉🎉🎉🎉 Stay tuned for our upd
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2601.01425) DreamID-V:Bridging the Image-to-Video Gap for High-Fidelity Face Swapping via Diffusion Transformer (Visual, Portrait Animation)  【清华大学、字节跳动智能创作实验室 】
 
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2601.01352) Slot-ID: Identity-Preserving Video Generation from Reference Videos via Slot-Based Temporal Identity Encoding (Text, Text2Face)  【浙江大学 CAD&CG 国家重点实验室、伦敦大学学院计算机科学系 】
+
 
 ----
 
