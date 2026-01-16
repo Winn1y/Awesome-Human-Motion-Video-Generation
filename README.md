@@ -203,7 +203,7 @@ Our paper has been accepted by TPAMI.🎉🎉🎉🎉🎉 Stay tuned for our upd
 ----
 
 
-**[2026/01/16] [V17.7 Vision](https://github.com/Winn1y/Awesome-Human-Motion-Video-Generation/): Update Methods. **
+**[2026/01/16] [V17.7 Vision](https://github.com/Winn1y/Awesome-Human-Motion-Video-Generation/): Update Methods.**
 
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2601.10214) Beyond Inpainting: Unleash 3D Understanding for Precise Camera-Controlled Video Generation (Text, Text2MotionVideo)  【清华大学计算机科学与技术系、BNRist 实验室 】
 
