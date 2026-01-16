@@ -209,6 +209,7 @@ Our paper has been accepted by TPAMI.🎉🎉🎉🎉🎉 Stay tuned for our upd
 
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2601.10103) FlowAct-R1: Towards Interactive Humanoid Video Generation (Audio, Audio-Driven Holistic Body Driving)  【字节跳动智能创作部门 】
 
+----
 
 [2026/01/07] [V17.6 Vision](https://github.com/Winn1y/Awesome-Human-Motion-Video-Generation/tree/17.6): Update Methods. Happy New Year!🎈🎈🎈
 
