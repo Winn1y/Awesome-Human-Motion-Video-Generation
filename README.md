@@ -12,10 +12,10 @@
 <img src='https://img.shields.io/badge/TechRxiv-PDF-green?style=flat&logo=TechRxiv&logoColor=green' alt='TechRxiv PDF'>
 </a>
 <img src='https://img.shields.io/badge/Awesome Survey-8A2BE2' alt='Survey'>
-<img src='https://img.shields.io/badge/Related Work-477+ Papers and 65+ Datasets-blue' alt='MorePapers'>
+<img src='https://img.shields.io/badge/Related Work-479+ Papers and 65+ Datasets-blue' alt='MorePapers'>
 <br>
 <img src='https://img.shields.io/badge/Accepted by TPAMI-4BC88C' alt='under'>
-<img src='https://img.shields.io/badge/Update 🔥-2026.01.16-red' alt='MorePapers'>
+<img src='https://img.shields.io/badge/Update 🔥-2026.01.21-red' alt='MorePapers'>
 <a href='https://zhuanlan.zhihu.com/p/2672965087'>
 <img src='https://img.shields.io/badge/知乎-论文笔记-0084ff?style=flat&logo=zhihu&logoColor=yellow' alt='知乎文章'>
 </a>
@@ -203,7 +203,15 @@ Our paper has been accepted by TPAMI.🎉🎉🎉🎉🎉 Stay tuned for our upd
 ----
 
 
-**[2026/01/16] [V17.7 Vision](https://github.com/Winn1y/Awesome-Human-Motion-Video-Generation/): Update Methods.**
+**[2026/01/21] [V17.8 Vision](https://github.com/Winn1y/Awesome-Human-Motion-Video-Generation/): Update Methods.**
+
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2601.14250) OmniTransfer: All-in-one Framework for Spatio-temporal Video Transfer (Text, Text2MotionVideo)  【字节跳动智能创作实验室 】
+
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2601.12876) Exploring Talking Head Models With Adjacent Frame Prior for Speech-Preserving Facial Expression Manipulation (Audio, Lip Synchronization)  【广东工业大学、北京大学、中山大学 】
+
+----
+
+[2026/01/16] [V17.7 Vision](https://github.com/Winn1y/Awesome-Human-Motion-Video-Generation/tree/17.7): Update Methods.
 
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2601.10214) Beyond Inpainting: Unleash 3D Understanding for Precise Camera-Controlled Video Generation (Text, Text2MotionVideo)  【清华大学计算机科学与技术系、BNRist 实验室 】
 
