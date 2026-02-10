@@ -12,10 +12,10 @@
 <img src='https://img.shields.io/badge/TechRxiv-PDF-green?style=flat&logo=TechRxiv&logoColor=green' alt='TechRxiv PDF'>
 </a>
 <img src='https://img.shields.io/badge/Awesome Survey-8A2BE2' alt='Survey'>
-<img src='https://img.shields.io/badge/Related Work-491+ Papers and 65+ Datasets-blue' alt='MorePapers'>
+<img src='https://img.shields.io/badge/Related Work-495+ Papers and 65+ Datasets-blue' alt='MorePapers'>
 <br>
 <img src='https://img.shields.io/badge/Accepted by TPAMI-4BC88C' alt='under'>
-<img src='https://img.shields.io/badge/Update 🔥-2026.02.04-red' alt='MorePapers'>
+<img src='https://img.shields.io/badge/Update 🔥-2026.02.10-red' alt='MorePapers'>
 <a href='https://zhuanlan.zhihu.com/p/2672965087'>
 <img src='https://img.shields.io/badge/知乎-论文笔记-0084ff?style=flat&logo=zhihu&logoColor=yellow' alt='知乎文章'>
 </a>
@@ -202,8 +202,19 @@ Our paper has been accepted by TPAMI.🎉🎉🎉🎉🎉 Stay tuned for our upd
 
 ----
 
+**[2026/02/10] [V18.7 Vision](https://github.com/Winn1y/Awesome-Human-Motion-Video-Generation/): Update Methods.**
 
-**[2026/02/04] [V18.6 Vision](https://github.com/Winn1y/Awesome-Human-Motion-Video-Generation/): Update Methods.**
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2602.08753) MVAnimate: Enhancing Character Animation with Multi-View Optimization (Visual, Video-Guided Dance Video Generation)  【南洋理工大学计算与数据科学学院、阿里巴巴集团 】
+
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2602.08682) ALIVE: Animate Your World with Lifelike Audio-Video Generation (Text, Text2MotionVideo)  【字节跳动 】
+
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2602.07498) IM-Animation: An Implicit Motion Representation for Identity-decoupled Character Animation (Visual, Video-Guided Dance Video Generation)  【中科院计算所、中国科学院大学、快手科技 Kling 团队、卡迪夫大学 】
+
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2602.07449) SoulX-FlashHead: Oracle-guided Generation of Infinite Real-time Streaming Talking Heads (Audio, Head Pose Driving)  【中国 Soul AI 实验室 AIGC 团队 】
+
+----
+
+[2026/02/04] [V18.6 Vision](https://github.com/Winn1y/Awesome-Human-Motion-Video-Generation/tree/18.6): Update Methods.
 
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2602.03796) 3D-Aware Implicit Motion Control for View-Adaptive Human Video Generation (Text, Text2MotionVideo)  【快手科技 Kling 团队、清华大学、中国科学院自动化研究所 】
 
