@@ -12,10 +12,10 @@
 <img src='https://img.shields.io/badge/TechRxiv-PDF-green?style=flat&logo=TechRxiv&logoColor=green' alt='TechRxiv PDF'>
 </a>
 <img src='https://img.shields.io/badge/Awesome Survey-8A2BE2' alt='Survey'>
-<img src='https://img.shields.io/badge/Related Work-495+ Papers and 65+ Datasets-blue' alt='MorePapers'>
+<img src='https://img.shields.io/badge/Related Work-497+ Papers and 65+ Datasets-blue' alt='MorePapers'>
 <br>
 <img src='https://img.shields.io/badge/Accepted by TPAMI-4BC88C' alt='under'>
-<img src='https://img.shields.io/badge/Update 🔥-2026.02.10-red' alt='MorePapers'>
+<img src='https://img.shields.io/badge/Update 🔥-2026.02.11-red' alt='MorePapers'>
 <a href='https://zhuanlan.zhihu.com/p/2672965087'>
 <img src='https://img.shields.io/badge/知乎-论文笔记-0084ff?style=flat&logo=zhihu&logoColor=yellow' alt='知乎文章'>
 </a>
@@ -202,7 +202,15 @@ Our paper has been accepted by TPAMI.🎉🎉🎉🎉🎉 Stay tuned for our upd
 
 ----
 
-**[2026/02/10] [V18.7 Vision](https://github.com/Winn1y/Awesome-Human-Motion-Video-Generation/): Update Methods.**
+**[2026/02/10] [V18.8 Vision](https://github.com/Winn1y/Awesome-Human-Motion-Video-Generation/): Update Methods.**
+
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2602.09736) Toward Fine-Grained Facial Control in 3D Talking Head Generation (Audio, Head Pose Driving)  【东南大学、南洋理工大学、武汉大学、澳门大学、香港科技大学、紫金山实验室、东南大学区块链应用监管工程研究中心、武汉大学地理空间信息技术协同创新中心 】
+
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2602.09534) AUHead: Realistic Emotional Talking Head Generation via Action Units Control (Audio, Head Pose Driving)  【国科大、新加坡国立大学、浙大 】
+
+----
+
+[2026/02/10] [V18.7 Vision](https://github.com/Winn1y/Awesome-Human-Motion-Video-Generation/18.7): Update Methods.
 
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2602.08753) MVAnimate: Enhancing Character Animation with Multi-View Optimization (Visual, Video-Guided Dance Video Generation)  【南洋理工大学计算与数据科学学院、阿里巴巴集团 】
 
