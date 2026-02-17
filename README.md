@@ -202,7 +202,7 @@ Our paper has been accepted by TPAMI.🎉🎉🎉🎉🎉 Stay tuned for our upd
 
 ----
 
-**[2026/02/14] [V19.0 Vision](https://github.com/Winn1y/Awesome-Human-Motion-Video-Generation/): Update Methods.**
+**[2026/02/17] [V19.0 Vision](https://github.com/Winn1y/Awesome-Human-Motion-Video-Generation/): Update Methods.**
 
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2602.13669) EchoTorrent: Towards Swift, Sustained, and Streaming Multi-Modal Video Generation (Audio, Audio-Driven Holistic Body Driving)  【蚂蚁集团 】
 
