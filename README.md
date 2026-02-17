@@ -12,10 +12,10 @@
 <img src='https://img.shields.io/badge/TechRxiv-PDF-green?style=flat&logo=TechRxiv&logoColor=green' alt='TechRxiv PDF'>
 </a>
 <img src='https://img.shields.io/badge/Awesome Survey-8A2BE2' alt='Survey'>
-<img src='https://img.shields.io/badge/Related Work-498+ Papers and 65+ Datasets-blue' alt='MorePapers'>
+<img src='https://img.shields.io/badge/Related Work-500+ Papers and 65+ Datasets-blue' alt='MorePapers'>
 <br>
 <img src='https://img.shields.io/badge/Accepted by TPAMI-4BC88C' alt='under'>
-<img src='https://img.shields.io/badge/Update 🔥-2026.02.14-red' alt='MorePapers'>
+<img src='https://img.shields.io/badge/Update 🔥-2026.02.17-red' alt='MorePapers'>
 <a href='https://zhuanlan.zhihu.com/p/2672965087'>
 <img src='https://img.shields.io/badge/知乎-论文笔记-0084ff?style=flat&logo=zhihu&logoColor=yellow' alt='知乎文章'>
 </a>
@@ -202,7 +202,15 @@ Our paper has been accepted by TPAMI.🎉🎉🎉🎉🎉 Stay tuned for our upd
 
 ----
 
-**[2026/02/14] [V18.9 Vision](https://github.com/Winn1y/Awesome-Human-Motion-Video-Generation/): Update Methods.**
+**[2026/02/14] [V19.0 Vision](https://github.com/Winn1y/Awesome-Human-Motion-Video-Generation/): Update Methods.**
+
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2602.13669) EchoTorrent: Towards Swift, Sustained, and Streaming Multi-Modal Video Generation (Audio, Audio-Driven Holistic Body Driving)  【蚂蚁集团 】
+
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2602.14552) OmniVTON++: Training-Free Universal Virtual Try-On with Principal Pose Guidance (Visual, Try-On Video Generation)  【中国海洋大学、南京理工大学、新加坡管理大学、哈尔滨工业大学（深圳） 】
+
+----
+
+[2026/02/14] [V18.9 Vision](https://github.com/Winn1y/Awesome-Human-Motion-Video-Generation/tree/18.9): Update Methods.
 
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2602.12160) DreamID-Omni: Unified Framework for Controllable Human-Centric Audio-Video Generation (Audio, Audio-Driven Holistic Body Driving)  【清华大学、字节跳动智能创作实验室 】
 
