@@ -12,10 +12,10 @@
 <img src='https://img.shields.io/badge/TechRxiv-PDF-green?style=flat&logo=TechRxiv&logoColor=green' alt='TechRxiv PDF'>
 </a>
 <img src='https://img.shields.io/badge/Awesome Survey-8A2BE2' alt='Survey'>
-<img src='https://img.shields.io/badge/Related Work-501+ Papers and 65+ Datasets-blue' alt='MorePapers'>
+<img src='https://img.shields.io/badge/Related Work-503+ Papers and 65+ Datasets-blue' alt='MorePapers'>
 <br>
 <img src='https://img.shields.io/badge/Accepted by TPAMI-4BC88C' alt='under'>
-<img src='https://img.shields.io/badge/Update 🔥-2026.02.20-red' alt='MorePapers'>
+<img src='https://img.shields.io/badge/Update 🔥-2026.02.24-red' alt='MorePapers'>
 <a href='https://zhuanlan.zhihu.com/p/2672965087'>
 <img src='https://img.shields.io/badge/知乎-论文笔记-0084ff?style=flat&logo=zhihu&logoColor=yellow' alt='知乎文章'>
 </a>
@@ -202,8 +202,17 @@ Our paper has been accepted by TPAMI.🎉🎉🎉🎉🎉 Stay tuned for our upd
 
 ----
 
+**[2026/02/24] [V19.2 Vision](https://github.com/Winn1y/Awesome-Human-Motion-Video-Generation/): Update Methods.**
 
-**[2026/02/20] [V19.1 Vision](https://github.com/Winn1y/Awesome-Human-Motion-Video-Generation/): Update Methods.**
+
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2602.19900) ExpPortrait: Expressive Portrait Generation via Personalized Representation (Visual, Portrait Animation)  【中国科学技术大学 】
+
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2602.18618) Narrating For You: Prompt-guided Audio-visual Narrating Face Generation Employing Multi-entangled Latent Space (Audio, Head Pose Driving)  【印度比拉理工学院皮拉尼分校海德拉巴校区计算机科学与信息系统系机器智能组美国佐治亚理工学院 】
+
+
+----
+
+[2026/02/20] [V19.1 Vision](https://github.com/Winn1y/Awesome-Human-Motion-Video-Generation/tree/19.1): Update Methods.
 
 
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2602.17636) CORAL: Correspondence Alignment for Improved Virtual Try-On (Visual, Try-On Video Generation)  【KAIST 人工智能实验室、NC 人工智能有限公司 】
