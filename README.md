@@ -12,10 +12,10 @@
 <img src='https://img.shields.io/badge/TechRxiv-PDF-green?style=flat&logo=TechRxiv&logoColor=green' alt='TechRxiv PDF'>
 </a>
 <img src='https://img.shields.io/badge/Awesome Survey-8A2BE2' alt='Survey'>
-<img src='https://img.shields.io/badge/Related Work-507+ Papers and 65+ Datasets-blue' alt='MorePapers'>
+<img src='https://img.shields.io/badge/Related Work-512+ Papers and 65+ Datasets-blue' alt='MorePapers'>
 <br>
 <img src='https://img.shields.io/badge/Accepted by TPAMI-4BC88C' alt='under'>
-<img src='https://img.shields.io/badge/Update 🔥-2026.03.02-red' alt='MorePapers'>
+<img src='https://img.shields.io/badge/Update 🔥-2026.03.03-red' alt='MorePapers'>
 <a href='https://zhuanlan.zhihu.com/p/2672965087'>
 <img src='https://img.shields.io/badge/知乎-论文笔记-0084ff?style=flat&logo=zhihu&logoColor=yellow' alt='知乎文章'>
 </a>
@@ -203,7 +203,23 @@ Our paper has been accepted by TPAMI.🎉🎉🎉🎉🎉 Stay tuned for our upd
 ----
 
 
-**[2026/03/02] [V19.5 Vision](https://github.com/Winn1y/Awesome-Human-Motion-Video-Generation/): Update Methods.**
+
+**[2026/03/03] [V19.6 Vision](https://github.com/Winn1y/Awesome-Human-Motion-Video-Generation/): Update Methods.**
+
+
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2603.01418) UniTalking: A Unified Audio-Video Framework for Talking Portrait Generation (Audio, Head Pose Driving)  【华为中央媒体技术学院、北京航空航天大学计算机科学与工程学院 】
+
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2603.01000) Let Your Image Move with Your Motion! -- Implicit Multi-Object Multi-Motion Transfer (Text, Text2MotionVideo)  【天津大学、新南威尔士大学、电子科技大学、海南大学、奥克兰大学 】
+
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2603.00607) IdGlow: Dynamic Identity Modulation for Multi-Subject Generation (Text, Text2Face)  【小红书、香港中文大学（深圳）、北京大学、清华大学 】
+
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2603.00586) WildActor: Unconstrained Identity-Preserving Video Generation (Text, Text2MotionVideo)  【香港科技大学、美团、新加坡国立大学 】
+
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2603.00159) FlowPortrait: Reinforcement Learning for Audio-Driven Portrait Video Generation (Audio, Head Pose Driving)  【字节跳动 Seed、约翰斯・霍普金斯大学 】
+
+----
+
+[2026/03/02] [V19.5 Vision](https://github.com/Winn1y/Awesome-Human-Motion-Video-Generation/tree/19.5): Update Methods.
 
 
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2602.23739) U-Mind: A Unified Framework for Real-Time Multimodal Interaction with Audiovisual Generation (Audio, Audio-Driven Holistic Body Driving)  【清华大学、美团 】
