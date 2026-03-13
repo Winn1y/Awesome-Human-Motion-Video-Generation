@@ -12,10 +12,10 @@
 <img src='https://img.shields.io/badge/TechRxiv-PDF-green?style=flat&logo=TechRxiv&logoColor=green' alt='TechRxiv PDF'>
 </a>
 <img src='https://img.shields.io/badge/Awesome Survey-8A2BE2' alt='Survey'>
-<img src='https://img.shields.io/badge/Related Work-519+ Papers and 65+ Datasets-blue' alt='MorePapers'>
+<img src='https://img.shields.io/badge/Related Work-521+ Papers and 65+ Datasets-blue' alt='MorePapers'>
 <br>
 <img src='https://img.shields.io/badge/Accepted by TPAMI-4BC88C' alt='under'>
-<img src='https://img.shields.io/badge/Update 🔥-2026.03.11-red' alt='MorePapers'>
+<img src='https://img.shields.io/badge/Update 🔥-2026.03.13-red' alt='MorePapers'>
 <a href='https://zhuanlan.zhihu.com/p/2672965087'>
 <img src='https://img.shields.io/badge/知乎-论文笔记-0084ff?style=flat&logo=zhihu&logoColor=yellow' alt='知乎文章'>
 </a>
@@ -203,7 +203,16 @@ Our paper has been accepted by TPAMI.🎉🎉🎉🎉🎉 Stay tuned for our upd
 ----
 
 
-**[2026/03/11] [V20.1 Vision](https://github.com/Winn1y/Awesome-Human-Motion-Video-Generation/): Update Methods.**
+**[2026/03/13] [V20.2 Vision](https://github.com/Winn1y/Awesome-Human-Motion-Video-Generation/): Update Methods.**
+
+
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2603.10256) ID-LoRA: Identity-Driven Audio-Video Personalization with In-Context LoRA (Text, Text2MotionVideo)  【特拉维夫大学 】
+
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2603.11746) SoulX-LiveAct: Towards Hour-Scale Real-Time Human Animation with Neighbor Forcing and ConvKV Memory (Audio, Audio-Driven Holistic Body Driving)  【魂芯 AI 实验室、香港科技大学（广州）、苏州大学 】
+
+----
+
+[2026/03/11] [V20.1 Vision](https://github.com/Winn1y/Awesome-Human-Motion-Video-Generation/tree/20.1): Update Methods.
 
 
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2603.09883) DISPLAY: Directable Human-Object Interaction Video Generation via Sparse Motion Guidance and Multi-Task Auxiliary (Text, Text2MotionVideo)  【百度公司 】
