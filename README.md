@@ -12,10 +12,10 @@
 <img src='https://img.shields.io/badge/TechRxiv-PDF-green?style=flat&logo=TechRxiv&logoColor=green' alt='TechRxiv PDF'>
 </a>
 <img src='https://img.shields.io/badge/Awesome Survey-8A2BE2' alt='Survey'>
-<img src='https://img.shields.io/badge/Related Work-521+ Papers and 65+ Datasets-blue' alt='MorePapers'>
+<img src='https://img.shields.io/badge/Related Work-526+ Papers and 65+ Datasets-blue' alt='MorePapers'>
 <br>
 <img src='https://img.shields.io/badge/Accepted by TPAMI-4BC88C' alt='under'>
-<img src='https://img.shields.io/badge/Update 🔥-2026.03.13-red' alt='MorePapers'>
+<img src='https://img.shields.io/badge/Update 🔥-2026.03.20-red' alt='MorePapers'>
 <a href='https://zhuanlan.zhihu.com/p/2672965087'>
 <img src='https://img.shields.io/badge/知乎-论文笔记-0084ff?style=flat&logo=zhihu&logoColor=yellow' alt='知乎文章'>
 </a>
@@ -202,8 +202,24 @@ Our paper has been accepted by TPAMI.🎉🎉🎉🎉🎉 Stay tuned for our upd
 
 ----
 
+**[2026/03/20] [V20.3 Vision](https://github.com/Winn1y/Awesome-Human-Motion-Video-Generation/): Update Methods.**
 
-**[2026/03/13] [V20.2 Vision](https://github.com/Winn1y/Awesome-Human-Motion-Video-Generation/): Update Methods.**
+
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2603.15415) AnyCrowd: Instance-Isolated Identity-Pose Binding for Arbitrary Multi-Character Animation (Visual, Pose-Guided Dance Video Generation)  【穆罕默德・本・扎耶德人工智能大学（阿联酋）挪威北极大学（挪威特罗姆瑟大学）中山大学深圳校区 】
+
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2603.14794) Face-to-Face: A Video Dataset for Multi-Person Interaction Modeling (Audio, Audio-Driven Holistic Body Driving)  【约翰斯・霍普金斯大学 】
+
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2603.14686) MVHOI: Bridge Multi-view Condition to Complex Human-Object Interaction Video Reenactment via 3D Foundation Model (Visual, Pose2Video)  【澳大利亚国立大学、百度公司、中山大学、澳大利亚联邦科学与工业研究组织 】
+
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2603.14331) AvatarForcing: One-Step Streaming Talking Avatars via Local-Future Sliding-Window Denoising (Audio, Head Pose Driving)  【浙江大学北京邮电大学快手科技可灵团队清华大学 】
+
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2603.14153) Garments2Look: A Multi-Reference Dataset for High-Fidelity Outfit-Level Virtual Try-On with Clothing and Accessories (Visual, Try-On Video Generation)  【香港理工大学呼呼人工智能有限公司 】
+
+
+----
+
+
+[2026/03/13] [V20.2 Vision](https://github.com/Winn1y/Awesome-Human-Motion-Video-Generation/)tree/20.2: Update Methods.
 
 
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2603.10256) ID-LoRA: Identity-Driven Audio-Video Personalization with In-Context LoRA (Text, Text2MotionVideo)  【特拉维夫大学 】
