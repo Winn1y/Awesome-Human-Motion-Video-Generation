@@ -12,10 +12,10 @@
 <img src='https://img.shields.io/badge/TechRxiv-PDF-green?style=flat&logo=TechRxiv&logoColor=green' alt='TechRxiv PDF'>
 </a>
 <img src='https://img.shields.io/badge/Awesome Survey-8A2BE2' alt='Survey'>
-<img src='https://img.shields.io/badge/Related Work-528+ Papers and 65+ Datasets-blue' alt='MorePapers'>
+<img src='https://img.shields.io/badge/Related Work-533+ Papers and 65+ Datasets-blue' alt='MorePapers'>
 <br>
 <img src='https://img.shields.io/badge/Accepted by TPAMI-4BC88C' alt='under'>
-<img src='https://img.shields.io/badge/Update 🔥-2026.03.23-red' alt='MorePapers'>
+<img src='https://img.shields.io/badge/Update 🔥-2026.03.25-red' alt='MorePapers'>
 <a href='https://zhuanlan.zhihu.com/p/2672965087'>
 <img src='https://img.shields.io/badge/知乎-论文笔记-0084ff?style=flat&logo=zhihu&logoColor=yellow' alt='知乎文章'>
 </a>
@@ -202,7 +202,22 @@ Our paper has been accepted by TPAMI.🎉🎉🎉🎉🎉 Stay tuned for our upd
 
 ----
 
-**[2026/03/23] [V20.4 Vision](https://github.com/Winn1y/Awesome-Human-Motion-Video-Generation/): Update Methods.**
+**[2026/03/25] [V20.5 Vision](https://github.com/Winn1y/Awesome-Human-Motion-Video-Generation/): Update Methods.**
+
+
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2603.21986) Speed by Simplicity: A Single-Stream Architecture for Fast Audio-Video Generative Foundation Model (Text, Text2MotionVideo)  【上海交通大学 SII-GAIR 实验室、Sand.ai 】
+
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2603.21664) HumanOmni-Speaker: Identifying Who said What and When (Audio, Audio-Driven Holistic Body Driving)  【阿里巴巴集团通义实验室、深圳理工大学 】
+
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2603.21332) EmoTaG: Emotion-Aware Talking Head Synthesis on Gaussian Splatting with Few-Shot Personalization (Audio, Head Pose Driving)  【密歇根州立大学高通技术公司 】
+
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2603.21299) Identity-Consistent Video Generation under Large Facial-Angle Variations (Text, Text2MotionVideo)  【清华大学、百度公司、布里斯托大学、香港中文大学（深圳） 】
+
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2603.20307) EARTalking: End-to-end GPT-style Autoregressive Talking Head Synthesis with Frame-wise Control (Audio, Head Pose Driving)  【中国科学技术大学、科大讯飞、浙江大学 】
+
+----
+
+[2026/03/23] [V20.4 Vision](https://github.com/Winn1y/Awesome-Human-Motion-Video-Generation/tree/20.4): Update Methods.
 
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2603.19731) PerformRecast: Expression and Head Pose Disentanglement for Portrait Video Editing (Visual, Portrait Animation)  【虎鲸数字媒体与娱乐集团 】
 
