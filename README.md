@@ -12,7 +12,7 @@
 <img src='https://img.shields.io/badge/TechRxiv-PDF-green?style=flat&logo=TechRxiv&logoColor=green' alt='TechRxiv PDF'>
 </a>
 <img src='https://img.shields.io/badge/Awesome Survey-8A2BE2' alt='Survey'>
-<img src='https://img.shields.io/badge/Related Work-533+ Papers and 65+ Datasets-blue' alt='MorePapers'>
+<img src='https://img.shields.io/badge/Related Work-535+ Papers and 65+ Datasets-blue' alt='MorePapers'>
 <br>
 <img src='https://img.shields.io/badge/Accepted by TPAMI-4BC88C' alt='under'>
 <img src='https://img.shields.io/badge/Update 🔥-2026.03.25-red' alt='MorePapers'>
@@ -202,7 +202,18 @@ Our paper has been accepted by TPAMI.🎉🎉🎉🎉🎉 Stay tuned for our upd
 
 ----
 
-**[2026/03/25] [V20.5 Vision](https://github.com/Winn1y/Awesome-Human-Motion-Video-Generation/): Update Methods.**
+
+**[2026/03/25] [V20.6 Vision](https://github.com/Winn1y/Awesome-Human-Motion-Video-Generation/): Update Methods.**
+
+
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2603.23132) InterDyad: Interactive Dyadic Speech-to-Video Generation by Querying Intermediate Visual Guidance (Audio, Audio-Driven Holistic Body Driving)  【百度公司 】
+
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2603.23381) FG-Portrait: 3D Flow Guided Editable Portrait Animation (Visual, Portrait Animation)  【新加坡国立大学、华威大学、帝国理工学院、萨里大学 】
+
+----
+
+
+**[2026/03/24] [V20.5 Vision](https://github.com/Winn1y/Awesome-Human-Motion-Video-Generation/tree/20.5): Update Methods.**
 
 
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2603.21986) Speed by Simplicity: A Single-Stream Architecture for Fast Audio-Video Generative Foundation Model (Text, Text2MotionVideo)  【上海交通大学 SII-GAIR 实验室、Sand.ai 】
