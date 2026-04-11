@@ -12,10 +12,10 @@
 <img src='https://img.shields.io/badge/TechRxiv-PDF-green?style=flat&logo=TechRxiv&logoColor=green' alt='TechRxiv PDF'>
 </a>
 <img src='https://img.shields.io/badge/Awesome Survey-8A2BE2' alt='Survey'>
-<img src='https://img.shields.io/badge/Related Work-540+ Papers and 65+ Datasets-blue' alt='MorePapers'>
+<img src='https://img.shields.io/badge/Related Work-543+ Papers and 65+ Datasets-blue' alt='MorePapers'>
 <br>
 <img src='https://img.shields.io/badge/Accepted by TPAMI-4BC88C' alt='under'>
-<img src='https://img.shields.io/badge/Update 🔥-2026.04.08-red' alt='MorePapers'>
+<img src='https://img.shields.io/badge/Update 🔥-2026.04.11-red' alt='MorePapers'>
 <a href='https://zhuanlan.zhihu.com/p/2672965087'>
 <img src='https://img.shields.io/badge/知乎-论文笔记-0084ff?style=flat&logo=zhihu&logoColor=yellow' alt='知乎文章'>
 </a>
@@ -202,7 +202,17 @@ Our paper has been accepted by TPAMI.🎉🎉🎉🎉🎉 Stay tuned for our upd
 
 ----
 
-**[2026/04/08] [V20.9 Vision](https://github.com/Winn1y/Awesome-Human-Motion-Video-Generation/): Update Methods.**
+**[2026/04/11] [V21.0 Vision](https://github.com/Winn1y/Awesome-Human-Motion-Video-Generation/): Update Methods.**
+
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2604.08526) FIT: A Large-Scale Dataset for Fit-Aware Virtual Try-On (Visual, Try-On Video Generation)  【华盛顿大学；谷歌研究院 】
+
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2604.08405) SyncBreaker:Stage-Aware Multimodal Adversarial Attacks on Audio-Driven Talking Head Generation (Audio, Head Pose Driving)  【中国科大；北京工业大学 Wenli Zhang；Xianglong Shi；Sirui Zhao；Xinqi Chen；Guo Cheng；Yifan Xu；Tong Xu；Yong Liao 】
+
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2604.07786) Cross-Modal Emotion Transfer for Emotion Editing in Talking Face Video (Audio, Head Pose Driving)  【蔚山国立科学技术院（UNIST） 】
+
+----
+
+[2026/04/08] [V20.9 Vision](https://github.com/Winn1y/Awesome-Human-Motion-Video-Generation/tree/20.9): Update Methods.
 
 
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2604.03738) Rethinking Position Embedding as a Context Controller for Multi-Reference and Multi-Shot Video Generation (Visual, Pose2Video)  【武汉大学 】
