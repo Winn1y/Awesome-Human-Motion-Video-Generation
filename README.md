@@ -12,10 +12,10 @@
 <img src='https://img.shields.io/badge/TechRxiv-PDF-green?style=flat&logo=TechRxiv&logoColor=green' alt='TechRxiv PDF'>
 </a>
 <img src='https://img.shields.io/badge/Awesome Survey-8A2BE2' alt='Survey'>
-<img src='https://img.shields.io/badge/Related Work-544+ Papers and 65+ Datasets-blue' alt='MorePapers'>
+<img src='https://img.shields.io/badge/Related Work-545+ Papers and 65+ Datasets-blue' alt='MorePapers'>
 <br>
 <img src='https://img.shields.io/badge/Accepted by TPAMI-4BC88C' alt='under'>
-<img src='https://img.shields.io/badge/Update 🔥-2026.04.15-red' alt='MorePapers'>
+<img src='https://img.shields.io/badge/Update 🔥-2026.04.17-red' alt='MorePapers'>
 <a href='https://zhuanlan.zhihu.com/p/2672965087'>
 <img src='https://img.shields.io/badge/知乎-论文笔记-0084ff?style=flat&logo=zhihu&logoColor=yellow' alt='知乎文章'>
 </a>
@@ -202,7 +202,13 @@ Our paper has been accepted by TPAMI.🎉🎉🎉🎉🎉 Stay tuned for our upd
 
 ----
 
-**[2026/04/15] [V21.1 Vision](https://github.com/Winn1y/Awesome-Human-Motion-Video-Generation/): Update Methods.**
+**[2026/04/17] [V21.2 Vision](https://github.com/Winn1y/Awesome-Human-Motion-Video-Generation/): Update Methods.**
+
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2604.14580) TurboTalk: Progressive Distillation for One-Step Audio-Driven Talking Avatar Generation (Audio, Head Pose Driving)  【中科院自动化所（MAIS） 中科院大学 人工智能学院 美团 香港理工大学 中科院香港创新研究院CAIR（HKISI, CAS） 】
+
+----
+
+[2026/04/15] [V21.1 Vision](https://github.com/Winn1y/Awesome-Human-Motion-Video-Generation/tree/21.1): Update Methods.
 
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2604.11804) OmniShow: Unifying Multimodal Conditions for Human-Object Interaction Video Generation (Audio, Audio-Driven Holistic Body Driving)  【香港中文大学；字节跳动；莫纳什大学；香港大学 】
 
