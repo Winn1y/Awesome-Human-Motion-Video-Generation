@@ -12,10 +12,10 @@
 <img src='https://img.shields.io/badge/TechRxiv-PDF-green?style=flat&logo=TechRxiv&logoColor=green' alt='TechRxiv PDF'>
 </a>
 <img src='https://img.shields.io/badge/Awesome Survey-8A2BE2' alt='Survey'>
-<img src='https://img.shields.io/badge/Related Work-550+ Papers and 65+ Datasets-blue' alt='MorePapers'>
+<img src='https://img.shields.io/badge/Related Work-553+ Papers and 65+ Datasets-blue' alt='MorePapers'>
 <br>
 <img src='https://img.shields.io/badge/Accepted by TPAMI-4BC88C' alt='under'>
-<img src='https://img.shields.io/badge/Update 🔥-2026.04.22-red' alt='MorePapers'>
+<img src='https://img.shields.io/badge/Update 🔥-2026.04.28-red' alt='MorePapers'>
 <a href='https://zhuanlan.zhihu.com/p/2672965087'>
 <img src='https://img.shields.io/badge/知乎-论文笔记-0084ff?style=flat&logo=zhihu&logoColor=yellow' alt='知乎文章'>
 </a>
@@ -202,9 +202,18 @@ Our paper has been accepted by TPAMI.🎉🎉🎉🎉🎉 Stay tuned for our upd
 
 ----
 
+**[2026/04/28] [V21.5 Vision](https://github.com/Winn1y/Awesome-Human-Motion-Video-Generation/): Update Methods.**
 
 
-**[2026/04/22] [V21.4 Vision](https://github.com/Winn1y/Awesome-Human-Motion-Video-Generation/): Update Methods.**
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2604.23632) Hallo-Live: Real-Time Streaming Joint Audio-Video Avatar Generation with Asynchronous Dual-Stream and Human-Centric Preference Distillation (Text, Text2MotionVideo)  【上海创新研究院；复旦大学；中国科学技术大学；南京大学；百度 Chunyu Li；Jiaye Li；Ruiqiao Mei；Haoyuan Xia；Hao Zhu；Jingdong Wang；Siyu Zhu 】
+
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2604.23586) Talker-T2AV: Joint Talking Audio-Video Generation with Autoregressive Diffusion Modeling (Audio, Head Pose Driving)  【香港科技大学；独立研究者；浙江大学；新加坡国立大学；香港中文大学；北京大学 Zhen Ye；Xu Tan；Aoxiong Yin；Hongzhan Lin；Guangyan Zhang；Peiwen Sun；Yiming Li；Chi-Min Chan；Wei Ye；Shikun Zhang；Wei Xue 】
+
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2604.23325) EAD-Net: Emotion-Aware Talking Head Generation with Spatial Refinement and Temporal Coherence (Audio, Head Pose Driving)  【新疆大学 】
+
+----
+
+[2026/04/22] [V21.4 Vision](https://github.com/Winn1y/Awesome-Human-Motion-Video-Generation/tree/21.4): Update Methods.
 
 
 
