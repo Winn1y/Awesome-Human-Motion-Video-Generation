@@ -12,10 +12,10 @@
 <img src='https://img.shields.io/badge/TechRxiv-PDF-green?style=flat&logo=TechRxiv&logoColor=green' alt='TechRxiv PDF'>
 </a>
 <img src='https://img.shields.io/badge/Awesome Survey-8A2BE2' alt='Survey'>
-<img src='https://img.shields.io/badge/Related Work-569+ Papers and 65+ Datasets-blue' alt='MorePapers'>
+<img src='https://img.shields.io/badge/Related Work-572+ Papers and 65+ Datasets-blue' alt='MorePapers'>
 <br>
 <img src='https://img.shields.io/badge/Accepted by TPAMI-4BC88C' alt='under'>
-<img src='https://img.shields.io/badge/Update 🔥-2026.05.21-red' alt='MorePapers'>
+<img src='https://img.shields.io/badge/Update 🔥-2026.05.26-red' alt='MorePapers'>
 <a href='https://zhuanlan.zhihu.com/p/2672965087'>
 <img src='https://img.shields.io/badge/知乎-论文笔记-0084ff?style=flat&logo=zhihu&logoColor=yellow' alt='知乎文章'>
 </a>
@@ -202,7 +202,17 @@ Our paper has been accepted by TPAMI.🎉🎉🎉🎉🎉 Stay tuned for our upd
 
 ----
 
-**[2026/05/21] [V22.4 Vision](https://github.com/Winn1y/Awesome-Human-Motion-Video-Generation/): Update Methods.**
+**[2026/05/26] [V22.5 Vision](https://github.com/Winn1y/Awesome-Human-Motion-Video-Generation/): Update Methods.**
+
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2605.25659) StreamChar: Long-Horizon Streaming Character Audio-Video Generation with Decoupled Orchestration (Text, Text2MotionVideo)  【阿里巴巴通义实验室（阿里巴巴集团） Linrui Tian（林睿天，*共同一作）、Qi Wang（王琦，*共同一作）、Bang Zhang（张邦） 】
+
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2605.25488) Test-Time Self-Adaptive Conditioning for Stable Audio-Driven Talking-Head Generation (Audio, Head Pose Driving)  【新南威尔士大学（UNSW）商学院；格里菲斯大学工程与建成环境学院 Zhicheng Zhang；Lei Wang；Yu Zhang；Yongsheng Gao 】
+
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2605.24176) Loki: Representation over Architecture for Diffusion-Based Portrait Animation (Visual, Video-Guided Dance Video Generation)  【俄亥俄州立大学；中佛罗里达大学 】
+
+----
+
+[2026/05/21] [V22.4 Vision](https://github.com/Winn1y/Awesome-Human-Motion-Video-Generation/tree/22.4): Update Methods.
 
 
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2605.21431) iTryOn: Mastering Interactive Video Virtual Try-On with Spatial-Semantic Guidance (Visual, Try-On Video Generation)  【中山大学深圳校区 阿里巴巴淘天集团（淘宝天猫） 】
