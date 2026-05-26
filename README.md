@@ -204,7 +204,7 @@ Our paper has been accepted by TPAMI.🎉🎉🎉🎉🎉 Stay tuned for our upd
 
 **[2026/05/26] [V22.5 Vision](https://github.com/Winn1y/Awesome-Human-Motion-Video-Generation/): Update Methods.**
 
-[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2605.25659) StreamChar: Long-Horizon Streaming Character Audio-Video Generation with Decoupled Orchestration (Text, Text2MotionVideo)  【阿里巴巴通义实验室（阿里巴巴集团） Linrui Tian（林睿天，*共同一作）、Qi Wang（王琦，*共同一作）、Bang Zhang（张邦） 】
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2605.25659) StreamChar: Long-Horizon Streaming Character Audio-Video Generation with Decoupled Orchestration (Text, Text2MotionVideo)  【阿里巴巴通义实验室（阿里巴巴集团）  】
 
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2605.25488) Test-Time Self-Adaptive Conditioning for Stable Audio-Driven Talking-Head Generation (Audio, Head Pose Driving)  【新南威尔士大学（UNSW）商学院；格里菲斯大学工程与建成环境学院 Zhicheng Zhang；Lei Wang；Yu Zhang；Yongsheng Gao 】
 
