@@ -12,10 +12,10 @@
 <img src='https://img.shields.io/badge/TechRxiv-PDF-green?style=flat&logo=TechRxiv&logoColor=green' alt='TechRxiv PDF'>
 </a>
 <img src='https://img.shields.io/badge/Awesome Survey-8A2BE2' alt='Survey'>
-<img src='https://img.shields.io/badge/Related Work-572+ Papers and 65+ Datasets-blue' alt='MorePapers'>
+<img src='https://img.shields.io/badge/Related Work-574+ Papers and 65+ Datasets-blue' alt='MorePapers'>
 <br>
 <img src='https://img.shields.io/badge/Accepted by TPAMI-4BC88C' alt='under'>
-<img src='https://img.shields.io/badge/Update 🔥-2026.05.26-red' alt='MorePapers'>
+<img src='https://img.shields.io/badge/Update 🔥-2026.05.28-red' alt='MorePapers'>
 <a href='https://zhuanlan.zhihu.com/p/2672965087'>
 <img src='https://img.shields.io/badge/知乎-论文笔记-0084ff?style=flat&logo=zhihu&logoColor=yellow' alt='知乎文章'>
 </a>
@@ -202,7 +202,16 @@ Our paper has been accepted by TPAMI.🎉🎉🎉🎉🎉 Stay tuned for our upd
 
 ----
 
-**[2026/05/26] [V22.5 Vision](https://github.com/Winn1y/Awesome-Human-Motion-Video-Generation/): Update Methods.**
+**[2026/05/28] [V22.6 Vision](https://github.com/Winn1y/Awesome-Human-Motion-Video-Generation/): Update Methods.**
+
+
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2605.28811) HarmoVid: Relightful Video Portrait Harmonization (Visual, Pose2Video)  【北卡罗来纳大学教堂山分校；Adobe研究院 Jun Myeong Choi；Jae Shin Yoon；Luchao Qi；Roni Sengupta；Joon-Young Lee 】
+
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2605.28056) CogPortrait: Fine-Grained Eye-Region Control in Portrait Animation via Hierarchical Agent Planning (Audio, Head Pose Driving)  【哈尔滨工业大学；理想汽车；新南威尔士大学 He Feng；Yongjia Ma；Donglin Di；Lei Fan；Tonghua Su 】
+
+----
+
+[2026/05/26] [V22.5 Vision](https://github.com/Winn1y/Awesome-Human-Motion-Video-Generation/tree/22.5): Update Methods.
 
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2605.25659) StreamChar: Long-Horizon Streaming Character Audio-Video Generation with Decoupled Orchestration (Text, Text2MotionVideo)  【阿里巴巴通义实验室（阿里巴巴集团）  】
 
