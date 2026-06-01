@@ -12,10 +12,10 @@
 <img src='https://img.shields.io/badge/TechRxiv-PDF-green?style=flat&logo=TechRxiv&logoColor=green' alt='TechRxiv PDF'>
 </a>
 <img src='https://img.shields.io/badge/Awesome Survey-8A2BE2' alt='Survey'>
-<img src='https://img.shields.io/badge/Related Work-574+ Papers and 65+ Datasets-blue' alt='MorePapers'>
+<img src='https://img.shields.io/badge/Related Work-575+ Papers and 65+ Datasets-blue' alt='MorePapers'>
 <br>
 <img src='https://img.shields.io/badge/Accepted by TPAMI-4BC88C' alt='under'>
-<img src='https://img.shields.io/badge/Update 🔥-2026.05.28-red' alt='MorePapers'>
+<img src='https://img.shields.io/badge/Update 🔥-2026.06.01-red' alt='MorePapers'>
 <a href='https://zhuanlan.zhihu.com/p/2672965087'>
 <img src='https://img.shields.io/badge/知乎-论文笔记-0084ff?style=flat&logo=zhihu&logoColor=yellow' alt='知乎文章'>
 </a>
@@ -202,7 +202,15 @@ Our paper has been accepted by TPAMI.🎉🎉🎉🎉🎉 Stay tuned for our upd
 
 ----
 
-**[2026/05/28] [V22.6 Vision](https://github.com/Winn1y/Awesome-Human-Motion-Video-Generation/): Update Methods.**
+
+**[2026/06/01] [V22.7 Vision](https://github.com/Winn1y/Awesome-Human-Motion-Video-Generation/): Update Methods.**
+
+
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2605.30230) IP-Adapter Is All You Need: Towards Fine-Tuning-Free Diffusion-Based Talking Face Generation (Visual, Video-Guided Dance Video Generation)  【信息工程大学；淮安大学；重庆邮电大学；南开大学 】
+
+----
+
+[2026/05/28] [V22.6 Vision](https://github.com/Winn1y/Awesome-Human-Motion-Video-Generation/tree/22.6): Update Methods.
 
 
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2605.28811) HarmoVid: Relightful Video Portrait Harmonization (Visual, Pose2Video)  【北卡罗来纳大学教堂山分校；Adobe研究院 Jun Myeong Choi；Jae Shin Yoon；Luchao Qi；Roni Sengupta；Joon-Young Lee 】
