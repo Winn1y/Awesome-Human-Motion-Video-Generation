@@ -209,7 +209,7 @@ Our paper has been accepted by TPAMI.🎉🎉🎉🎉🎉 Stay tuned for our upd
 
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2606.01620) Real-Time Generation of Streamable Talking Portrait Video with Reference-Guided Deep Compression VAEs (Audio, Audio-Driven Holistic Body Driving)  【微软研究院；微软AI 】
 
-
+----
 
 [2026/06/01] [V22.7 Vision](https://github.com/Winn1y/Awesome-Human-Motion-Video-Generation/tree/22.7): Update Methods.
 
