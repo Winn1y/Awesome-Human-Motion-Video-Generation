@@ -12,10 +12,10 @@
 <img src='https://img.shields.io/badge/TechRxiv-PDF-green?style=flat&logo=TechRxiv&logoColor=green' alt='TechRxiv PDF'>
 </a>
 <img src='https://img.shields.io/badge/Awesome Survey-8A2BE2' alt='Survey'>
-<img src='https://img.shields.io/badge/Related Work-575+ Papers and 65+ Datasets-blue' alt='MorePapers'>
+<img src='https://img.shields.io/badge/Related Work-577+ Papers and 65+ Datasets-blue' alt='MorePapers'>
 <br>
 <img src='https://img.shields.io/badge/Accepted by TPAMI-4BC88C' alt='under'>
-<img src='https://img.shields.io/badge/Update 🔥-2026.06.01-red' alt='MorePapers'>
+<img src='https://img.shields.io/badge/Update 🔥-2026.06.02-red' alt='MorePapers'>
 <a href='https://zhuanlan.zhihu.com/p/2672965087'>
 <img src='https://img.shields.io/badge/知乎-论文笔记-0084ff?style=flat&logo=zhihu&logoColor=yellow' alt='知乎文章'>
 </a>
@@ -202,8 +202,16 @@ Our paper has been accepted by TPAMI.🎉🎉🎉🎉🎉 Stay tuned for our upd
 
 ----
 
+**[2026/06/02] [V22.8 Vision](https://github.com/Winn1y/Awesome-Human-Motion-Video-Generation/): Update Methods.**
 
-**[2026/06/01] [V22.7 Vision](https://github.com/Winn1y/Awesome-Human-Motion-Video-Generation/): Update Methods.**
+
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2606.01031) Temporally-Aligned Evaluation for Audio-Driven Talking Head Generation (Audio, Head Pose Driving)  【新南威尔士大学（UNSW）商学院；格里菲斯大学工程与建筑环境学院；CSIRO Data61 Zhicheng Zhang；Lei Wang；Yu Zhang；Yongsheng Gao 】
+
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2606.01620) Real-Time Generation of Streamable Talking Portrait Video with Reference-Guided Deep Compression VAEs (Audio, Audio-Driven Holistic Body Driving)  【微软研究院；微软AI 】
+
+
+
+[2026/06/01] [V22.7 Vision](https://github.com/Winn1y/Awesome-Human-Motion-Video-Generation/tree/22.7): Update Methods.
 
 
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2605.30230) IP-Adapter Is All You Need: Towards Fine-Tuning-Free Diffusion-Based Talking Face Generation (Visual, Video-Guided Dance Video Generation)  【信息工程大学；淮安大学；重庆邮电大学；南开大学 】
