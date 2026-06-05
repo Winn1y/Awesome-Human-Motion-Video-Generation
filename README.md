@@ -12,10 +12,10 @@
 <img src='https://img.shields.io/badge/TechRxiv-PDF-green?style=flat&logo=TechRxiv&logoColor=green' alt='TechRxiv PDF'>
 </a>
 <img src='https://img.shields.io/badge/Awesome Survey-8A2BE2' alt='Survey'>
-<img src='https://img.shields.io/badge/Related Work-577+ Papers and 65+ Datasets-blue' alt='MorePapers'>
+<img src='https://img.shields.io/badge/Related Work-578+ Papers and 65+ Datasets-blue' alt='MorePapers'>
 <br>
 <img src='https://img.shields.io/badge/Accepted by TPAMI-4BC88C' alt='under'>
-<img src='https://img.shields.io/badge/Update 🔥-2026.06.02-red' alt='MorePapers'>
+<img src='https://img.shields.io/badge/Update 🔥-2026.06.05-red' alt='MorePapers'>
 <a href='https://zhuanlan.zhihu.com/p/2672965087'>
 <img src='https://img.shields.io/badge/知乎-论文笔记-0084ff?style=flat&logo=zhihu&logoColor=yellow' alt='知乎文章'>
 </a>
@@ -202,7 +202,14 @@ Our paper has been accepted by TPAMI.🎉🎉🎉🎉🎉 Stay tuned for our upd
 
 ----
 
-**[2026/06/02] [V22.8 Vision](https://github.com/Winn1y/Awesome-Human-Motion-Video-Generation/): Update Methods.**
+**[2026/06/05] [V22.9 Vision](https://github.com/Winn1y/Awesome-Human-Motion-Video-Generation/): Update Methods.**
+
+
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2606.05896) Resonant Minds: Closed-Loop Social Avatars with Theory of Mind (Audio, Head Pose Driving)  【华盛顿大学；北京大学；卡内基梅隆大学；宁波东方理工（EIT宁波） 】
+
+----
+
+[2026/06/02] [V22.8 Vision](https://github.com/Winn1y/Awesome-Human-Motion-Video-Generation/tree/22.8): Update Methods.
 
 
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2606.01031) Temporally-Aligned Evaluation for Audio-Driven Talking Head Generation (Audio, Head Pose Driving)  【新南威尔士大学（UNSW）商学院；格里菲斯大学工程与建筑环境学院；CSIRO Data61 Zhicheng Zhang；Lei Wang；Yu Zhang；Yongsheng Gao 】
