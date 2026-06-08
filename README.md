@@ -12,10 +12,10 @@
 <img src='https://img.shields.io/badge/TechRxiv-PDF-green?style=flat&logo=TechRxiv&logoColor=green' alt='TechRxiv PDF'>
 </a>
 <img src='https://img.shields.io/badge/Awesome Survey-8A2BE2' alt='Survey'>
-<img src='https://img.shields.io/badge/Related Work-578+ Papers and 65+ Datasets-blue' alt='MorePapers'>
+<img src='https://img.shields.io/badge/Related Work-580+ Papers and 65+ Datasets-blue' alt='MorePapers'>
 <br>
 <img src='https://img.shields.io/badge/Accepted by TPAMI-4BC88C' alt='under'>
-<img src='https://img.shields.io/badge/Update 🔥-2026.06.05-red' alt='MorePapers'>
+<img src='https://img.shields.io/badge/Update 🔥-2026.06.08-red' alt='MorePapers'>
 <a href='https://zhuanlan.zhihu.com/p/2672965087'>
 <img src='https://img.shields.io/badge/知乎-论文笔记-0084ff?style=flat&logo=zhihu&logoColor=yellow' alt='知乎文章'>
 </a>
@@ -202,7 +202,16 @@ Our paper has been accepted by TPAMI.🎉🎉🎉🎉🎉 Stay tuned for our upd
 
 ----
 
-**[2026/06/05] [V22.9 Vision](https://github.com/Winn1y/Awesome-Human-Motion-Video-Generation/): Update Methods.**
+**[2026/06/08] [V23.0 Vision](https://github.com/Winn1y/Awesome-Human-Motion-Video-Generation/): Update Methods.**
+
+
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2606.06903) Beyond Skeletons: Learning Animation Directly from Driving Videos with Same2X Training Strategy (Visual, Video-Guided Dance Video Generation)  【清华大学；哈尔滨工业大学；鹏城实验室 Yuan Zeng；Yujia Shi；Yuhao Yang；Dongxia Liu；Zongqing Lu；Wenming Yang；Qingmin Liao 】
+
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2606.06885) FreeAnimate: Training-Free Human Image Animation with Preview-Guided Denoising (Visual, Pose-Guided Dance Video Generation)  【清华大学深圳国际研究生院；哈工大；鹏城实验室 】
+
+----
+
+[2026/06/05] [V22.9 Vision](https://github.com/Winn1y/Awesome-Human-Motion-Video-Generation/tree/22.9): Update Methods.
 
 
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2606.05896) Resonant Minds: Closed-Loop Social Avatars with Theory of Mind (Audio, Head Pose Driving)  【华盛顿大学；北京大学；卡内基梅隆大学；宁波东方理工（EIT宁波） 】
