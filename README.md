@@ -205,11 +205,11 @@ Our paper has been accepted by TPAMI.🎉🎉🎉🎉🎉 Stay tuned for our upd
 **[2026/06/10] [V23.1 Vision](https://github.com/Winn1y/Awesome-Human-Motion-Video-Generation/): Update Methods.**
 
 
-[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2606.11180) Lip Forcing: Few-Step Autoregressive Diffusion for Real-time Lip Synchronization (Audio, Head Pose Driving)  【韩国科院AI、AIPARK。[1] Paul Hyunbin Cho，Jinhyuk Jang，SeokYoung Lee，Joungbin Lee，Siyoon Jin，Heeseong Shin，Jung Yi，Yunjin Park，Chulmin Park，Seungryong Kim。[1] 】
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2606.11180) Lip Forcing: Few-Step Autoregressive Diffusion for Real-time Lip Synchronization (Audio, Head Pose Driving)  【韩国科院AI、AIPARK】
 
-[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2606.10839) HarmoView: Harmonizing Multi-View Constraints for Identity-Consistent Video Generation (Text, Text2MotionVideo)  【腾讯混元。[2] Cong Wang，Zhentao Yu，Hongmei Wang，Weicong Liang，Zixiang Zhou，Zilin Yang，Jiarong Ou，Rui Chen，Yuan Zhou，Qinglin Lu。[1][2] 】
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2606.10839) HarmoView: Harmonizing Multi-View Constraints for Identity-Consistent Video Generation (Text, Text2MotionVideo)  【腾讯混元。】
 
-[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2606.10804) SCAIL-2: Unifying Controlled Character Animation with End-to-end In-Context Conditioning (Text, Text2MotionVideo)  【清华、智谱[3][4] 】
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2606.10804) SCAIL-2: Unifying Controlled Character Animation with End-to-end In-Context Conditioning (Text, Text2MotionVideo)  【清华、智谱】
 
 
 ----
