@@ -12,10 +12,10 @@
 <img src='https://img.shields.io/badge/TechRxiv-PDF-green?style=flat&logo=TechRxiv&logoColor=green' alt='TechRxiv PDF'>
 </a>
 <img src='https://img.shields.io/badge/Awesome Survey-8A2BE2' alt='Survey'>
-<img src='https://img.shields.io/badge/Related Work-587+ Papers and 65+ Datasets-blue' alt='MorePapers'>
+<img src='https://img.shields.io/badge/Related Work-589+ Papers and 65+ Datasets-blue' alt='MorePapers'>
 <br>
 <img src='https://img.shields.io/badge/Accepted by TPAMI-4BC88C' alt='under'>
-<img src='https://img.shields.io/badge/Update 🔥-2026.06.23-red' alt='MorePapers'>
+<img src='https://img.shields.io/badge/Update 🔥-2026.06.26-red' alt='MorePapers'>
 <a href='https://zhuanlan.zhihu.com/p/2672965087'>
 <img src='https://img.shields.io/badge/知乎-论文笔记-0084ff?style=flat&logo=zhihu&logoColor=yellow' alt='知乎文章'>
 </a>
@@ -202,8 +202,16 @@ Our paper has been accepted by TPAMI.🎉🎉🎉🎉🎉 Stay tuned for our upd
 
 ----
 
+**[2026/06/26] [V23.4 Vision](https://github.com/Winn1y/Awesome-Human-Motion-Video-Generation/): Update Methods.**
 
-**[2026/06/23] [V23.3 Vision](https://github.com/Winn1y/Awesome-Human-Motion-Video-Generation/): Update Methods.**
+
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2606.25041) Wan-Streamer v0.1: End-to-end Real-time Interactive Foundation Models (Audio, Audio-Driven Holistic Body Driving)  【阿里巴巴集团（Wan Team）】
+
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2606.25040) Chorus II: Cross-Request Sparsity Reuse for Efficient Image-to-Video Generation (Text, Text2MotionVideo)  【中山大学；腾讯微信HPC；腾讯微信视觉。】
+
+----
+
+[2026/06/23] [V23.3 Vision](https://github.com/Winn1y/Awesome-Human-Motion-Video-Generation/tree/23.3): Update Methods.
 
 
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2606.13872) Avatar V: Scaling Video-Reference Avatar Video Generation (Audio, Audio-Driven Holistic Body Driving)  【HeyGen研究团队。】
