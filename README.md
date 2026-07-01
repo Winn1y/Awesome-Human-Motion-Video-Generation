@@ -12,10 +12,10 @@
 <img src='https://img.shields.io/badge/TechRxiv-PDF-green?style=flat&logo=TechRxiv&logoColor=green' alt='TechRxiv PDF'>
 </a>
 <img src='https://img.shields.io/badge/Awesome Survey-8A2BE2' alt='Survey'>
-<img src='https://img.shields.io/badge/Related Work-589+ Papers and 65+ Datasets-blue' alt='MorePapers'>
+<img src='https://img.shields.io/badge/Related Work-591+ Papers and 65+ Datasets-blue' alt='MorePapers'>
 <br>
 <img src='https://img.shields.io/badge/Accepted by TPAMI-4BC88C' alt='under'>
-<img src='https://img.shields.io/badge/Update 🔥-2026.06.26-red' alt='MorePapers'>
+<img src='https://img.shields.io/badge/Update 🔥-2026.07.01-red' alt='MorePapers'>
 <a href='https://zhuanlan.zhihu.com/p/2672965087'>
 <img src='https://img.shields.io/badge/知乎-论文笔记-0084ff?style=flat&logo=zhihu&logoColor=yellow' alt='知乎文章'>
 </a>
@@ -202,7 +202,15 @@ Our paper has been accepted by TPAMI.🎉🎉🎉🎉🎉 Stay tuned for our upd
 
 ----
 
-**[2026/06/26] [V23.4 Vision](https://github.com/Winn1y/Awesome-Human-Motion-Video-Generation/): Update Methods.**
+**[2026/07/01] [V23.5 Vision](https://github.com/Winn1y/Awesome-Human-Motion-Video-Generation/): Update Methods.**
+
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2606.30849) SyncCache: Exploiting Asymmetric Dynamics for Fast Audio-Driven Portrait Animation (Audio, Audio-Driven Holistic Body Driving)  【北大深研院、上海AI实验室、腾讯混元、vivo】
+
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2606.31088) Towards Flexible, Natural, Efficient Interaction for Conversational Talking Face Generation (Audio, Audio-Driven Holistic Body Driving)  【中科院自动化所（MAIS） 国科大人工智能学院 中科院香港创新研究院人工智能与机器人中心（CAIR） 澳门科技大学（M.U.S.T）计算机科学与工程学院/信息工程学院（SCSE/FIE）】
+
+----
+
+[2026/06/26] [V23.4 Vision](https://github.com/Winn1y/Awesome-Human-Motion-Video-Generation/tree/23.4): Update Methods.
 
 
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2606.25041) Wan-Streamer v0.1: End-to-end Real-time Interactive Foundation Models (Audio, Audio-Driven Holistic Body Driving)  【阿里巴巴集团（Wan Team）】
