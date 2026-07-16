@@ -12,10 +12,10 @@
 <img src='https://img.shields.io/badge/TechRxiv-PDF-green?style=flat&logo=TechRxiv&logoColor=green' alt='TechRxiv PDF'>
 </a>
 <img src='https://img.shields.io/badge/Awesome Survey-8A2BE2' alt='Survey'>
-<img src='https://img.shields.io/badge/Related Work-596+ Papers and 65+ Datasets-blue' alt='MorePapers'>
+<img src='https://img.shields.io/badge/Related Work-597+ Papers and 65+ Datasets-blue' alt='MorePapers'>
 <br>
 <img src='https://img.shields.io/badge/Accepted by TPAMI-4BC88C' alt='under'>
-<img src='https://img.shields.io/badge/Update 🔥-2026.07.08-red' alt='MorePapers'>
+<img src='https://img.shields.io/badge/Update 🔥-2026.07.16-red' alt='MorePapers'>
 <a href='https://zhuanlan.zhihu.com/p/2672965087'>
 <img src='https://img.shields.io/badge/知乎-论文笔记-0084ff?style=flat&logo=zhihu&logoColor=yellow' alt='知乎文章'>
 </a>
@@ -202,7 +202,13 @@ Our paper has been accepted by TPAMI.🎉🎉🎉🎉🎉 Stay tuned for our upd
 
 ----
 
-**[2026/07/08] [V23.7 Vision](https://github.com/Winn1y/Awesome-Human-Motion-Video-Generation/): Update Methods.**
+**[2026/07/16] [V23.8 Vision](https://github.com/Winn1y/Awesome-Human-Motion-Video-Generation/): Update Methods.**
+
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2607.13415) MultiAnimate: A Unified Framework for Controllable Multi-Character Animation (Visual, Pose-Guided Dance Video Generation)  【中科大、阿里通义实验室、南洋理工大学】
+
+----
+
+[2026/07/08] [V23.7 Vision](https://github.com/Winn1y/Awesome-Human-Motion-Video-Generation/tree/23.7): Update Methods.
 
 
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2607.04311) Aura: Consistent Multi-Subject Video Generation via VLM-Grounded Semantic Alignment (Text, Text2MotionVideo)  【腾讯混元】
