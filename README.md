@@ -12,10 +12,10 @@
 <img src='https://img.shields.io/badge/TechRxiv-PDF-green?style=flat&logo=TechRxiv&logoColor=green' alt='TechRxiv PDF'>
 </a>
 <img src='https://img.shields.io/badge/Awesome Survey-8A2BE2' alt='Survey'>
-<img src='https://img.shields.io/badge/Related Work-598+ Papers and 65+ Datasets-blue' alt='MorePapers'>
+<img src='https://img.shields.io/badge/Related Work-599+ Papers and 65+ Datasets-blue' alt='MorePapers'>
 <br>
 <img src='https://img.shields.io/badge/Accepted by TPAMI-4BC88C' alt='under'>
-<img src='https://img.shields.io/badge/Update 🔥-2026.07.20-red' alt='MorePapers'>
+<img src='https://img.shields.io/badge/Update 🔥-2026.07.21-red' alt='MorePapers'>
 <a href='https://zhuanlan.zhihu.com/p/2672965087'>
 <img src='https://img.shields.io/badge/知乎-论文笔记-0084ff?style=flat&logo=zhihu&logoColor=yellow' alt='知乎文章'>
 </a>
@@ -202,7 +202,13 @@ Our paper has been accepted by TPAMI.🎉🎉🎉🎉🎉 Stay tuned for our upd
 
 ----
 
-**[2026/07/16] [V23.9 Vision](https://github.com/Winn1y/Awesome-Human-Motion-Video-Generation/): Update Methods.**
+**[2026/07/16] [V24.0 Vision](https://github.com/Winn1y/Awesome-Human-Motion-Video-Generation/): Update Methods.**
+
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2607.17985) Keyframe-Anchored Identity Preservation for Sequential-Action Video Generation (Text, Text2MotionVideo)  【中科大】
+
+----
+
+[2026/07/16] [V23.9 Vision](https://github.com/Winn1y/Awesome-Human-Motion-Video-Generation/tree/23.9): Update Methods.
 
 
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2607.15772) SlotMem: Character-Addressable Internal Memory for Narrative Long Video Generation (Text, Text2MotionVideo)  【港大、清华】
