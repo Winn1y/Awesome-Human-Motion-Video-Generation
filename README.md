@@ -12,10 +12,10 @@
 <img src='https://img.shields.io/badge/TechRxiv-PDF-green?style=flat&logo=TechRxiv&logoColor=green' alt='TechRxiv PDF'>
 </a>
 <img src='https://img.shields.io/badge/Awesome Survey-8A2BE2' alt='Survey'>
-<img src='https://img.shields.io/badge/Related Work-602+ Papers and 65+ Datasets-blue' alt='MorePapers'>
+<img src='https://img.shields.io/badge/Related Work-609+ Papers and 65+ Datasets-blue' alt='MorePapers'>
 <br>
 <img src='https://img.shields.io/badge/Accepted by TPAMI-4BC88C' alt='under'>
-<img src='https://img.shields.io/badge/Update 🔥-2026.07.24-red' alt='MorePapers'>
+<img src='https://img.shields.io/badge/Update 🔥-2026.08.03-red' alt='MorePapers'>
 <a href='https://zhuanlan.zhihu.com/p/2672965087'>
 <img src='https://img.shields.io/badge/知乎-论文笔记-0084ff?style=flat&logo=zhihu&logoColor=yellow' alt='知乎文章'>
 </a>
@@ -202,7 +202,25 @@ Our paper has been accepted by TPAMI.🎉🎉🎉🎉🎉 Stay tuned for our upd
 
 ----
 
-**[2026/07/24] [V24.2 Vision](https://github.com/Winn1y/Awesome-Human-Motion-Video-Generation/): Update Methods.**
+**[2026/08/03] [V24.3 Vision](https://github.com/Winn1y/Awesome-Human-Motion-Video-Generation/): Update Methods.**
+
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2607.22241) AgentHOI: Multi-Agent Reasoning for Human-Object-Interaction Video Generation via Implicit Representation Alignment (Text, Text2MotionVideo)  【国科大、腾讯混】
+
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2607.24359) TaoMate: Anchor-Guided Memory Bridging Evolving and Reference States for Real-Time Audio-Video Digital Human Generation (Text, Text2MotionVideo)  【阿里淘天集团；南京大学】
+
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2607.24124) ViDS: Video Diffusion Shader using 3D Face Tracking (Text, Text2MotionVideo)  【慕尼黑工大、丰田欧洲、丰田Woven】
+
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2607.24013) AptAvatar: Fast and Vivid Long-Form Audio-Driven Video Generation for Production-Ready Avatars (Audio, Audio-Driven Holistic Body Driving)  【阿里巴巴集团、淘天集团】
+
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2607.23517) Real-Time Human-Centric World Modeling for Upper-Body Human-Object Interaction (Visual, Pose-Guided Dance Video Generation)  【通义实验室】
+
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2607.22830) ID-V2V: Identity-Preserving Video Restylization (Visual, Video-Guided Dance Video Generation)  【奈飞、奥多比、Eyeline】
+
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2607.23023) OmniMate: Open-Ended Real-Time Streaming Audio-Visual Generation for Interactive Avatars (Audio, Audio-Driven Holistic Body Driving)  【西安交大、中国电信人工智能公司、中科院深圳先进院】
+
+----
+
+[2026/07/24] [V24.2 Vision](https://github.com/Winn1y/Awesome-Human-Motion-Video-Generation/tree/24.2): Update Methods.
 
 
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2607.21027) GroupVideo: Multi-Identity Customized Text-to-Video Generation (Text, Text2MotionVideo)  【中科院大学、中科院自动化所、蚂蚁集团】
