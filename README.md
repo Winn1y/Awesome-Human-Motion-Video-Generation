@@ -12,10 +12,10 @@
 <img src='https://img.shields.io/badge/TechRxiv-PDF-green?style=flat&logo=TechRxiv&logoColor=green' alt='TechRxiv PDF'>
 </a>
 <img src='https://img.shields.io/badge/Awesome Survey-8A2BE2' alt='Survey'>
-<img src='https://img.shields.io/badge/Related Work-609+ Papers and 65+ Datasets-blue' alt='MorePapers'>
+<img src='https://img.shields.io/badge/Related Work-614+ Papers and 65+ Datasets-blue' alt='MorePapers'>
 <br>
 <img src='https://img.shields.io/badge/Accepted by TPAMI-4BC88C' alt='under'>
-<img src='https://img.shields.io/badge/Update 🔥-2026.08.03-red' alt='MorePapers'>
+<img src='https://img.shields.io/badge/Update 🔥-2026.08.04-red' alt='MorePapers'>
 <a href='https://zhuanlan.zhihu.com/p/2672965087'>
 <img src='https://img.shields.io/badge/知乎-论文笔记-0084ff?style=flat&logo=zhihu&logoColor=yellow' alt='知乎文章'>
 </a>
@@ -202,7 +202,21 @@ Our paper has been accepted by TPAMI.🎉🎉🎉🎉🎉 Stay tuned for our upd
 
 ----
 
-**[2026/08/03] [V24.3 Vision](https://github.com/Winn1y/Awesome-Human-Motion-Video-Generation/): Update Methods.**
+**[2026/08/04] [V24.4 Vision](https://github.com/Winn1y/Awesome-Human-Motion-Video-Generation/): Update Methods.**
+
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2608.01157) InteracVid: Building a Real Interactive Audio-Visual Response Dataset from Live-Chat Videos (Audio, Audio-Driven Holistic Body Driving)  【清华大学人工智能学院】
+
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2608.01944) UniMoCa: Unifying Motion and Camera Controls as Visual Proxies for Faithful Human Video Generation (Visual, Pose-Guided Dance Video Generation)  【上海交通大学；南加州大学-上海交通大学文化创意产业学院；莫纳什大学】
+
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2608.01978) Proxy Avatar Meets Low-Rank Caching: Real-Time One-Shot Emotion-Controllable Portrait Animation (Audio, Head Pose Driving)  【南京理工大学；钱塘先进研究院；北京大学；南京大学 】
+
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2608.00079) LeapTalk: Breaking the Latency-Quality Trade-off in Talking Head Generation (Audio, Head Pose Driving)  【上海交大（人工智能学院）；哈工大】
+
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2608.00663) Geometry-guided Emotion Modulation for Controllable and Photorealistic Emotional Talking Face Generation (Audio, Head Pose Driving)  【浙江大学软件学院 浙江大学计算机科学与技术学院 浙江大学宁波全球创新中心】
+
+----
+
+[2026/08/03] [V24.3 Vision](https://github.com/Winn1y/Awesome-Human-Motion-Video-Generation/tree/24.3): Update Methods.
 
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2607.22241) AgentHOI: Multi-Agent Reasoning for Human-Object-Interaction Video Generation via Implicit Representation Alignment (Text, Text2MotionVideo)  【国科大、腾讯混】
 
