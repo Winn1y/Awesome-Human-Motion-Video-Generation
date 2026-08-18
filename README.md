@@ -12,10 +12,10 @@
 <img src='https://img.shields.io/badge/TechRxiv-PDF-green?style=flat&logo=TechRxiv&logoColor=green' alt='TechRxiv PDF'>
 </a>
 <img src='https://img.shields.io/badge/Awesome Survey-8A2BE2' alt='Survey'>
-<img src='https://img.shields.io/badge/Related Work-67+ Papers and 65+ Datasets-blue' alt='MorePapers'>
+<img src='https://img.shields.io/badge/Related Work-699+ Papers and 65+ Datasets-blue' alt='MorePapers'>
 <br>
 <img src='https://img.shields.io/badge/Accepted by TPAMI-4BC88C' alt='under'>
-<img src='https://img.shields.io/badge/Update 🔥-2026.08.07-red' alt='MorePapers'>
+<img src='https://img.shields.io/badge/Update 🔥-2026.08.18-red' alt='MorePapers'>
 <a href='https://zhuanlan.zhihu.com/p/2672965087'>
 <img src='https://img.shields.io/badge/知乎-论文笔记-0084ff?style=flat&logo=zhihu&logoColor=yellow' alt='知乎文章'>
 </a>
@@ -202,7 +202,32 @@ Our paper has been accepted by TPAMI.🎉🎉🎉🎉🎉 Stay tuned for our upd
 
 ----
 
-**[2026/08/07] [V24.5 Vision](https://github.com/Winn1y/Awesome-Human-Motion-Video-Generation/): Update Methods.**
+**[2026/08/18] [V24.6 Vision](https://github.com/Winn1y/Awesome-Human-Motion-Video-Generation/): Update Methods.**
+
+
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2608.10720) Ex-Omni-2D: Expressive Omni-Modal Dialogue Models with Native Visual Presence (Audio, Audio-Driven Holistic Body Driving)  【港中深、LIGHTSPEED】
+
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2608.12107) Avatar-Forever: Decoupled Parallel Training for High-Quality Real-Time Infinite Avatars (Audio, Audio-Driven Holistic Body Driving)  【港理工、字节跳动、AMD】
+
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2608.11752) UniSwap: Streaming Audio-Visual Identity Swapping for Talking Videos (Audio, Audio-Driven Holistic Body Driving)  【香港中文大学、阿里巴巴通义应用事业部】
+
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2608.11745) LiveAnimate: Stable Long-Form Streaming Human Animation in Real-Time (Audio, Audio-Driven Holistic Body Driving)  【港中大、阿里通义应用事业部、Liblib AI】
+
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2608.13602) Omni-LiveAvatar: Minute-Level Real-Time Streaming Joint Audio-Video Avatar Generation (Audio, Audio-Driven Holistic Body Driving)  【港科大、Vivix集团】
+
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2608.14070) InstructVVT: Instruction-Driven Video Virtual Try-On without Auxiliary Spatial Priors (Visual, Try-On Video Generation)  
+
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2608.16154) KeyID: Decoupled Drafting and Keyframe Editing for Identity-Preserving Video Generation (Text, Text2MotionVideo)  【广东工业大学】
+
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2608.15818) FlowDance: Music-Driven Dance Video Generation with Parallel Pose and RGB Streams (Audio, Audio-Driven Holistic Body Driving)  【北邮（人工智能学院）；北京智源；北大（软件与微电子学院）】
+
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2608.16220) SingDance: Compositional Zero-Shot Singing-and-Dancing Video Generation with Role-Aware Audio Conditioning (Audio, Audio-Driven Holistic Body Driving)  【快手科技（Kling 团队） 香港科技大学 清华大学】
+
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2608.14700) Xemo-Talker: Unlock Emotions Explicitly for Audio-Driven Talking Portrait Synthesis (Audio, Head Pose Driving)  【利物浦大学；西交利物浦大学；昆山杜克大学；卡内基梅隆大学；蚂蚁集团；平安科技；理光软件研究中心】
+
+----
+
+[2026/08/07] [V24.5 Vision](https://github.com/Winn1y/Awesome-Human-Motion-Video-Generation/tree/24.5): Update Methods.
 
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2608.05663) Vorch-Streamer: Extending Human Audio-Visual Generation to Real-Time Long-Form Streaming (Text, Text2MotionVideo)  【Vorch团队、同济、哈工大（深圳）、上交】
 
