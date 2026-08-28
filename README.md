@@ -12,10 +12,10 @@
 <img src='https://img.shields.io/badge/TechRxiv-PDF-green?style=flat&logo=TechRxiv&logoColor=green' alt='TechRxiv PDF'>
 </a>
 <img src='https://img.shields.io/badge/Awesome Survey-8A2BE2' alt='Survey'>
-<img src='https://img.shields.io/badge/Related Work-702+ Papers and 65+ Datasets-blue' alt='MorePapers'>
+<img src='https://img.shields.io/badge/Related Work-705+ Papers and 65+ Datasets-blue' alt='MorePapers'>
 <br>
 <img src='https://img.shields.io/badge/Accepted by TPAMI-4BC88C' alt='under'>
-<img src='https://img.shields.io/badge/Update 🔥-2026.08.25-red' alt='MorePapers'>
+<img src='https://img.shields.io/badge/Update 🔥-2026.08.28-red' alt='MorePapers'>
 <a href='https://zhuanlan.zhihu.com/p/2672965087'>
 <img src='https://img.shields.io/badge/知乎-论文笔记-0084ff?style=flat&logo=zhihu&logoColor=yellow' alt='知乎文章'>
 </a>
@@ -202,7 +202,17 @@ Our paper has been accepted by TPAMI.🎉🎉🎉🎉🎉 Stay tuned for our upd
 
 ----
 
-**[2026/08/25] [V24.9 Vision](https://github.com/Winn1y/Awesome-Human-Motion-Video-Generation/): Update Methods.**
+**[2026/08/28] [V25.0 Vision](https://github.com/Winn1y/Awesome-Human-Motion-Video-Generation/): Update Methods.**
+
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2608.24674) TurboT2VA: Fast Large-Scale Text-to-Video-Audio Generation via Score-Regularized Consistency Distillation (Text, Text2MotionVideo)  【浙江大学、天津大学、清华大学、青岛大学、新加坡国立大学】
+
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2608.26714) LiveVVT: High-Fidelity Video Virtual Try-On in Real Time (Visual, Try-On Video Generation)  【清华、中关村学院、华南理工、北交大】
+
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2608.26517) HUG-VIS: A Multimodal Benchmark for Human-centered Understanding and Generation in Visual Intelligence (评估方法)  【广东省人工智能与数字经济实验室（深圳）；深圳大学；中科院自动化所；鹏城实验室；同济大学；清华大学；香港中文大学；特伦托大学；华为（深圳）】
+
+----
+
+[2026/08/25] [V24.9 Vision](https://github.com/Winn1y/Awesome-Human-Motion-Video-Generation/tree/24.9): Update Methods.
 
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2608.20749) Identity-Preserving Text-to-Video Generation via Agentic Enhancement and Semantic Repair (Text, Text2MotionVideo)  【北大王选所】
 
