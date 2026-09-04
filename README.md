@@ -12,10 +12,10 @@
 <img src='https://img.shields.io/badge/TechRxiv-PDF-green?style=flat&logo=TechRxiv&logoColor=green' alt='TechRxiv PDF'>
 </a>
 <img src='https://img.shields.io/badge/Awesome Survey-8A2BE2' alt='Survey'>
-<img src='https://img.shields.io/badge/Related Work-708+ Papers and 65+ Datasets-blue' alt='MorePapers'>
+<img src='https://img.shields.io/badge/Related Work-709+ Papers and 65+ Datasets-blue' alt='MorePapers'>
 <br>
 <img src='https://img.shields.io/badge/Accepted by TPAMI-4BC88C' alt='under'>
-<img src='https://img.shields.io/badge/Update 🔥-2026.09.03-red' alt='MorePapers'>
+<img src='https://img.shields.io/badge/Update 🔥-2026.09.04-red' alt='MorePapers'>
 <a href='https://zhuanlan.zhihu.com/p/2672965087'>
 <img src='https://img.shields.io/badge/知乎-论文笔记-0084ff?style=flat&logo=zhihu&logoColor=yellow' alt='知乎文章'>
 </a>
@@ -202,7 +202,13 @@ Our paper has been accepted by TPAMI.🎉🎉🎉🎉🎉 Stay tuned for our upd
 
 ----
 
-**[2026/09/03] [V25.2 Vision](https://github.com/Winn1y/Awesome-Human-Motion-Video-Generation/): Update Methods.**
+**[2026/09/04] [V25.3 Vision](https://github.com/Winn1y/Awesome-Human-Motion-Video-Generation/): Update Methods.**
+
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2609.04120) BooM-VVT: Boosting Mask-Free Video Virtual Try-On with Image-Level Pseudo Data (Visual, Try-On Video Generation)  【南理工、中科大、新国大、美团。】
+
+----
+
+[2026/09/03] [V25.2 Vision](https://github.com/Winn1y/Awesome-Human-Motion-Video-Generation/tree/25.2): Update Methods.
 
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2609.02367) The Missing Temporal Link: Temporal Context Routing for Script-Driven Audio-Video Generation (Audio, Audio-Driven Holistic Body Driving)  【北京大学；通义千问应用；香港科技大学；香港中文大学；上海交通大学】
 
