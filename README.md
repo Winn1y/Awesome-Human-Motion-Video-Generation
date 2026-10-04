@@ -12,10 +12,10 @@
 <img src='https://img.shields.io/badge/TechRxiv-PDF-green?style=flat&logo=TechRxiv&logoColor=green' alt='TechRxiv PDF'>
 </a>
 <img src='https://img.shields.io/badge/Awesome Survey-8A2BE2' alt='Survey'>
-<img src='https://img.shields.io/badge/Related Work-716+ Papers and 65+ Datasets-blue' alt='MorePapers'>
+<img src='https://img.shields.io/badge/Related Work-721+ Papers and 65+ Datasets-blue' alt='MorePapers'>
 <br>
 <img src='https://img.shields.io/badge/Accepted by TPAMI-4BC88C' alt='under'>
-<img src='https://img.shields.io/badge/Update 🔥-2026.09.25-red' alt='MorePapers'>
+<img src='https://img.shields.io/badge/Update 🔥-2026.10.04-red' alt='MorePapers'>
 <a href='https://zhuanlan.zhihu.com/p/2672965087'>
 <img src='https://img.shields.io/badge/知乎-论文笔记-0084ff?style=flat&logo=zhihu&logoColor=yellow' alt='知乎文章'>
 </a>
@@ -202,7 +202,21 @@ Our paper has been accepted by TPAMI.🎉🎉🎉🎉🎉 Stay tuned for our upd
 
 ----
 
-**[2026/09/25] [V25.7 Vision](https://github.com/Winn1y/Awesome-Human-Motion-Video-Generation/): Update Methods.**
+**[2026/10/04] [V25.8 Vision](https://github.com/Winn1y/Awesome-Human-Motion-Video-Generation/): Update Methods.**
+
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2609.35728) FlowAct-R2: Beyond Talking Avatar via Streaming Multimodal References and Proactive Agent Planning (Audio, Audio-Driven Holistic Body Driving)  【字节智能创作 】
+
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2609.30963) Where and When to Force: Routed Forcing for Streaming Avatars (Audio, Audio-Driven Holistic Body Driving)  【清华大学、京东未来学院、东南大学 】
+
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2609.38019) Beyond Lip Sync: Reference-Grounded Oral Refinement for Audio-Driven Portrait Animation (Audio, Lip Synchronization)  【加州大学欧文分校 】
+
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2609.36937) WeLike2Party! In-Context Motion Transfer for Multi-Human Image Animation (Visual, Video-Guided Dance Video Generation)  【延世大学、光州科学技术院 】
+
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2609.39273) MegaAvatar: Controllable Talking Avatar Generation (Audio, Audio-Driven Holistic Body Driving)  【腾讯、同济大学 】
+
+----
+
+[2026/09/25] [V25.7 Vision](https://github.com/Winn1y/Awesome-Human-Motion-Video-Generation/tree/25.7): Update Methods.
 
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2609.22264) Hi-Singers: A Comprehensive High-Quality Dataset for Expressive Audio-Driven Singing Head Synthesis (Audio, Audio-Driven Holistic Body Driving)  【中国科大】
 
