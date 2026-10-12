@@ -12,10 +12,10 @@
 <img src='https://img.shields.io/badge/TechRxiv-PDF-green?style=flat&logo=TechRxiv&logoColor=green' alt='TechRxiv PDF'>
 </a>
 <img src='https://img.shields.io/badge/Awesome Survey-8A2BE2' alt='Survey'>
-<img src='https://img.shields.io/badge/Related Work-723+ Papers and 65+ Datasets-blue' alt='MorePapers'>
+<img src='https://img.shields.io/badge/Related Work-724+ Papers and 65+ Datasets-blue' alt='MorePapers'>
 <br>
 <img src='https://img.shields.io/badge/Accepted by TPAMI-4BC88C' alt='under'>
-<img src='https://img.shields.io/badge/Update 🔥-2026.10.07-red' alt='MorePapers'>
+<img src='https://img.shields.io/badge/Update 🔥-2026.10.12-red' alt='MorePapers'>
 <a href='https://zhuanlan.zhihu.com/p/2672965087'>
 <img src='https://img.shields.io/badge/知乎-论文笔记-0084ff?style=flat&logo=zhihu&logoColor=yellow' alt='知乎文章'>
 </a>
@@ -202,7 +202,14 @@ Our paper has been accepted by TPAMI.🎉🎉🎉🎉🎉 Stay tuned for our upd
 
 ----
 
-**[2026/10/07] [V25.9 Vision](https://github.com/Winn1y/Awesome-Human-Motion-Video-Generation/): Update Methods.**
+
+**[2026/10/12] [V26.0 Vision](https://github.com/Winn1y/Awesome-Human-Motion-Video-Generation/): Update Methods.**
+
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2610.13301) PAGE: Parts-Aware Guidance for Co-Speech Gesture Portrait Video Generation (Audio, Audio-Driven Holistic Body Driving)  【浙大】
+
+----
+
+[2026/10/07] [V25.9 Vision](https://github.com/Winn1y/Awesome-Human-Motion-Video-Generation/tree/25.9): Update Methods.
 
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2610.06658) Talk Like You: Imitating How You Speak in Real-Time Talking Head Generation (Audio, Lip Synchronization)  【中科院自动化所（MAIS）；国科大人工智能学院；中科院香港创新研究院（CAIR）；澳科大（SCSE/FIE） 】
 
