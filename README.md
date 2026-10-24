@@ -12,10 +12,10 @@
 <img src='https://img.shields.io/badge/TechRxiv-PDF-green?style=flat&logo=TechRxiv&logoColor=green' alt='TechRxiv PDF'>
 </a>
 <img src='https://img.shields.io/badge/Awesome Survey-8A2BE2' alt='Survey'>
-<img src='https://img.shields.io/badge/Related Work-724+ Papers and 65+ Datasets-blue' alt='MorePapers'>
+<img src='https://img.shields.io/badge/Related Work-731+ Papers and 65+ Datasets-blue' alt='MorePapers'>
 <br>
 <img src='https://img.shields.io/badge/Accepted by TPAMI-4BC88C' alt='under'>
-<img src='https://img.shields.io/badge/Update 🔥-2026.10.12-red' alt='MorePapers'>
+<img src='https://img.shields.io/badge/Update 🔥-2026.10.24-red' alt='MorePapers'>
 <a href='https://zhuanlan.zhihu.com/p/2672965087'>
 <img src='https://img.shields.io/badge/知乎-论文笔记-0084ff?style=flat&logo=zhihu&logoColor=yellow' alt='知乎文章'>
 </a>
@@ -202,8 +202,25 @@ Our paper has been accepted by TPAMI.🎉🎉🎉🎉🎉 Stay tuned for our upd
 
 ----
 
+**[2026/10/24] [V26.1 Vision](https://github.com/Winn1y/Awesome-Human-Motion-Video-Generation/): Update Methods.**
 
-**[2026/10/12] [V26.0 Vision](https://github.com/Winn1y/Awesome-Human-Motion-Video-Generation/): Update Methods.**
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2610.17532) CrossPortrait: Cross-Species Portrait Animation via Adversarial Motion Alignment (Visual, Video-Guided Dance Video Generation)  【中科大；深圳河套学院；华为；复旦大学 】
+
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2610.14445) FreeCHROMA: Generative Chroma Keying from Unaligned Background References (Visual, Video-Guided Dance Video Generation)  【马里兰大学帕克分校；亚马逊；亚利桑那州立大学 】
+
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2610.22499) JAVIS: Joint Audio-Visual Interaction and Streaming for Real-Time Conversational Agents (Audio, Audio-Driven Holistic Body Driving)  【韩国科学技术院（KAIST）；韩国中央大学 】
+
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2610.23558) LiveSync: Iterative Self-Training for Lip-Sync Generation (Audio, Lip Synchronization)  【京东科技（JD Technology） 】
+
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2610.26801) Mise-en-Video: Fine-Grained 3D Control for Multi-Shot Video Generation (Text, Text2MotionVideo)  【港科大；快手可灵（KlingAI Research）；港中大；西北工大；大连理工 】
+
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2610.26681) From Short Clips to Real-Time Streams: Identity-Aware Supervision and Context-Efficient Generation for Video Face Swapping (Visual, Video-Guided Dance Video Generation)  【浙大；浙工大 】
+
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2610.27947) Edit in Sync: Unified End-to-End Audio-Visual Editing for Human-Centric Videos (Audio, Audio-Driven Holistic Body Driving)  【港大、国防科大、快手可灵AI、北大、港中文、清华 】
+
+----
+
+[2026/10/12] [V26.0 Vision](https://github.com/Winn1y/Awesome-Human-Motion-Video-Generation/tree/26.0): Update Methods.
 
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2610.13301) PAGE: Parts-Aware Guidance for Co-Speech Gesture Portrait Video Generation (Audio, Audio-Driven Holistic Body Driving)  【浙大】
 
