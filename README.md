@@ -12,10 +12,10 @@
 <img src='https://img.shields.io/badge/TechRxiv-PDF-green?style=flat&logo=TechRxiv&logoColor=green' alt='TechRxiv PDF'>
 </a>
 <img src='https://img.shields.io/badge/Awesome Survey-8A2BE2' alt='Survey'>
-<img src='https://img.shields.io/badge/Related Work-733+ Papers and 65+ Datasets-blue' alt='MorePapers'>
+<img src='https://img.shields.io/badge/Related Work-738+ Papers and 65+ Datasets-blue' alt='MorePapers'>
 <br>
 <img src='https://img.shields.io/badge/Accepted by TPAMI-4BC88C' alt='under'>
-<img src='https://img.shields.io/badge/Update 🔥-2026.10.30-red' alt='MorePapers'>
+<img src='https://img.shields.io/badge/Update 🔥-2026.11.10-red' alt='MorePapers'>
 <a href='https://zhuanlan.zhihu.com/p/2672965087'>
 <img src='https://img.shields.io/badge/知乎-论文笔记-0084ff?style=flat&logo=zhihu&logoColor=yellow' alt='知乎文章'>
 </a>
@@ -202,7 +202,22 @@ Our paper has been accepted by TPAMI.🎉🎉🎉🎉🎉 Stay tuned for our upd
 
 ----
 
-**[2026/10/30] [V26.2 Vision](https://github.com/Winn1y/Awesome-Human-Motion-Video-Generation/): Update Methods.**
+**[2026/11/10] [V26.3 Vision](https://github.com/Winn1y/Awesome-Human-Motion-Video-Generation/): Update Methods.**
+
+
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2611.03394) TaoMate-HD: Progressive-Resolution Autoregressive Audio-Video Generation (Audio, Audio-Driven Holistic Body Driving)  【阿里巴巴集团；南京大学 】
+
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2611.02964) One Image Is Enough: Self-Generated Supervision for Personalizing Human Video Diffusion at Test Time (Visual, Pose-Guided Dance Video Generation)  【康考迪亚大学；Mila（魁北克人工智能研究所） 】
+
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2611.07481) Compact Motion Embeddings for Feed-forward Unified Human Animation (Visual, Pose-Guided Dance Video Generation)  【NVIDIA；Seoul National University 】
+
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2611.09074) Emo-LiveSync: Real-Time Universal Lip Synchronization with Explicit Emotion Control (Audio, Lip Synchronization)  【Klleon AI Research（韩国首尔）；Sungkyunkwan University（韩国水原） 】
+
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2611.09960) SceneShifter: Training-free Multi-Scene Temporal Control for Audio-driven Human Animation (Audio, Audio-Driven Holistic Body Driving)  【悉尼大学；南洋理工大学（生成式AI实验室）；威斯康星大学麦迪逊分校 】
+
+----
+
+[2026/10/30] [V26.2 Vision](https://github.com/Winn1y/Awesome-Human-Motion-Video-Generation/tree/26.2): Update Methods.
 
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2610.33135) WorldCast: World-Consistent Character Video Generation with Large-Angle Camera Control (Visual, Video-Guided Dance Video Generation)  【武汉大学电子信息学院；小米 MiLM Plus；武汉大学机器人学院 】
 
